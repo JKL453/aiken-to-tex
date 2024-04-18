@@ -33,8 +33,6 @@ C) hat das Gemisch die Summe der ursprünglichen Wärmeenergien.
 D) hat das Gemisch eine Wärmeenergie kleiner als die Wärmeenergie von einer der Ausgangsmengen.
 E) hat das Gemisch die vierfache Wärmeenergie wie eine der Ausgangsmengen.
 ANSWER: C
-<<<<<<< HEAD
-=======
 Wenn eine warme und eine kalte Flüssigkeitsmenge gleicher Art gemischt werden, dann hat das Gemisch
 A) eine spezifische Wärmekapazität etwa gleich der Summe der spezifischen Wärmekapazitäten der beiden Flüssigkeiten.
 B) die halbe spezifische Wärmekapazität der kalten Flüssigkeit.
@@ -56,4 +54,3 @@ C) eine Temperatur, die der Summe der Temperaturen der warmen und der kalten Fl�
 D) eine Temperatur, die der Differenz der Temperaturen der warmen und der kalten Flüssigkeit entspricht.
 E) die Temperatur der kalten Flüssigkeit.
 ANSWER: A
->>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854

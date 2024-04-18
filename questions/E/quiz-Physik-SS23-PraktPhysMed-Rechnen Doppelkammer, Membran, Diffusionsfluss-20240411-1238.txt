@@ -47,8 +47,6 @@ C) \( J = 1,00 \frac{mg}{s} \) 
 D) \( J = 1,50 \frac{mg}{s} \) 
 E) \( J = 0,50 \frac{mg}{s} \) 
 ANSWER: E
-<<<<<<< HEAD
-=======
 In einer Doppelkammer, auf deren einer Seite eine Konzentration von 25 \(\frac{mg}{l} \) und auf der anderen von 5 \(  \frac{mg}{l} \) herrscht  und die durch eine Membran der Dicke 100 \(\mu \)m geteilt ist, herrscht ein Diffusionsfluss von 8  \( \frac{mg}{min}\). Wie groß ist der Diffusionsfluss, wenn die Konzentration auf der einen Seite von 5 \(  \frac{mg}{l} \)   auf 20 \(  \frac{mg}{l} \)  erhöht wird?
 A) 4 \( \frac{mg}{min} \)
 B) 16 \( \frac{mg}{min} \)
@@ -84,4 +82,3 @@ C) 30,3 \( \frac{g}{cm^4} \) 
 D) 30 \( \frac{g}{cm^4} \)
 E) 29,7 \( \frac{g}{cm^4} \)
 ANSWER: E
->>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854

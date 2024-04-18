@@ -40,8 +40,6 @@ C) Comptoneffekt
 D) Hall-Effekt
 E) Fotoeffekt
 ANSWER: B
-<<<<<<< HEAD
-=======
 Der piezoelektrische Effekt...
 A) bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung sehr stark erwärmt.
 B) bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung mechanisch verformt.
@@ -70,4 +68,3 @@ C) 2000 Hz
 D) 16 kHz
 E) 16 MHz
 ANSWER: B
->>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854

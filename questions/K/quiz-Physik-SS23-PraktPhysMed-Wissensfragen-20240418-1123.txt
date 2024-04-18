@@ -25,9 +25,6 @@ B) alpha-Strahlung ist immer positiv geladen.
 C) Elektromagnetische Wellenstrahlung kommt in der Natur nicht vor, sondern kann nur künstlich erzeugt werden (z.B. Röntgenröhre).
 D) gamma-Strahlung ist immer ungeladen.
 E) Beim \( \beta^- \)-Zerfall wird u.a. eine Elektron emittiert.
-<<<<<<< HEAD
-ANSWER: C
-=======
 ANSWER: C
 Welche Aussage ist richtig?
 A) Bei der \( \gamma \)-Umwandlung wird die freiwerdende Energie auf zwei Teilchen, ein Elektron und ein Antineutrino, aufgeteilt.
@@ -50,4 +47,3 @@ C) \( \beta^+ \)-Zerfall - Proton
 D) \( \gamma \)-Umwandlung - elektromagnetische Welle
 E) \( \beta^- \)-Zerfall - Antineutrino
 ANSWER: C
->>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854
