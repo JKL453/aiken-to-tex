@@ -1,0 +1,35 @@
+Was ist keine Wechselwirkung von radioaktiver Strahlung mit Materie?
+A) Compton-Effekt
+B) Photo-Effekt
+C) Stoßionisation
+D) Piezo-Effekt
+E) Alle sind richtig
+ANSWER: D
+Das Schwächungsgesetz beschreibt den Zusammenhang zwischen Intensität der Strahlung und Absorberdicke. Der Zusammenhang zwischen diesen Größen ist ...
+A) proportional.
+B) antiproportional.
+C) quadratisch.
+D) exponentiell.
+E) keine der Antworten ist richtig.
+ANSWER: D
+Das Abstandsgesetz beschreibt den Zusammenhang zwischen der Intensität der Strahlung und dem räumlichen Abstand r. Die Intensität ist ...
+A) proportional zu r.
+B) antiproportional zu r.
+C) proportional zu \( \dfrac{1}{r^2} \).
+D) exponentiell von r abhängig.
+E) proportional zu r².
+ANSWER: C
+Das Zerfallsgesetz beschreibt den Zusammenhang zwischen der Aktivität einer radioaktiven Quelle und der Zeit. Der Zusammenhang zwischen diesen Größen ist ...
+A) proportional.
+B) antiproportional.
+C) quadratisch.
+D) exponentiell.
+E) keine der Antworten ist richtig.
+ANSWER: D
+Welche Strahlungsart hat die kleinste Reichweite in Materie (bei gleicher Energie)?
+A) gamma-Strahlung
+B) alpha-Strahlung
+C) \( \beta^- \)-Strahlung
+D) Röntgenstrahlung
+E) \( \beta^+ \)-Strahlung
+ANSWER: B

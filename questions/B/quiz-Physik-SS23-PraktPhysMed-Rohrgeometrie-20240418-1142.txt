@@ -1,0 +1,28 @@
+Wenn der Durchmesser eines Rohres halbiert wird, dann
+A) wird auch die Länge geviertelt.
+B) wird der Durchmesser auch geviertelt.
+C) wird der Radius halbiert.
+D) bleibt der Durchmesser unverändert.
+E) verdoppelt sich der Radius.
+ANSWER: C
+Wenn die Querschnittsfläche eines Rohres viermal kleiner wird, dann
+A) wird der Radius halbiert.
+B) wird auch die Länge geviertelt.
+C) wird der Radius verdoppelt.
+D) wird der Durchmesser auch geviertelt.
+E) bleibt der Durchmesser unverändert.
+ANSWER: A
+Wenn der Radius eines Rohres verdoppelt wird, dann
+A) verdoppelt sich auch die Länge.
+B) verdoppelt sich auch die Querschnittsfläche.
+C) verdoppelt sich auch der Durchmesser.
+D) vervierfacht sich auch der Durchmesser.
+E) vervierfacht sich auch die Länge.
+ANSWER: C
+Welcher Zusammenhang besteht zwischen Druck, Kraft und Fläche?
+A) Kraft ist gleich Druck pro Fläche.
+B) Kraft ist gleich Fläche pro Druck.
+C) Druck ist gleich Kraft pro Fläche.
+D) Druck ist gleich Kraft mal Fläche.
+E) Fläche ist gleich Kraft mal Druck.
+ANSWER: C

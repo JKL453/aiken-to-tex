@@ -1,0 +1,53 @@
+Was hat keinen Einfluss auf die gemessene Zählrate?
+A) Abstand zur Quelle
+B) Absorberdicke
+C) Absorbermaterial
+D) Aktivität der Quelle
+E) Temperatur
+ANSWER: E
+Welche Aussage zur Absorption ist falsch?
+A) Die Schwächung von Strahlung hängt von der Ordnungszahl des Absorbers ab.
+B) Die Schwächung von Strahlung hängt von der Dichte des Absorbers ab.
+C) Die Schwächung von Strahlung durch einen Absorber hängt von der Energie der Strahlung ab.
+D) Die Halbwertsdicke eines Materials hängt von seiner Dichte ab.
+E) Die Halbwertsdicke eines Materials ist unabhängig von der Energie der untersuchten Strahlung.
+ANSWER: E
+Welche Aussage zum Abstandsgesetz ist falsch?
+A) In Vakuum ist die Zählrate unabhängig vom Abstand, da keine Absorption (z.B. durch Luft) stattfindet.
+B) Die Zählrate ist größer, wenn der Abstand kleiner wird.
+C) Das Abstandsgesetz gilt bei isotrop emittierter Strahlung.
+D) Bei dreifachem Abstand ist mit gleicher Detektorgröße nur noch ein Neuntel der Zählrate messbar.
+E) Die gesamte Strahlung verteilt sich mit zunehmenden Abstand auf eine größere Fläche.
+ANSWER: A
+Welche Aussage ist falsch?
+A) Teilchenstrahlung kann als Folge eines radioaktiven Zerfalls entstehen.
+B) alpha-Strahlung ist immer positiv geladen.
+C) Elektromagnetische Wellenstrahlung kommt in der Natur nicht vor, sondern kann nur künstlich erzeugt werden (z.B. Röntgenröhre).
+D) gamma-Strahlung ist immer ungeladen.
+E) Beim \( \beta^- \)-Zerfall wird u.a. eine Elektron emittiert.
+<<<<<<< HEAD
+ANSWER: C
+=======
+ANSWER: C
+Welche Aussage ist richtig?
+A) Bei der \( \gamma \)-Umwandlung wird die freiwerdende Energie auf zwei Teilchen, ein Elektron und ein Antineutrino, aufgeteilt.
+B) Bei der \( \gamma \)-Umwandlung entsteht ein Elektron als freies Teilchen.
+C) Beim \( \alpha^- \)-Zerfall entsteht ein negativ geladener Heliumkern als freies Teilchen.
+D) Beim \( \beta \)-Zerfall entsteht kein freies Teilchen sondern eine elektromagnetische Welle, die Betawelle.
+E) Beim \( \beta \)-Zerfall wandelt sich ein Neutron in ein Proton um.
+ANSWER: E
+Welche Aussage ist falsch?
+A) Elektronen verlieren ihre Energie nur durch Stoßionisationen.
+B)  Beim Photoeffekt entsteht Sekundärstrahlung.
+C) Beim Comptoneffekt entsteht Sekundärstrahlung.
+D) Stoßionisation kommt z.B. in einem Geiger-Müller-Zählrohr vor.
+E) Gammastrahlung kann z.B. durch den Photoeffekt absorbiert werden.
+ANSWER: A
+Welche Zuordnung von Zerfallsart und frei werdendem Teilchen ist falsch?
+A) \( \alpha \)-Zerfall - Heliumkern
+B) \( \beta^- \)-Zerfall - Elektron
+C) \( \beta^+ \)-Zerfall - Proton
+D) \( \gamma \)-Umwandlung - elektromagnetische Welle
+E) \( \beta^- \)-Zerfall - Antineutrino
+ANSWER: C
+>>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854

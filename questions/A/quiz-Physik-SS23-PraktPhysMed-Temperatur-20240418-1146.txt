@@ -1,0 +1,59 @@
+Die Temperatur eines Körpers
+A) wächst linear mit der Masse des Körpers.
+B) wächst quadratisch mit der Masse des Körpers.
+C) hängt mit der Wärmeenergie des Körpers zusammen.
+D) wächst quadratisch mit dem Volumen des Körpers.
+E) ist umgekehrt proportional zur Wärmeenergie des Körpers.
+ANSWER: C
+Sie wollen abschätzen, wie stark sich die Körpertemperatur eines ruhenden Patienten zwischen zwei Fiebermessungen erhöhen kann.Welche der folgenden Größen ist dafür nicht von Bedeutung?
+A) Die Schmelzwärme von Eis.
+B) Der Grundumsatz des Patienten.
+C) Der zeitliche Abstand zwischen den Temperaturmessungen.
+D) Das Gewicht (die Masse) des Patienten.
+E) Die spezifische Wärmekapazität von Wasser.
+ANSWER: A
+Welche der folgenden Aussagen ist FALSCH?
+A) Eine Temperaturdifferenz von 1 K entspricht einer Temperaturdifferenz von 1\(^\circ\)C.
+B) Für die spezifische Wärmekapazität eines Körpers muß man unterschiedliche Werte verwenden, je nachdem, ob man mit Kelvin oder mit Grad Celsius rechnet.
+C) Eine Temperatur von 0 K entspricht einer Temperatur von etwa -273,15\(^\circ\)C.
+D) Physikalische Ausdrücke, die die absolute Temperatur enthalten, erfordern Angaben in der Kelvinskala.
+E) Für Temperaturdifferenzen erhält man mit der Kelvin- und der Celsiusskala die gleichen Werte.
+ANSWER: B
+Wenn zwei in jeder Hinsicht identische Flüssigkeitsmengen gemischt werden, dann
+A) ist die Temperatur des Gemisches doppelt so groß wie die Ausgangstemperatur.
+B) ist die Temperatur des Gemisches genauso groß wie die Ausgangstemperatur.
+C) ist die Temperatur des Gemisches größer als die Ausgangstemperatur.
+D) ist die Temperatur des Gemisches kleiner als die Ausgangstemperatur.
+E) ist die Temperatur des Gemisches halb so groß wie die Ausgangstemperatur.
+ANSWER: B
+Wenn zwei gleich große Mengen einer Flüssigkeit mit gleicher Temperatur gemischt werden, dann
+A) hat das Gemisch die gleiche Wärmeenergie wie jede der Ausgangsmengen.
+B) hat das Gemisch die halbe Wärmeenergie wie eine der Ausgangsmengen.
+C) hat das Gemisch die Summe der ursprünglichen Wärmeenergien.
+D) hat das Gemisch eine Wärmeenergie kleiner als die Wärmeenergie von einer der Ausgangsmengen.
+E) hat das Gemisch die vierfache Wärmeenergie wie eine der Ausgangsmengen.
+ANSWER: C
+<<<<<<< HEAD
+=======
+Wenn eine warme und eine kalte Flüssigkeitsmenge gleicher Art gemischt werden, dann hat das Gemisch
+A) eine spezifische Wärmekapazität etwa gleich der Summe der spezifischen Wärmekapazitäten der beiden Flüssigkeiten.
+B) die halbe spezifische Wärmekapazität der kalten Flüssigkeit.
+C) eine spezifische Wärmekapazität, die ähnlich groß wie die spezifischen Wärmekapazität der kalten oder der warmen Flüssigkeit ist.
+D) die doppelte spezifische Wärmekapazität der kalten Flüssigkeit.
+E) die halbe spezifische Wärmekapazität der warmen Flüssigkeit.
+ANSWER: C
+Welche der folgenden Einheiten ist die SI-Einheit für die ABSOLUTE Temperatur?
+A) Grad Celsius
+B) Joule
+C) Watt
+D) Kilogramm
+E) Kelvin
+ANSWER: E
+Wenn warme und kalte Flüssigkeiten in gleichen Mengen gemischt werden, dann hat das Gemisch
+A) eine Temperatur, die zwischen beiden Temperaturen liegt.
+B) die Temperatur der warmen Flüssigkeit.
+C) eine Temperatur, die der Summe der Temperaturen der warmen und der kalten Flüssigkeit entspricht.
+D) eine Temperatur, die der Differenz der Temperaturen der warmen und der kalten Flüssigkeit entspricht.
+E) die Temperatur der kalten Flüssigkeit.
+ANSWER: A
+>>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854

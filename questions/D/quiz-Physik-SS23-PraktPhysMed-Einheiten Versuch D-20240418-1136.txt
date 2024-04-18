@@ -1,0 +1,35 @@
+In welchen Einheiten werden üblicherweise die Membranzeitkonstante, die Membranlängskonstante und die Reizleitgeschwindigkeit angegeben?
+A) Membranzeitkonstante in \(\mathrm{s^{-1}}\), Membranlängskonstante in \(\mathrm{mm^{-1}}\), Reizleitgeschwindigkeit in \(\mathrm{m/s}\)
+B) Membranzeitkonstante in \(\mathrm{s}\), Membranlängskonstante in \(\mathrm{mm}\), Reizleitgeschwindigkeit in \(\mathrm{m/s}\)
+C) Membranzeitkonstante und Membranlängskonstante haben keine Einheit, Reizleitgeschwindigkeit in \(\mathrm{m/s}\)
+D) Membranzeitkonstante in \(\mathrm{s^{-1}}\), Membranlängskonstante in \(\mathrm{mm^{-1}}\), Reizleitgeschwindigkeit in \(\mathrm{V/s}\)
+E) Membranzeitkonstante in \(\mathrm{s}\), Membranlängskonstante in \(\mathrm{mm}\), Reizleitgeschwindigkeit in \(\mathrm{V/s}\)
+ANSWER: B
+An einem Kondensator liegt eine Spannung von \(\mathrm{100\,kV}\) an. Er speichert dabei eine Ladung von \(\mathrm{100\,mC}\). Wie groß ist seine Kapazität?
+A) \(\mathrm{10\,\mu F}\)
+B) \(\mathrm{1\,\mu F}\)
+C) \(\mathrm{10\,kF}\)
+D) \(\mathrm{10\,GF}\)
+E) \(\mathrm{1\,F}\)
+ANSWER: B
+An einem Kondensator liegt eine Spannung von \(\mathrm{100\,V}\) an. Er speichert dabei eine Ladung von \(\mathrm{100\,mC}\). Wie groß ist seine Kapazität?
+A) \(\mathrm{10\,F}\)
+B) \(\mathrm{1\,mF}\)
+C) \(\mathrm{10\,kF}\)
+D) \(\mathrm{1\,kF}\)
+E) \(\mathrm{1\,F}\)
+ANSWER: B
+Eine Schwingung vollführt in 100 ms genau 10 vollständige Perioden. Wie groß ist die Frequenz?
+A) \(\mathrm{100\,\mu Hz}\)
+B) \(\mathrm{100\,mHz}\)
+C) \(\mathrm{100\,Hz}\)
+D) \(\mathrm{100\,kHz}\)
+E) \(\mathrm{100\,MHz}\)
+ANSWER: C
+Eine Schwingung vollführt in 10 ms genau 100 vollständige Perioden. Wie groß ist die Frequenz?
+A) \(\mathrm{10\,\mu Hz}\)
+B) \(\mathrm{10\,mHz}\)
+C) \(\mathrm{10\,Hz}\)
+D) \(\mathrm{10\,kHz}\)
+E) \(\mathrm{10\,MHz}\)
+ANSWER: D

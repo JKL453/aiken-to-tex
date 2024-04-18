@@ -1,0 +1,56 @@
+Die Leitfähigkeit von 15 ml Salzlösung wird zu 4,4 \( \frac{\mu S}{cm} \) bestimmt. Diese Salzlösung wird nun mit destilliertem Wasser auf 60 ml aufgefüllt. Welche Leitfähigkeit wird nun gemessen?
+A) 2,2 \(   \frac{\mu S}{cm}  \)
+B) 3,3 \(   \frac{\mu S}{cm}  \)
+C) 4,4 \(   \frac{\mu S}{cm}  \)
+D) 8,8 \(   \frac{\mu S}{cm}  \)
+E) 1,1 \(   \frac{\mu S}{cm}  \)
+ANSWER: E
+Die Leitfähigkeit von 15 ml Salzlösung wird zu 6 \( \frac{\mu S}{cm} \) bestimmt. Diese Salzlösung wird nun mit destilliertem Wasser auf 60 ml aufgefüllt. Welche Leitfähigkeit wird nun gemessen?
+A) \( \frac{3}{6} \)  \( \frac{\mu S}{cm} \)
+B) 6,75  \( \frac{\mu S}{cm} \)
+C) 4,25  \( \frac{\mu S}{cm} \)
+D) \( \frac{4}{6} \)  \( \frac{\mu S}{cm} \)
+E) \( \frac{6}{4} \)  \( \frac{\mu S}{cm} \)
+ANSWER: E
+Die Leitfähigkeit von 20 ml Salzlösung wird zu 6,0 \( \frac{\mu S}{cm} \) bestimmt. Auf welches Gesamtvolumen muss man mit destilliertem Wasser auffüllen, um eine Leitfähigkeit von 1,0 \( \frac{\mu S}{cm} \) zu messen?
+A) 30 ml
+B) 70 ml
+C) 100 ml
+D) 80 ml
+E) 120 ml
+ANSWER: E
+Die Leitfähigkeit von 20 ml Salzlösung wird zu 5,0 \( \frac{\mu S}{cm} \) bestimmt. Welches Volumen an destilliertem Wasser muss zugeführt werden, um eine Leitfähigkeit von 10,0 \( \frac{\mu S}{cm} \) zu messen?
+A) 0 ml
+B) 10 ml
+C) 20 ml
+D) 30 ml
+E) keine Antwort richtig
+ANSWER: E
+Die Leitfähigkeit von 60 ml Salzlösung wird zu 6,0 \( \frac{\mu S}{cm} \) bestimmt. Welches Volumen an destilliertem Wasser muss zugeführt werden, um eine Leitfähigkeit von 4,0 \( \frac{\mu S}{cm} \) zu messen?
+A) 0 ml
+B) 20 ml
+C) 40 ml
+D) 60 ml
+E) 30 ml
+ANSWER: E
+Die Leitfähigkeit von 120 ml Salzlösung wird zu 9,0 \( \frac{\mu S}{cm} \) bestimmt. Welche Leitfähigkeit wird gemessen, nachdem 60 ml destilliertes Wasser hinzugefügt wurden?
+A) 0,0 \( \frac{\mu S}{cm} \)
+B) 3,0 \( \frac{\mu S}{cm} \)
+C) 4,5 \( \frac{\mu S}{cm} \)
+D) 12,0 \( \frac{\mu S}{cm} \)
+E) 6,0 \( \frac{\mu S}{cm} \)
+ANSWER: E
+Die Leitfähigkeit von 30 ml Salzlösung wird zu 15,0 \( \frac{\mu S}{cm} \) bestimmt. Diese Salzlösung wird nun mit destilliertem Wasser auf 90 ml aufgefüllt. Welche Leitfähigkeit wird nun gemessen?
+A) 45,0 \( \frac{\mu S}{cm} \)
+B) 60,0 \( \frac{\mu S}{cm} \)
+C) 15,0 \( \frac{\mu S}{cm} \)
+D) 1,5 \( \frac{\mu S}{cm} \)
+E) 5,0 \( \frac{\mu S}{cm} \)
+ANSWER: E
+Die Leitfähigkeit von 30 ml Salzlösung wird zu 5,0 \( \frac{\mu S}{cm} \) bestimmt. Welches Volumen an destilliertem Wasser muss zugeführt werden, um eine Leitfähigkeit von 3,0 \( \frac{\mu S}{cm} \) zu messen?
+A) 0 ml
+B) 30 ml
+C) 40 ml
+D) 60 ml
+E) 20 ml
+ANSWER: E

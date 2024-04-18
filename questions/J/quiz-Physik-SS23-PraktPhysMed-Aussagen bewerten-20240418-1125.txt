@@ -1,0 +1,70 @@
+Welche Aussage zur medizinischen Anwendung von Ultraschall ist richtig?
+A) Die Anwendung von Ultraschall in der Medizin ist grundsätzlich unbedenklich, da diese Technik für menschliches Gewebe immer unschädlich ist.
+B) Ultraschall wird in der Medizin ausschließlich zur Diagnostik angewendet.
+C) Mittels Dopplersonographie können Blutgefäße untersucht werden.
+D) Mittels Dopplersonographie erhöht sich die räumliche Auflösung von z.B. Leberuntersuchungen, da hier das Gewebe "doppelt" untersucht wird.
+E) Die Frequenz von medizinischem Ultraschall liegt deutlich unterhalb der Frequenz des hörbaren Bereichs, weshalb wir Ultraschall nicht hören können.
+ANSWER: C
+Welche Aussage zum Oszilloskop ist richtig?
+A) Ändert man die Zeitvorwahl am Oszilloskop, so ändert sich dadurch die Frequenz des Signals.
+B) Ändert man die Zeitvorwahl am Oszilloskop, so ändert sich dadurch die Periodendauer des Signals.
+C) Ändert man die Zeitvorwahl am Oszilloskop, so ändert sich dadurch die Wellenlänge des Signals.
+D) Mit dem Oszilloskop können periodische Signale graphisch dargestellt werden.
+E) Mit dem Oszilloskop können Schallwellen im hörbaren Frequenzbereich erzeugt werden.
+ANSWER: D
+Welche Aussagen zum Piezoeffekt sind zutreffend?	* Durch Anlegen einer elektrischen Spannung verformt sich ein Piezo-Kristall.	* Wird ein Piezo-Kristall mechanisch verformt, entsteht ein Spannungssignal.	* Die Form eines Piezo-Kristalls ist unabhängig von der anliegenden Spannung.
+A) Nur Aussage 1 ist richtig.
+B) Nur Aussage 2 ist richtig.
+C) Nur Aussage 3 ist richtig.
+D) Nur Aussage 3 ist falsch.
+E) Nur Aussage 1 ist falsch.
+ANSWER: D
+Welche Aussage zur Resonanzfrequenz ist richtig?
+A) Wird ein schwingendes System mit seiner Resonanzfrequenz angeregt, erhöht sich die Amplitude der Schwingung sehr stark.
+B) Die Resonanzfreuqenz ist die Frequenz, die entsteht, wenn zwei Schallwellen sich phasengleich überlagern.
+C) Die Resonanzfrequenz ist die Frequenz, bei der eine Totalrefexion erfolgt. 
+D) Trifft eine Schallwelle auf einen Körper (z.B. eine Wand), so entsteht durch Reflexion ein Echo. Mit Resonanzfrequenz bezeichnet man die Frequenz des Echos.
+E) keine Antwort ist richtig.
+ANSWER: A
+Aussage zur Schallausbreitung ist falsch?
+A) Bleibt das Medium unverändert, ist die Schallgeschwindigkeit konstant
+B) Bleibt das Medium unverändert, ist die Wellenlänge umso kleiner, je größer die Frequenz ist
+C) Bleibt das Medium unverändert, ist die Wellenlänge umso größer, je kleiner die Frequenz ist
+D) Ändert sich die Ausbreitungsgeschwindigkeit an der Grenze zu einem anderen Medium, so bleibt die Frequenz einer Schallwelle konstant
+E) Ändert sich die Ausbreitungsgeschwindigkeit an der Grenze zu einem anderen Medium, so bleibt die Wellenlänge einer Schallwelle konstant
+ANSWER: E
+Zwei Schallwellen breiten sich gleichzeitig in unterschiedlichen Medien aus. Welche Aussage ist richtig?
+A) Wenn beide Wellen die gleiche Frequenz haben, dann haben sie auch die gleiche Periodendauer.
+B) Wenn beide Wellen die gleiche Periodendauer haben, dann haben sie auch die gleiche Wellenlänge.
+C) Wenn beide Wellen die gleiche Frequenz haben, dann haben sie auch die gleiche Wellenlänge.
+D) Wenn beide Wellen die gleiche Frequenz haben, dann haben sie auch die gleiche Schallgeschwindigkeit.
+E) Wenn beide Wellen die gleiche Wellenlänge haben, dann haben sie auch die gleiche Schallgeschwindigkeit.
+ANSWER: D
+Welche Aussagen zur Schallerzeugung und -ausbreitung sind zutreffend?	* Schallwellen können mit einem Piezo-Kristall erzeugt werden.	* Schallwellen können durch schwingende Membranen erzeugt werden.	* Die Schallgeschwindigkeit ist in Vakuum höher als in Luft, da die Schallwellen nicht durch Luftmoleküle gebremst werden.	* In Festkörpern ist die Schallgeschwindigkeit kleiner als in Luft, da die Moleküle nicht so schnell ausgelenkt werden können. 
+A) Nur Ausage 1 und 2 sind richtig.
+B) Nur Ausage 2 und 3 sind richtig.
+C) Nur Ausage 2 und 4 sind richtig.
+D) Nur Ausage 1 und 3 sind richtig.
+E) Nur Ausage 3 und 4 sind richtig.
+ANSWER: A
+Welche Aussage zu Schallwellen ist richtig?
+A) Die Wellenlänge bezeichnet die Zeit zwischen zwei Schalldruckmaxima an einem festen Ort.
+B) Die Frequenz bezeichnet die Strecke zwischen zwei Schalldruckmaxima.
+C) Die Schalldruckamplitude einer Schallwelle bezeichnet die Differenz zwischen maximalem und minimalem Schalldruck.
+D) Die Wellenlänge wird in der Einheit Hertz (Hz) angegeben.
+E) Bei Longitudinalwellen erfolgt die Auslenkung der Teilchen parallel zur Ausbreitungsrichtung.
+ANSWER: E
+Welche der folgenden Aussagen zu Schallwellen treffen zu?	* Schallwellen sind elektromagnetische Wellen.	* Schallwellen und sichtbares Licht sind physikalisch gleich, sie unterscheiden sich nur durch ihre Frequenz.	* Schallwellen sind periodische Druckänderungen.	* Ultraschallwellen und hörbarer Schall unterscheiden sich nur durch ihre Frequenz.
+A) Alle 4 Aussagen sind richtig.
+B) Nur Aussage 2 ist falsch
+C) Aussage 1 und 3 sind richtig.
+D) Nur Aussage 2 und 4 sind richtig.
+E) Nur Aussage 3 und 4 sind richtig.
+ANSWER: E
+Welche Aussagen zur Ultraschalldiagnostik sind zutreffend?	* Ultraschallgeräte funktionieren nach dem Prinzip der Laufzeitbestimmung  von Ultraschallpulsen.	* Trifft ein Ultraschallpuls auf eine Grenzfläche zwischen zwei Medien, so wird der Schall daran immer vollständig reflektiert. So entsteht ein Echo, das für die Laufzeitbestimmung genutzt werden kann.	* In einem Ultraschallgerät sind meistens zwei verschiedene Geräte, ein Ultraschall-Sender und ein Ultraschall-Empfänger, eingebaut.	* Die Reflexion von Ultraschallwellen an Gewebegrenzflächen kann mit dem aus der Optik bekannten Reflexionsgesetz beschrieben werden.
+A) Nur 1 und 2 sind richtig.
+B) Nur 2 und 3 sind richtig.
+C) Nur 4 ist falsch.
+D) Nur 2 ist falsch.
+E) Nur 1 und 4 sind richtig.
+ANSWER: E

@@ -1,0 +1,56 @@
+Mit einem medizinischen Ultraschallgerät soll bei einem Patienten die Leber untersucht werden. Dazu wird mithilfe einer Ultraschallsonde eine Schallwelle in das Gewebe eingestrahlt, welche an der Grenzfläche zur Leber reflektiert wird. Die Schallwelle breitet sich im subkutanen Gewebe mit ca. 1500 m/s aus. Die reflektierte Schallwelle trifft 40 µs nach der Ausstrahlung aus der Sonde wieder an der Sonde ein. Ab welcher Tiefe beginnt die Leber? 
+A) etwa 1,5 cm
+B) etwa 2 cm
+C) etwa 3 cm
+D) etwa 4 cm
+E) etwa 6 cm
+ANSWER: C
+Mit einem Echolot soll eine Position eines Gegenstandes in einem Medium mit einer Schallgeschwindigkeit von 100 m/s überprüft werden. Dazu wird durch eine Sonde eine Schallwelle ausgestrahlt, die an dem Gegenstand reflektiert wird und daraufhin wieder an der Sonde eintrifft. Wie lange müsste es bei einer Entfernung zwischen Gegenstand und Sonde von 25~m dauern, bis die Schallwelle nach ihrer Aussendung wieder an der Sonde eintrifft?
+A) etwa 0,5 s
+B) etwa 2 s
+C) etwa 1 s
+D) etwa 0,25 s
+E) etwa 4 s
+ANSWER: A
+Mit einem Echolot soll eine Position eines Gegenstandes in einem Medium mit einer Schallgeschwindigkeit von 1000 m/s überprüft werden. Dazu wird durch eine Sonde eine Schallwelle ausgestrahlt, die an dem Gegenstand reflektiert wird und daraufhin wieder an der Sonde eintrifft. Es dauert 10 s, bis die Schallwelle nach ihrer Aussendung wieder an der Sonde eintrifft. Wie weit liegt der Gegenstand von der Sonde entfernt?
+A) etwa 5000 m
+B) etwa 10000 m
+C) etwa 20000 m
+D) etwa 500 m
+E) etwa 100 m
+ANSWER: A
+Welche Frequenz \( f \) hat eine Schallwelle in Luft mit der Periodendauer \( T= \mathrm{10~s} \) ?
+A) 10 Hz
+B) 3430 Hz
+C) 343 Hz
+D) 100 Hz
+E) 0,1 Hz
+ANSWER: E
+Welche Frequenz \( f \) hat eine Schallwelle in Luft mit der Wellenlänge \( \lambda= \mathrm{100~m} \)?
+A) 34,3 Hz
+B) 34300 Hz
+C) 3,43 Hz
+D) 0,01 Hz
+E) 100 Hz
+ANSWER: C
+Welchen Weg \( s \) legt eine Schallwelle in einer Zeit  \( t= \mathrm{10~s} \) in Luft zurück?
+A) 0,343 m
+B) 3,43 m
+C) 34,3 m
+D) 343 m
+E) 3430 m
+ANSWER: E
+Welche Wellenlänge \( \lambda \) hat eine Schallwelle in Luft mit der Frequenz \( f = \mathrm{1~Hz} \) ?
+A) 100 m
+B) 3,43 m
+C) 1 m
+D) 34,3 m
+E) 343 m
+ANSWER: E
+Eine Schallwelle in Luft mit der Periodendauer \( T= \mathrm{1~s} \) hat eine Wellenlänge \( \lambda \) von ...?
+A) 3,43 m
+B) 34,3 m
+C) 343 m
+D) 34,3 km/h
+E) 343 km/h
+ANSWER: C

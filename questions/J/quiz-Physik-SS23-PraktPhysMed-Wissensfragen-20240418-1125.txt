@@ -1,0 +1,73 @@
+Die vom Menschen empfundene Lautstärke einer Schallwelle
+A) ist proportional zur Schallintensität.
+B) ist antiproportional zur Schallintensität.
+C) hängt nicht von der Frequenz der Schallwelle ab.
+D) wird in Dezibel (dB) angegeben.
+E) Die verbleibenden Alle Aussagen sind falsch.
+ANSWER: E
+In welchem Bereich liegen die für den Menschen hörbaren Frequenzen?
+A) 20 Hz bis 200 Hz
+B) 20 Hz bis 20 kHz
+C) 20 kHz bis 2 kHz
+D) 2 kHz bis 200 kHz
+E) 20 kHz bis 20 MHz
+ANSWER: B
+Welches Merkmal einer Schallwelle wird durch das umgebende Medium beeinflusst?
+A) Frequenz, Wellenlänge und Ausbreitungsgeschwindigkeit
+B) Weder Frequenz, noch Wellenlänge, noch Ausbreitungsgeschwindigkeit
+C) Frequenz und Ausbreitungsgeschwindigkeit, jedoch nicht die Wellenlänge
+D) Wellenlänge und Ausbreitungsgeschwindigkeit, jedoch nicht die Frequenz
+E) Die Ausbreitungsgeschwindigkeit, jedoch weder die Wellenlänge noch die Frequenz
+ANSWER: D
+Bei welcher Frequenz \( f \) befindet sich bei einem gesunden menschlichen Durchschnittsohr die obere Hörschwelle?
+A) 20 MHz
+B) 20 Hz
+C) 16 Hz
+D) 16 MHz
+E) 20 kHz
+ANSWER: E
+Phasengleichheit ist immer gegeben, wenn...
+A) die Minima und Maxima zweier Sinusschwingungen sich überlagern.
+B) zwei Sinusschwingungen die gleiche Wellenlänge besitzen.
+C) zwei Sinusschwingungen die gleiche Amplitude besitzen.
+D) zwei Sinusschwingungen die gleiche Frequenz besitzen.
+E) zwei Schallwellen sich in dem gleichen Medium ausbreiten.
+ANSWER: A
+Auf welchem Effekt beruht die Erzeugung und Messung von Ultraschallwellen mittels eines Kristalls?
+A) Faradayeffekt
+B) Piezoeffekt
+C) Comptoneffekt
+D) Hall-Effekt
+E) Fotoeffekt
+ANSWER: B
+<<<<<<< HEAD
+=======
+Der piezoelektrische Effekt...
+A) bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung sehr stark erwärmt.
+B) bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung mechanisch verformt.
+C) bewirkt, dass Schallwellen an ebenen Flächen reflektiert werden.
+D) ist nicht umkehrbar.
+E) ist bei Raumtemperatur vernachlässigbar.
+ANSWER: B
+Die Schallgeschwindigkeit...
+A) ist vom Übertragenden Medium unabhängig
+B) ist im Vakuum größer als in Luft, da die Luftmoleküle die Schallübertragung dämpfen
+C) hängt von der Amplitude der Schallwelle ab
+D) ist bei zwei Schallwellen mit unterschiedlicher Frequenz gleich, wenn sie sich im gleichen Medium ausbreiten.
+E) Keine Antwort ist richtig.
+ANSWER: D
+Welche Größe ändert sich bei einer Schallwelle periodisch?
+A) Schallgeschwindigkeit
+B) Frequenz
+C) Periodendauer
+D) Druck
+E) Amplitude
+ANSWER: D
+Bei welcher Frequenz \( f \) befindet sich bei einem gesunden menschlichen Durchschnittsohr die untere Hörschwelle?
+A) 20 kHz
+B) 20 Hz
+C) 2000 Hz
+D) 16 kHz
+E) 16 MHz
+ANSWER: B
+>>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854

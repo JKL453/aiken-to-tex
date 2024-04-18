@@ -1,0 +1,56 @@
+Wenn eine Schallwelle 100 Kilometer in 5 Minuten zurücklegt, beträgt die Schallgeschwindigkeit
+A) 20 km/h
+B) 500 km/h
+C) 333,3 m/s
+D) 333,3 km/h
+E) 20 m/s
+ANSWER: C
+Welche der folgenden Formeln für die Schallgeschwindigkeit ist richtig?( \( c \) Schallgeschwindigkeit, \(T \) Periodendauer, \( f \) Frequenz, \( \lambda \) Wellenlänge)
+A) \( c=\frac{f}{\lambda} \)
+B) \( c=T \cdot \lambda \)
+C) \( c=T \cdot f \)
+D) \( c=\frac{T}{\lambda} \)
+E) \( c=f \cdot \lambda \)
+ANSWER: E
+Welche Einheit trägt die Größe Frequenz?
+A) Sekunde
+B) Phon
+C) Dezibel
+D) Watt pro Quadratmeter
+E) Hertz
+ANSWER: E
+Welcher Zusammenhang besteht zwischen Frequenz \( f \) und der Periodendauer \( T \) ?
+A) Die Frequenz ist proportional zur Periodendauer.
+B) Die Frequenz ist das Doppelte der Periodendauer.
+C) Die Frequenz ist die Quadratwurzel aus der Periodendauer.
+D) Die Frequenz ist das Quadrat der Periodendauer.
+E) Die Frequenz ist das Inverse der Periodendauer.
+ANSWER: E
+Wie groß ist die Schallgeschwindigkeit in Luft bei Normalbedingungen?
+A) \( \mathrm{0,343~\frac{km}{s}} \)
+B) \( \mathrm{3,43~\frac{m}{s}} \)
+C) \( \mathrm{343~\frac{km}{h}} \)
+D) \( \mathrm{34,3~\frac{cm}{s}} \)
+E) \( \mathrm{343~\frac{mm}{s}} \)
+ANSWER: A
+Welche Zuordnung von physikalischer Größe und Einheit ist falsch?
+A) Wellenlänge - Meter (m)
+B) Frequenz - Hertz (Hz)
+C) Schalldruck - Pascal (Pa)
+D) Lautstärkepegel - Phon
+E) Schallgeschwindigkeit - Watt pro Quadratmeter (\( \mathrm{W m^{-2}} \) )
+ANSWER: E
+Welche Zuordnung von physikalischer Größe und Einheit ist falsch?
+A) Temperatur - Grad Celsius ( \( \mathrm{^\circ C} \) )
+B) Gangunterschied - Meter (m)
+C) Schallintensitätspegel - Dezibel (dB)
+D) Lautstärkepegel - Dezibel (dB)
+E) Periodendauer - Sekunde (s)
+ANSWER: D
+Mit welcher Gleichung lässt sich der zurückgelegte Weg \( s \) eines Schallsignals beschreiben?( \( t \) Laufzeit des Signals, \( c \) Schallgeschwindigkeit )
+A) \( s = c \cdot t^2 \)
+B) \( s= \frac{c}{t} \)
+C) \( s=c^2 \cdot t \)
+D) \( s= \frac{t}{c} \)
+E) \( s=c \cdot t \)
+ANSWER: E

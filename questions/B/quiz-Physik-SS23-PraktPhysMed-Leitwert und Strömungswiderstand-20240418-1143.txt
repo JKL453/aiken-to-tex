@@ -1,0 +1,14 @@
+Wie verhält sich der Strömungswiderstand \(R\) eines Rohres zum Leitwert \(G\)?
+A) Der Leitwert ist der Kehrwert des Strömungswiderstandes
+B) Der Strömungswiderstand ist gleich dem Leitwert.
+C) Zwischen beiden Grenzen besteht kein Zusammenhang.
+D) Der Leitwert ist die Differenz aus Druck und Strömungswiderstand.
+E) Der Leitwert ist gleich dem Quadrat des Stömungswiderstands.
+ANSWER: A
+Die Volumenstromstärke
+A) ist gleich dem Produkt aus Rohrquerschnitt und Rohrlänge.
+B) gibt an, welches Volumen pro Zeiteinheit durch einen Rohrquerschnitt fließt.
+C) gibt die Geschwindigkeit der Füssigkeitsmoleküle an.
+D) ist gleich der Druckdifferenz zwischen Rohranfang und Rohrende.
+E) ist gleich der Zeit, in der ein Flüssigkeitsmolekül durch das Rohr fließt.
+ANSWER: B

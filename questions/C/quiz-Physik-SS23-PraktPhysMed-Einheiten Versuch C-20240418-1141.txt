@@ -1,0 +1,35 @@
+Aus einem Metall mit dem spezifischen Widerstand \(\rho\) wird ein runder Draht der Länge \(\mathrm{l}\) mit der Querschnittsfläche \(\mathrm{A}\) gefertigt. Sein Widerstand \(\mathrm{R}\) ergibt sich zu \(\mathrm{R=\rho \cdot \frac{l}{A}}\). Welche Einheit trägt der spezifische Widerstand \(\rho\)?
+A) Ohm mal Quadratmeter
+B) Ohm mal Meter
+C) Ohm
+D) Ohm pro Meter
+E) Ohm pro Quadratmeter
+ANSWER: B
+An einem Widerstand liegt eine Spannung von \(\mathrm{100\,kV}\) an. Es fließt ein Strom von \(\mathrm{100\,mA}\). Wie groß ist der Widerstand?
+A) \(\mathrm{1000\,M\Omega}\)
+B) \(\mathrm{100\,M\Omega}\)
+C) \(\mathrm{1\,M\Omega}\)
+D) \(\mathrm{100\,\Omega}\)
+E) \(\mathrm{1\,\Omega}\)
+ANSWER: C
+An einem Widerstand liegt eine Spannung von \(10\,\mathrm{kV}\) an. Es fließt ein Strom von \(\mathrm{0,01\,mA}\). Wie groß ist der Widerstand?
+A) \(\mathrm{1000\,M\Omega}\)
+B) \(\mathrm{100\,M\Omega}\)
+C) \(\mathrm{1\,M\Omega}\)
+D) \(\mathrm{100\,\Omega}\)
+E) \(\mathrm{1\,\Omega}\)
+ANSWER: A
+An einen Widerstand \(\mathrm{R=1000\,\Omega}\) wird eine Spannung \(\mathrm{U=100\,mV}\) angelegt. Welche Stromstärke fließt dann durch den Widerstand?
+A) \(\mathrm{100\,\mu A}\)
+B) \(\mathrm{10\,mA}\)
+C) \(\mathrm{10\,A}\)
+D) \(\mathrm{100\,A}\)
+E) \(\mathrm{1\,kA}\)
+ANSWER: A
+An einen Widerstand \(\mathrm{R=100\,\Omega}\) wird eine Spannung \(\mathrm{U=1000\,mV}\) angelegt. Welche Stromstärke fließt dann durch den Widerstand?
+A) \(\mathrm{100\,\mu A}\)
+B) \(\mathrm{10\,mA}\)
+C) \(\mathrm{100\,mA}\)
+D) \(\mathrm{10\,A}\)
+E) \(\mathrm{100\,A}\)
+ANSWER: B

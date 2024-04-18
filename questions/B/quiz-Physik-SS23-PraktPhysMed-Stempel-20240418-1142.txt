@@ -1,0 +1,21 @@
+Wie groß ist die Fläche eines Stempels, wenn eine Kraft von 20 N einen Druck von 100 Pa ausübt?
+A) 2000 qm
+B) 200 qm
+C) 5 qm
+D) 0,2 qm
+E) 0,5 qm
+ANSWER: D
+Auf einen Stempel mit einer Fläche von 3 qm wird eine Kraft von 15 N ausgeübt. Wie groß ist der Druck, den der Stempel in der darunterliegenden Flüssigkeit erzeugt?
+A) 12 Pa
+B) 5 Pa
+C) 18 Pa
+D) 0,2 Pa
+E) 45 Pa
+ANSWER: B
+Auf einen Stempel mit einer Fläche von 10 qm wird eine Kraft von 5 N ausgeübt.
+A) Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 0,5 Pa aus.
+B) Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 50 Pa aus.
+C) Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 5 Pa aus.
+D) Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 25 Pa aus.
+E) Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 250 Pa aus.
+ANSWER: A

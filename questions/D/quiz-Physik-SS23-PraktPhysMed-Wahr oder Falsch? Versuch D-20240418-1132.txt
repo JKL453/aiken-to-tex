@@ -1,0 +1,42 @@
+Welche der folgenden Aussagen ist falsch?
+A) Je größer die Kapazität des Kondensators in einem RC-Glied ist, desto kleiner ist die Zeitkonstante.
+B) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+C) Die Kapazität eines Kondensators trägt die Einheit Farad.
+D) Eine Wechselspannung wird durch Angabe der Signalform, Frequenz, Amplitude und Phase vollständig beschrieben.
+E) Wenn die Spannung an einem Kondensator erhöht wird, bleibt die Kapazität konstant.
+ANSWER: A
+Welche der folgenden Aussagen ist falsch?
+A) Je größer die Kapazität des Kondensators in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+B) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+C) Die Kapazität eines Kondensators trägt die Einheit Farad.
+D) Eine Wechselspannung wird durch Angabe der Signalform, Frequenz, Amplitude und Phase vollständig beschrieben.
+E) Wenn die Spannung an einem Kondensator verdoppelt wird, verdoppelt sich auch die Kapazität.
+ANSWER: E
+Welche der folgenden Aussagen über Kondensatoren ist falsch?
+A) Auf einem Kondensator kann man elektrische Ladung speichern.
+B) Die Spannung an einem Kondensator ist proportional zur aufgebrachten Ladung.
+C) Die Kapazität eines luftgefüllten Kondensators ist unabhängig von der angelegten Spannung.
+D) Der zeitliche Verlauf der Entladung eines Kondensators der Kapazität \(\mathrm{C}\) über einen Widerstand \(\mathrm{R}\) wird durch die Zeitkonstante \(\mathrm{\tau=RC}\) bestimmt.
+E) Bei Parallelschaltung zweier gleicher Kondensatoren ist die Gesamtkapazität gleich der Hälfte der Kapazitäten der beiden Kondensatoren.
+ANSWER: E
+Welche der folgenden Aussagen ist falsch?
+A) Je größer die Kapazität des Kondensators in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+B) Je größer der Widerstand in einem RC-Glied ist, desto kleiner ist die Zeitkonstante.
+C) Die Kapazität eines Kondensators trägt die Einheit Farad.
+D) Eine Wechselspannung wird durch Angabe der Signalform, Frequenz, Amplitude und Phase vollständig beschrieben.
+E) Wenn die Spannung an einem Kondensator erhöht wird, bleibt die Kapazität konstant.
+ANSWER: B
+Welche der folgenden Aussagen ist falsch?
+A) Je größer die Kapazität des Kondensators in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+B) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+C) Die Kapazität eines Kondensators trägt die Einheit Coulomb.
+D) Eine Wechselspannung wird durch Angabe der Signalform, Frequenz, Amplitude und Phase vollständig beschrieben.
+E) Wenn die Spannung an einem Kondensator erhöht wird, bleibt die Kapazität konstant.
+ANSWER: C
+Welche der folgenden Aussagen ist falsch?
+A) Je größer die Kapazität des Kondensators in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+B) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+C) Die Kapazität eines Kondensators trägt die Einheit Farad.
+D) Eine Wechselspannung wird durch Angabe der Frequenz, Amplitude und Phase vollständig beschrieben.
+E) Wenn die Spannung an einem Kondensator erhöht wird, bleibt die Kapazität konstant.
+ANSWER: D

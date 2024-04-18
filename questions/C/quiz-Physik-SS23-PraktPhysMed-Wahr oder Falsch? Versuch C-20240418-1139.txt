@@ -1,0 +1,35 @@
+Welche der folgenden Aussagen ist falsch?
+A) Der Innenwiderstand eines Voltmeters sollte möglichst hoch sein.
+B) Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann fließt durch beide die gleiche Stromstärke.
+C) Wenn zwei unterschiedliche Widerstände parallel geschaltet werden, liegt an beiden die gleiche Spannung an.
+D) Wenn die Spannung an einem ohmschen Widerstand verdoppelt wird, bleibt der Widerstand unverändert.
+E) Von zwei unterschiedlich langen, aber gleich dicken Drähten aus demselben Material hat der kürzere Draht immer den größeren Widerstand.
+ANSWER: E
+Welche der folgenden Aussagen ist falsch?
+A) Der Innenwiderstand eines Amperemeters sollte möglichst gering sein.
+B) Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann fließt durch beide die gleiche Stromstärke.
+C) Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann liegt am größeren Widerstand die größere Spannung an.
+D) Der Gesamtwiderstand einer Parallelschaltung von zwei unterschiedlichen Widerständen ist immer kleiner als der kleinere von den beiden Widerständen.
+E) Wenn die Spannung an einem ohmschen Widerstand verdoppelt wird, verdoppelt sich der Widerstand.
+ANSWER: E
+Welche der folgenden Aussagen ist falsch?
+A) Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann fließt durch beide die gleiche Stromstärke.
+B) Wenn zwei unterschiedliche Widerstände parallel geschaltet werden, liegt an beiden die gleiche Spannung an.
+C) Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann liegt am größeren Widerstand die größere Spannung an.
+D) Wenn zwei unterschiedliche Widerstände parallel geschaltet werden, dann fließt durch den größeren Widerstand der kleinere Strom.
+E) Der Gesamtwiderstand einer Reihenschaltung von zwei identischen Widerständen ist doppelt so groß wie der Gesamtwiderstand einer Parallelschaltung aus denselben Widerständen.
+ANSWER: E
+Welche der folgenden Aussagen ist falsch?
+A) Der Innenwiderstand eines Voltmeters sollte möglichst gering sein.
+B) Der Innenwiderstand eines Amperemeters sollte möglichst gering sein.
+C) Der Gesamtwiderstand einer Parallelschaltung von zwei unterschiedlichen Widerständen ist immer kleiner als der kleinere von den beiden Widerständen.
+D) Wenn die Spannung an einem ohmschen Widerstand verdoppelt wird, bleibt der Widerstand unverändert.
+E) Von zwei gleich langen, aber unterschiedlich dicken Drähten aus demselben Material hat der dickere Draht immer den geringeren Widerstand.
+ANSWER: A
+Welche der folgenden Aussagen ist falsch?
+A) Der Gesamtwiderstand einer Reihenschaltung von zwei identischen Widerständen ist vier mal so groß wie der Gesamtwiderstand einer Parallelschaltung aus denselben Widerständen.
+B) Der Gesamtwiderstand einer Reihenschaltung von zwei unterschiedlichen Widerständen ist immer größer als der größere von den beiden Widerständen.
+C) Der Gesamtwiderstand einer Parallelschaltung von zwei unterschiedlichen Widerständen ist immer größer als der größere von den beiden Widerständen.
+D) Wenn die Spannung an einem ohmschen Widerstand verdoppelt wird, bleibt der Widerstand unverändert.
+E) Von zwei gleich langen, aber unterschiedlich dicken Drähten aus demselben Material hat der dickere Draht immer den geringeren Widerstand.
+ANSWER: C

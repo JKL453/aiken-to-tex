@@ -1,0 +1,14 @@
+Das Gesetz von Hagen und Poiseuille
+A) besagt, dass die Volumenstromstärke quadratisch mit der Druckdifferenz wächst.
+B) erlaubt die Berechnung des Leitwertes eines Rohres.
+C) beschreibt nur turbulente Strömungen.
+D) sagt eine konstante Volumenstromstärke voraus, wenn sowohl Länge als auch Querschnittsfläche eines Rohrs sich halbieren.
+E) gilt nur für Flüssigkeiten ohne Viskosität.
+ANSWER: B
+Nach dem Gesetz von Hagen und Poiseuille für zylindrische Rohre
+A) wächst der Volumenstrom mit dem Kehrwert der Druckdifferenz.
+B) sind alle Strömungen turbulent.
+C) ist der Volumenstrom bei Verdopplung von Länge und Querschnittsfläche konstant.
+D) lässt sich der Strömungswiderstand berechnen.
+E) hat die Viskosität keinen Einfluss auf den Volumenstrom.
+ANSWER: D

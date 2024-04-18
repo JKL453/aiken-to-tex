@@ -1,0 +1,28 @@
+Welche Frequenz hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,5\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{1\,V/DIV}\).
+A) \(\mathrm{2\,ms}\)
+B) \(\mathrm{250\,Hz}\)
+C) \(\mathrm{500\,Hz}\)
+D) \(\mathrm{4\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: C
+Welche Frequenz hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,2\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{5\,V/DIV}\).
+A) \(\mathrm{2\,ms}\)
+B) \(\mathrm{2\,kHz}\)
+C) \(\mathrm{500\,Hz}\)
+D) \(\mathrm{1\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: E
+Welche Periodendauer hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,5\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{1\,V/DIV}\).
+A) \(\mathrm{2\,ms}\)
+B) \(\mathrm{250\,Hz}\)
+C) \(\mathrm{0,5\,ms}\)
+D) \(\mathrm{4\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: A
+Welche Periodendauer hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,5\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{1\,V/DIV}\).
+A) \(\mathrm{2,5\,ms}\)
+B) \(\mathrm{250\,Hz}\)
+C) \(\mathrm{0,5\,ms}\)
+D) \(\mathrm{5\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: A

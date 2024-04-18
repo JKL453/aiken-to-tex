@@ -1,0 +1,31 @@
+Wenn warme und kalte Flüssigkeiten in gleichen Mengen gemischt werden, dann hat das Gemisch
+A) die Wärmeenergie der kalten Flüssigkeit.
+B) eine Wärmeenergie kleiner als die Wärmeenergie der kalten Flüssigkeit.
+C) eine Wärmeenergie kleiner als die Wärmeenergie der warmen Flüssigkeit.
+D) die Wärmeenergie der warmen Flüssigkeit.
+E) eine Wärmeenergie, die gleich der Summe der Wärmeenergien der beiden Flüssigkeiten ist.
+ANSWER: E
+<<<<<<< HEAD
+Wenn eine warme und eine kalte Flüssigkeitsmenge gleicher Art gemischt werden, dann hat das Gemisch
+A) eine spezifische Wärmekapazität etwa gleich der Summe der spezifischen Wärmekapazitäten der beiden Flüssigkeiten.
+B) die halbe spezifische Wärmekapazität der kalten Flüssigkeit.
+C) eine spezifische Wärmekapazität, die ähnlich groß wie die spezifischen Wärmekapazität der kalten oder der warmen Flüssigkeit ist.
+D) die doppelte spezifische Wärmekapazität der kalten Flüssigkeit.
+E) die halbe spezifische Wärmekapazität der warmen Flüssigkeit.
+ANSWER: C
+Welche der folgenden Einheiten ist die SI-Einheit für die ABSOLUTE Temperatur?
+A) Grad Celsius
+B) Joule
+C) Watt
+D) Kilogramm
+E) Kelvin
+ANSWER: E
+Wenn warme und kalte Flüssigkeiten in gleichen Mengen gemischt werden, dann hat das Gemisch
+A) eine Temperatur, die zwischen beiden Temperaturen liegt.
+B) die Temperatur der warmen Flüssigkeit.
+C) eine Temperatur, die der Summe der Temperaturen der warmen und der kalten Flüssigkeit entspricht.
+D) eine Temperatur, die der Differenz der Temperaturen der warmen und der kalten Flüssigkeit entspricht.
+E) die Temperatur der kalten Flüssigkeit.
+ANSWER: A
+=======
+>>>>>>> 11e2feaec6acfab8ac9853e6b10b78cffdcaf854

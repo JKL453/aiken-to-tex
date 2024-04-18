@@ -1,0 +1,56 @@
+Die Äquivalenzleitfähigkeit eines bestimmten Salzes erhalten Sie in diesem Versuch durch ...
+A) Messung der Salzkonzentration in Abhängigkeit der Zeit.
+B) Messung der Leitfähigkeit in Abhängigkeit von der Zeit.
+C) Berechnung aus Tabellenwerten.
+D) Messung der Beweglichkeit der Salzionen in Abhängigkeit von deren Konzentration.
+E) Messung der Leitfähigkeit in Abhängigkeit von der Salzkonzentration.
+ANSWER: E
+Wo spielt Diffusion in der Natur keine Rolle?
+A) Gasaustausch bei der Lungenatmung
+B) Filtration in der Niere
+C) Bildung des Zellpotentials
+D) Bildung von Ödemen
+E) Bewegung von Amöben
+ANSWER: E
+Der Diffusionsfluss beschreibt ...
+A) die transportierte Stoffmenge pro Fläche.
+B) die transportierte Stoffmenge pro Volumen.
+C) die transportierte Stoffmenge pro Zeit und Fläche.
+D) die transportierte Stoffmenge.
+E) die transportierte Stoffmenge pro Zeit.
+ANSWER: E
+Von welchen Parametern ist der Diffusionsfluss durch ein Membran abhängig?A) TemperaturB) Fläche der MembranC) Größe der diffundierenden TeilchenD) Konzentration auf der Seite der höheren Konzentration
+A) A und B
+B) B und C
+C) A, B und D
+D) keine Antwort
+E) alle Antworten
+ANSWER: E
+Der Diffusionsfluss beschreibt ...
+A) die transportierte Stoffmenge pro Fläche.
+B) die transportierte Stoffmenge pro Volumen.
+C) die transportierte Stoffmenge pro Zeit und Fläche.
+D) die transportierte Stoffmenge.
+E) die transportierte Stoffmenge pro Zeit.
+ANSWER: E
+Der Konzentrationsausgleich zwischen zwei Kompartimenten, die über eine permeable Membran getrennt sind, läuft bei höherer Temperatur schneller ab, ...
+A) da sich die Poren der Membran zusammenziehen.
+B) da sich die Teilchen langsamer bewegen und deshalb seltener zusammenstoßen.
+C) da die Anzahl der Poren wächst.
+D) Die Aussage ist falsch.
+E) da sich die Teilchen mit einer erhöhten Geschwindigkeit bewegen.
+ANSWER: E
+Welche Aussage zur Osmose trifft zu?
+A) ... lässt sich nicht direkt beobachten
+B) ... hat in der Physiologie praktisch keine Bedeutung
+C) ... steht mit dem Phänomen der Diffusion in keinem Zusammenhang
+D) ... ist ein irreversibler Prozess
+E) ... ist ein reversibler Prozess
+ANSWER: E
+Eine kolligative Eigenschaft ist eine Stoffeigenschaft, die ...
+A) von der Temperatur abhängt.
+B) von der Anzahl, Größe und Wertigkeit der Teilchen abhängt.
+C) von der Teilchenzahl und -größe abhängt.
+D) die Wechselwirkungen der Teilchen untereinander beschreibt.
+E) nur von der Teilchenzahl abhängt.
+ANSWER: E

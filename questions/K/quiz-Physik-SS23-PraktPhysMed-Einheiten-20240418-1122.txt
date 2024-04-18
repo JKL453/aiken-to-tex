@@ -1,0 +1,35 @@
+Wie lautet die Einheit der physikalischen Größe Aktivität?
+A) Zeit (t)
+B) Becquerel (Bq)
+C) Gray (Gy)
+D) Joule (J)
+E) Meter (m)
+ANSWER: B
+3000 Imp/min (Impulse pro Minute) entsprechen:	* 10800 Imp/s	* 3 Imp/s	* 300 Imp/s	* 10800 Imp/h	* 3 Imp/h	* 180000 Imp/h
+A) nur 1 und 5 sind richtig
+B) nur 2 und 4 sind richtig
+C) nur 3 und 6 sind richtig
+D) nur 3 ist richtig
+E) nur 6 ist richtig
+ANSWER: E
+10 Imp/s (Impulse pro Sekunde) entsprechen:
+A) 10 Imp/h
+B) 100 Imp/min
+C) 50 Imp/min
+D) 36000 Imp/h
+E) 3 Imp/min
+ANSWER: D
+Die mittlere Lebensdauer \( \tau \) eines radioaktiven Präparates ist definiert als:
+A) Zerfälle pro Zeit
+B) \( \tau = T_{1/2} \)
+C) \( \tau = 1/\lambda \)
+D) \( \tau = 1/T_{1/2} \)
+E) \( \tau = \ln 2 / \lambda \)
+ANSWER: C
+Die Aktivität einer radioaktiven Substanz wird in Becquerel angegeben. Wie setzt sich diese Größe aus den  SI-Basiseinheiten zusammen?
+A) \( \frac{\text{J}}{\text{kg}} \)
+B) \( \frac{\text{J}}{\text{s}} \)
+C) \( \text{s}^{-1} \)
+D) s
+E) \( \text{kg}\cdot\frac{\text{m}}{\text{s}^2} \)
+ANSWER: C

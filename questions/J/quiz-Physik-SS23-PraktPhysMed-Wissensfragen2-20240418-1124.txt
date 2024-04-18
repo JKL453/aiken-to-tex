@@ -1,0 +1,28 @@
+Der piezoelektrische Effekt...
+A) bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung sehr stark erwärmt.
+B) bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung mechanisch verformt.
+C) bewirkt, dass Schallwellen an ebenen Flächen reflektiert werden.
+D) ist nicht umkehrbar.
+E) ist bei Raumtemperatur vernachlässigbar.
+ANSWER: B
+Die Schallgeschwindigkeit...
+A) ist vom Übertragenden Medium unabhängig
+B) ist im Vakuum größer als in Luft, da die Luftmoleküle die Schallübertragung dämpfen
+C) hängt von der Amplitude der Schallwelle ab
+D) ist bei zwei Schallwellen mit unterschiedlicher Frequenz gleich, wenn sie sich im gleichen Medium ausbreiten.
+E) Keine Antwort ist richtig.
+ANSWER: D
+Welche Größe ändert sich bei einer Schallwelle periodisch?
+A) Schallgeschwindigkeit
+B) Frequenz
+C) Periodendauer
+D) Druck
+E) Amplitude
+ANSWER: D
+Bei welcher Frequenz \( f \) befindet sich bei einem gesunden menschlichen Durchschnittsohr die untere Hörschwelle?
+A) 20 kHz
+B) 20 Hz
+C) 2000 Hz
+D) 16 kHz
+E) 16 MHz
+ANSWER: B

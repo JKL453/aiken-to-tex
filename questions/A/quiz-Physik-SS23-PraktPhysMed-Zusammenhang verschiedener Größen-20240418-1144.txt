@@ -1,0 +1,7 @@
+Welcher Zusammenhang besteht zwischen Wärme, Wärmekapazität und Temperatur? (\(m\): Masse)
+A) \(\Delta Q = m \Delta T\)
+B) \(\Delta Q = m c \Delta T\)
+C) \(\Delta Q = m \, (\Delta T)^2\)
+D) \(Q = m c\)
+E) \(Q = m c^2\)
+ANSWER: B

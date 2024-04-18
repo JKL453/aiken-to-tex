@@ -1,0 +1,28 @@
+Im menschlichen Gefäßsystem strömt Blut
+A) manchmal auch turbulent.
+B) immer turbulent.
+C) immer laminar.
+D) wie eine Flüssigkeit ohne innere Reibung.
+E) wie eine Flüssigkeit mit einer Viskosität von Null.
+ANSWER: A
+Durch die Flexibilität des Aortenbogens (der wie ein Windkessel wirkt)
+A) wird der diastolische Blutdruck verringert.
+B) wird der systolische Blutdruck verringert.
+C) wird der Blutdruck nicht beeinflußt.
+D) werden die Spitzenwerte der Volumenstromstärke größer.
+E) wird die Volumenstromstärke nicht beeinflußt.
+ANSWER: B
+Blut ströme laminar durch eine Gefäßverengung. In der Verengung
+A) fließt das Blut langsamer.
+B) fließt das Blut mit unveränderter Geschwindigkeit.
+C) fließt das Blut rückwärts.
+D) fließt das Blut mit halber Geschwindigkeit.
+E) fließt das Blut schneller.
+ANSWER: E
+Bei konstantem Blutdruck hängt die Blutmenge, die pro Minute durch ein Gefäß fließt,
+A) besonders empfindlich von einer Änderung des Gefäßradius ab.
+B) besonders empfindlich von einer Änderung der Zähflüssigkeit des Blutes ab.
+C) besonders empfindlich von einer Änderung der Länge des Blutgefäß es ab.
+D) besonders empfindlich von einer Änderung der Kreiszahl \(\pi\) ab.
+E) besonders empfindlich von einer Änderung der Viskosität des Blutes ab.
+ANSWER: A

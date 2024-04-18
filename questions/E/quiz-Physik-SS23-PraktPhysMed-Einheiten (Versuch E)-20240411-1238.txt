@@ -1,0 +1,49 @@
+Welche Einheit ist zur Angabe von Konzentrationen NICHT möglich?
+A) \( \frac{mol}{m^3} \)
+B) \( kmol \cdot m^{-3} \)
+C) \( \frac{kmol}{l} \)
+D) \( mol \cdot cm^{-3} \)
+E) \( l \cdot mol^{-1} \)
+ANSWER: E
+Welche Einheit hat die spezifische Leitfähigkeit?
+A) \( \frac{\Omega}{cm} \)
+B) \( \frac{V}{A \cdot cm} \)
+C) \( \frac{Sv}{cm} \)
+D) \( \Omega \cdot cm \)
+E) \( \frac{S}{cm} \)
+ANSWER: E
+Was ist die SI-Einheit des Diffusionskoeffizienten?
+A) \( \frac{kg}{s} \)
+B) \( \frac{kg \cdot m^2}{s} \)
+C) \( \frac{m^3}{s} \)
+D) \( \frac{s}{m^2} \)
+E) \( \frac{m^2}{s} \)
+ANSWER: E
+Von welchen Parametern hängt der Diffusionskoeffizient eines Stoffes (Flüssigkeit oder Gas) ab?A) molare Masse des StoffesB) Konzentration des StoffesC) TemperaturD) Art des LösungsmittelsE) Ladungszahl des Stoffes
+A) A, B, C und E sind richtig
+B) A, B und D sind richtig
+C) A ist falsch
+D) B und E sind falsch
+E) C und D sind richtig
+ANSWER: D
+Die Angabe des Diffusionskoeffizienten \( D={6,0 \cdot 10^{-9}} \frac{m^2}{s} \) ist äquivalent zu
+A) \( D={0,36 \cdot 10^{-3}} \frac{mm^2}{min} \)
+B) \( D={36 \cdot 10^{2}} \frac{mm^2}{min} \)
+C) \( D={1,0 \cdot 10^{-6}} \frac{mm^2}{min} \)
+D) \( D={0,1 \cdot 10^{-2}} \frac{mm^2}{min} \)
+E) \( D={3,6 \cdot 10^{-1}} \frac{mm^2}{min} \)
+ANSWER: E
+Die Angabe des Diffusionskoeffizienten \( D={2,0 \cdot 10^{-8}} \frac{m^2}{s} \) ist äquivalent zu
+A) \( D={0,33 \cdot 10^{-3}} \frac{mm^2}{min} \)
+B) \( D={3,3 \cdot 10^{-1}} \frac{mm^2}{min} \)
+C) \( D={33 \cdot 10^{2}} \frac{mm^2}{min} \)
+D) \( D={0,12 \cdot 10^{3}} \frac{mm^2}{min} \)
+E) \( D={12 \cdot 10^{-1}} \frac{mm^2}{min} \)
+ANSWER: E
+Von welchen Größen hängt der osmotische Druck eines gelösten Stoffes ab?
+A) Gyrationsradius und Konzentration des Stoffes
+B) Molare Masse und Ladung des Stoffes
+C) Dichte und Diffusionskoeffizient des Stoffes
+D) Nur vom Van't-Hoff-Faktor des Stoffes
+E) Konzentration des Stoffes und Temperatur
+ANSWER: E
