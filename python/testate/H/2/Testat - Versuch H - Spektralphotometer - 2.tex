@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch H - Spektralphotometer - 2
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
+
+\begin{choices}
+	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice linear von der Schichtdicke d abhängt.
+	\choice mit zunehmender Konzentration der Lösung kleiner wird.
+	\choice unabhängig von der Wellenlänge des Lichtes ist.
+	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
+\end{choices}
+
+\vspace{3mm}\question Elektromagnetische Wellen im Bereich des sichtbaren Lichts ...
+
+\begin{choices}
+	\choice haben eine höhere Frequenz als UV-Strahlung.
+	\choice haben die gleiche Wellenlänge wie Gamma-Strahlung.
+	\choice haben eine längere Wellenlänge als Radiowellen.
+	\choice haben eine kürzere Wellenlänge als Röntgenstrahlung.
+	\choice haben eine höhere Frequenz als IR-Strahlung.
+\end{choices}
+
+\vspace{3mm}\question Eine Farbstofflösung transmittiert 10 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+
+\begin{choices}
+	\choice 2
+	\choice 1
+	\choice 99
+	\choice 0,01
+	\choice 0,99
+\end{choices}
+
+\vspace{3mm}\question Wie heißt der an die langwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
+
+\begin{choices}
+	\choice Ultraviolett
+	\choice Infrarot
+	\choice Langwelle
+	\choice Mikrowelle
+	\choice Röntgenstrahlung
+\end{choices}
+
+\vspace{3mm}\question Ordnen Sie die folgenden elektromagnetischen Wellen aufsteigend nach ihrer Wellenlänge:weiche Röntgenstrahlung: \( \lambda_1 \)Gammastrahlung: \( \lambda_2 \)sichtbares Licht: \( \lambda_3 \)Radiokurzwellen: \( \lambda_4 \)
+
+\begin{choices}
+	\choice \( \lambda_4 < \lambda_3 < \lambda_1 < \lambda_2 \)
+	\choice \( \lambda_4 < \lambda_1 < \lambda_2 < \lambda_3 \)
+	\choice \( \lambda_1 < \lambda_2 < \lambda_3 < \lambda_4 \)
+	\choice \( \lambda_3 < \lambda_4 < \lambda_2 < \lambda_1 \)
+	\choice \( \lambda_2 < \lambda_1 < \lambda_3 < \lambda_4 \)
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

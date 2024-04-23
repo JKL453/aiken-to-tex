@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch B - Stroemungsmechanik - 3
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Nach dem Gesetz von Hagen und Poiseuille für zylindrische Rohre
+
+\begin{choices}
+	\choice hat die Viskosität keinen Einfluss auf den Volumenstrom.
+	\choice ist der Volumenstrom bei Verdopplung von Länge und Querschnittsfläche konstant.
+	\choice lässt sich der Strömungswiderstand berechnen.
+	\choice sind alle Strömungen turbulent.
+	\choice wächst der Volumenstrom mit dem Kehrwert der Druckdifferenz.
+\end{choices}
+
+\vspace{3mm}\question Wie groß ist die Fläche eines Stempels, wenn eine Kraft von 20 N einen Druck von 100 Pa ausübt?
+
+\begin{choices}
+	\choice 0,5 qm
+	\choice 0,2 qm
+	\choice 200 qm
+	\choice 5 qm
+	\choice 2000 qm
+\end{choices}
+
+\vspace{3mm}\question Welcher Zusammenhang besteht zwischen Druck, Kraft und Fläche?
+
+\begin{choices}
+	\choice Druck ist gleich Kraft mal Fläche.
+	\choice Druck ist gleich Kraft pro Fläche.
+	\choice Kraft ist gleich Fläche pro Druck.
+	\choice Kraft ist gleich Druck pro Fläche.
+	\choice Fläche ist gleich Kraft mal Druck.
+\end{choices}
+
+\vspace{3mm}\question Die Volumenstromstärke
+
+\begin{choices}
+	\choice ist gleich der Druckdifferenz zwischen Rohranfang und Rohrende.
+	\choice gibt an, welches Volumen pro Zeiteinheit durch einen Rohrquerschnitt fließt.
+	\choice ist gleich der Zeit, in der ein Flüssigkeitsmolekül durch das Rohr fließt.
+	\choice gibt die Geschwindigkeit der Füssigkeitsmoleküle an.
+	\choice ist gleich dem Produkt aus Rohrquerschnitt und Rohrlänge.
+\end{choices}
+
+\vspace{3mm}\question Bei konstantem Blutdruck hängt die Blutmenge, die pro Minute durch ein Gefäß fließt,
+
+\begin{choices}
+	\choice besonders empfindlich von einer Änderung des Gefäßradius ab.
+	\choice besonders empfindlich von einer Änderung der Länge des Blutgefäß es ab.
+	\choice besonders empfindlich von einer Änderung der Kreiszahl \(\pi\) ab.
+	\choice besonders empfindlich von einer Änderung der Zähflüssigkeit des Blutes ab.
+	\choice besonders empfindlich von einer Änderung der Viskosität des Blutes ab.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

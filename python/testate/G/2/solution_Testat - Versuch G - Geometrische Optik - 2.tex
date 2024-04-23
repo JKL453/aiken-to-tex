@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch G - Geometrische Optik - 2
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Eine Sammellinse hat eine Brechkraft von 3 dpt. In welcher Entfernung entsteht das Bild, wenn der Gegenstand 100 cm entfernt ist?
+
+\begin{choices}
+	\choice 100 cm
+	\choice 50 cm (correct)
+	\choice 33,3 cm
+	\choice 150cm
+	\choice 75 cm
+\end{choices}
+
+\vspace{3mm}\question Ein in Luft normalsichtiger kann unter Wasser ohne Hilfsmittel (z.B. Taucherbrille) nicht scharf sehen. Die Ursache hierfür ist:
+
+\begin{choices}
+	\choice Trübung der Cornea durch eindringendes Wasser.
+	\choice Verstärkung der Lichtstreuung an der Cornea-Vorderseite.
+	\choice Zunahme der Cornea-Krümmung durch den Wasserdruck.
+	\choice Abnahme der Cornea-Krümmung durch den Wasser-Druck.
+	\choice Verminderung der Lichtbrechung an der Cornea-Vorderfläche. (correct)
+\end{choices}
+
+\vspace{3mm}\question Wie sind die Lichtgeschwindigkeit c, die Vakuum-Lichtgeschwindigkeit c0 und der Brechungsindex n miteinander verknüpft?
+
+\begin{choices}
+	\choice n·c0 =c
+	\choice 1 /C0−1/C =n
+	\choice c0 − c = n
+	\choice 1 /C0−1/C =1/n
+	\choice n·c=c0 (correct)
+\end{choices}
+
+\vspace{3mm}\question Wie lautet die Einheit der Brechkraft?
+
+\begin{choices}
+	\choice m
+	\choice s
+	\choice 1/m (correct)
+	\choice einheitenlos
+	\choice N/m
+\end{choices}
+
+\vspace{3mm}\question Die Brennweite einer Linse sei f = 20 cm, Gegenstandsweite sei g = 40 cm, der Schirm befindet sich in der Entfernung b = 20 cm. Wie groß muss die Brechkraft einer Korrekturlinse sein, um eine scharfe Abbildung auf dem Schirm zu erhalten? (Der Abstand zwischen den Linsen ist zu vernachlässigen)
+
+\begin{choices}
+	\choice +10/2m^−1
+	\choice +5dpt
+	\choice −5dpt
+	\choice −2,5dpt
+	\choice +2,5 dpt (correct)
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch A - Waermelehre - 3
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Wasser hat eine spezifische Wärmekapazität von (sehr grob angenähert) 4 kJ kg\(^{-1}\) K\(^{-1}\) und eine spezifische Verdampfungswärme von etwa 2 MJ kg\(^{-1}\). Einem Kilogramm Wasser wird bei einer Temperatur von 99\(^\circ\)C eine Wärmemenge von 2 MJ zugeführt. Als Ergebnis erhält man
+
+\begin{choices}
+	\choice etwa 1 kg Wasserdampf. (correct)
+	\choice etwa 1 kg heißes Wasser und 1 kg Wasserdampf.
+	\choice etwa 1 kg heißes Wasser.
+	\choice etwa 0,5 kg heißes Wasser und 0,5 kg Wasserdampf.
+	\choice etwa 2 kg heißes Wasser.
+\end{choices}
+
+\vspace{3mm}\question Welche der folgenden Einheiten ist die SI-Einheit für die ABSOLUTE Temperatur?
+
+\begin{choices}
+	\choice Joule
+	\choice Grad Celsius
+	\choice Watt
+	\choice Kilogramm
+	\choice Kelvin (correct)
+\end{choices}
+
+\vspace{3mm}\question Wenn zwei in jeder Hinsicht identische Flüssigkeitsmengen gemischt werden, dann
+
+\begin{choices}
+	\choice ist die Temperatur des Gemisches halb so groß wie die Ausgangstemperatur.
+	\choice ist die Temperatur des Gemisches größer als die Ausgangstemperatur.
+	\choice ist die Temperatur des Gemisches doppelt so groß wie die Ausgangstemperatur.
+	\choice ist die Temperatur des Gemisches kleiner als die Ausgangstemperatur.
+	\choice ist die Temperatur des Gemisches genauso groß wie die Ausgangstemperatur. (correct)
+\end{choices}
+
+\vspace{3mm}\question Wasser hat eine spezifische Wärmekapazität von (sehr grob angenähert) 4 kJ kg\(^{-1}\) K\(^{-1}\) und eine spezifische Verdampfungswärme von etwa 2 MJ kg\(^{-1}\).Zwei Kilogramm Wasser wird bei einer Temperatur von 99\(^\circ\)C eine Wärmemenge von 2 MJ zugeführt. Als Ergebnis erhält man
+
+\begin{choices}
+	\choice etwa 1 kg heißes Wasser und etwa 1 kg Wasserdampf. (correct)
+	\choice etwa 2 kg heißes Wasser und etwa 1 kg Wasserdampf.
+	\choice etwa 2 kg heißes Wasser und etwa 2 kg Wasserdampf.
+	\choice etwa 2 kg heißes Wasser.
+	\choice etwa 2 kg Wasserdampf.
+\end{choices}
+
+\vspace{3mm}\question Welcher Zusammenhang besteht zwischen Wärme, Wärmekapazität und Temperatur? (\(m\): Masse)
+
+\begin{choices}
+	\choice \(Q = m c^2\)
+	\choice \(Q = m c\)
+	\choice \(\Delta Q = m c \Delta T\) (correct)
+	\choice \(\Delta Q = m \Delta T\)
+	\choice \(\Delta Q = m \, (\Delta T)^2\)
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch B - Stroemungsmechanik - 2
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Das Gesetz von Hagen und Poiseuille
+
+\begin{choices}
+	\choice beschreibt nur turbulente Strömungen.
+	\choice besagt, dass die Volumenstromstärke quadratisch mit der Druckdifferenz wächst.
+	\choice gilt nur für Flüssigkeiten ohne Viskosität.
+	\choice erlaubt die Berechnung des Leitwertes eines Rohres.
+	\choice sagt eine konstante Volumenstromstärke voraus, wenn sowohl Länge als auch Querschnittsfläche eines Rohrs sich halbieren.
+\end{choices}
+
+\vspace{3mm}\question Auf einen Stempel mit einer Fläche von 10 qm wird eine Kraft von 5 N ausgeübt.
+
+\begin{choices}
+	\choice Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 50 Pa aus.
+	\choice Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 0,5 Pa aus.
+	\choice Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 25 Pa aus.
+	\choice Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 5 Pa aus.
+	\choice Der Stempel übt auf die darunterliegende Flüssigkeit einen Druck von 250 Pa aus.
+\end{choices}
+
+\vspace{3mm}\question Wenn der Radius eines Rohres verdoppelt wird, dann
+
+\begin{choices}
+	\choice verdoppelt sich auch die Länge.
+	\choice verdoppelt sich auch der Durchmesser.
+	\choice verdoppelt sich auch die Querschnittsfläche.
+	\choice vervierfacht sich auch der Durchmesser.
+	\choice vervierfacht sich auch die Länge.
+\end{choices}
+
+\vspace{3mm}\question Wie verhält sich der Strömungswiderstand \(R\) eines Rohres zum Leitwert \(G\)?
+
+\begin{choices}
+	\choice Der Leitwert ist gleich dem Quadrat des Stömungswiderstands.
+	\choice Zwischen beiden Grenzen besteht kein Zusammenhang.
+	\choice Der Strömungswiderstand ist gleich dem Leitwert.
+	\choice Der Leitwert ist der Kehrwert des Strömungswiderstandes
+	\choice Der Leitwert ist die Differenz aus Druck und Strömungswiderstand.
+\end{choices}
+
+\vspace{3mm}\question Durch die Flexibilität des Aortenbogens (der wie ein Windkessel wirkt)
+
+\begin{choices}
+	\choice wird die Volumenstromstärke nicht beeinflußt.
+	\choice wird der Blutdruck nicht beeinflußt.
+	\choice wird der diastolische Blutdruck verringert.
+	\choice werden die Spitzenwerte der Volumenstromstärke größer.
+	\choice wird der systolische Blutdruck verringert.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

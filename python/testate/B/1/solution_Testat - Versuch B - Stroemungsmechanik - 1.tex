@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch B - Stroemungsmechanik - 1
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Das Gesetz von Hagen und Poiseuille
+
+\begin{choices}
+	\choice sagt eine konstante Volumenstromstärke voraus, wenn sowohl Länge als auch Querschnittsfläche eines Rohrs sich halbieren.
+	\choice beschreibt nur turbulente Strömungen.
+	\choice gilt nur für Flüssigkeiten ohne Viskosität.
+	\choice erlaubt die Berechnung des Leitwertes eines Rohres. (correct)
+	\choice besagt, dass die Volumenstromstärke quadratisch mit der Druckdifferenz wächst.
+\end{choices}
+
+\vspace{3mm}\question Wie groß ist die Fläche eines Stempels, wenn eine Kraft von 20 N einen Druck von 100 Pa ausübt?
+
+\begin{choices}
+	\choice 200 qm
+	\choice 2000 qm
+	\choice 0,5 qm
+	\choice 5 qm
+	\choice 0,2 qm (correct)
+\end{choices}
+
+\vspace{3mm}\question Wenn die Querschnittsfläche eines Rohres viermal kleiner wird, dann
+
+\begin{choices}
+	\choice wird der Radius halbiert. (correct)
+	\choice wird auch die Länge geviertelt.
+	\choice wird der Durchmesser auch geviertelt.
+	\choice wird der Radius verdoppelt.
+	\choice bleibt der Durchmesser unverändert.
+\end{choices}
+
+\vspace{3mm}\question Die Volumenstromstärke
+
+\begin{choices}
+	\choice gibt die Geschwindigkeit der Füssigkeitsmoleküle an.
+	\choice ist gleich dem Produkt aus Rohrquerschnitt und Rohrlänge.
+	\choice ist gleich der Druckdifferenz zwischen Rohranfang und Rohrende.
+	\choice gibt an, welches Volumen pro Zeiteinheit durch einen Rohrquerschnitt fließt. (correct)
+	\choice ist gleich der Zeit, in der ein Flüssigkeitsmolekül durch das Rohr fließt.
+\end{choices}
+
+\vspace{3mm}\question Im menschlichen Gefäßsystem strömt Blut
+
+\begin{choices}
+	\choice wie eine Flüssigkeit mit einer Viskosität von Null.
+	\choice immer turbulent.
+	\choice manchmal auch turbulent. (correct)
+	\choice immer laminar.
+	\choice wie eine Flüssigkeit ohne innere Reibung.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}
