@@ -1,0 +1,42 @@
+Wenn der Gegenstand sich weiter entfernt als der Brennpunkt einer Sammellinse befindet, wo entsteht das Bild hinter der Linse?
+A) Hinter der Linse zwischen Linsenoberfläche und Brennweite.
+B) Es gibt kein Bild, der Strahl ist divergent.
+C) Im Unendlichen, es bildet sich ein paralleles Strahlenbündel.
+D) Im Bildpunkt, weiter entfernt als die Brennweite.
+E) Wenn sich der Gegenstand in einer Entfernung g vor der Linse befindet, befindet sich das Bild in derEntfernung b = f/g .
+ANSWER: D
+Wenn der Gegenstand sich zwischen Brennpunkt und Sammellinse befindet, wo entsteht das Bild hinter der Linse?
+A) Es gibt kein Bild hinter der Linse, der Strahl ist divergent.
+B) Hinter der Linse zwischen Linsenoberfläche und Brennweite.
+C) Wenn sich der Gegenstand in einer Entfernung g vor der Linse befindet, befindet sich das Bild in derEntfernung b = f/g .
+D) Es gibt kein Bild, nach der Linse entsteht ein paralleles Strahlenbündel.
+E) Im Bildpunkt, weiter entfernt als die Brennweite.
+ANSWER: A
+Wenn sich der Gegenstand im Brennpunkt einer Sammellinse befindet, wo entsteht das Bild hinter der Linse?
+A) Hinter der Linse zwischen Linsenoberfläche und Brennweite.
+B) Im Bildpunkt, weiter entfernt als die Brennweite.
+C) Es gibt kein Bild, der Strahl ist divergent.
+D)  Entfernung b = f/g .
+E) Es gibt kein Bild hinter der Linse, es entsteht ein paralleles Strahlenbündel.
+ANSWER: E
+Eine Sammellinse hat eine Brennweite von 30 cm. In welcher Entfernung entsteht das Bild, wenn der Gegenstand 90 cm entfernt ist?
+A) 45cm
+B) 75 cm
+C) 30 cm
+D) 90 cm
+E) 22,5 cm
+ANSWER: A
+Eine Sammellinse hat eine Brechkraft von 3 dpt. In welcher Entfernung entsteht das Bild, wenn der Gegenstand 100 cm entfernt ist?
+A) 33,3 cm
+B) 100 cm 
+C) 50 cm
+D) 75 cm
+E) 150cm
+ANSWER: C
+Eine Sammellinse hat eine Brennweite von 30 cm. In welcher Entfernung entsteht das Bild, wenn der Gegenstand 45 cm entfernt ist?
+A) 90cm
+B) 45 cm
+C) 60 cm
+D) 30 cm
+E) 75 cm
+ANSWER: A

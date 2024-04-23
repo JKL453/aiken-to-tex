@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,44 +30,44 @@ Testat - Versuch A - Waermelehre - 1
 
 \begin{questions}
 
-\question Welche der folgenden Einheiten ist die SI-Einheit für die Wärmeenergie?
+\question Wasser hat eine spezifische Wärmekapazität von (sehr grob angenähert) 4 kJ kg\(^{-1}\) K\(^{-1}\) und eine spezifische Verdampfungswärme von etwa 2 MJ kg\(^{-1}\). Einem Kilogramm Wasser wird bei einer Temperatur von 99\(^\circ\)C eine Wärmemenge von 2 MJ zugeführt. Als Ergebnis erhält man
 
 \begin{choices}
-	\choice Grad Celsius
-	\choice Kelvin
-	\choice Newton
-	\choice Watt
-	\choice Joule
+	\choice etwa 1 kg Wasserdampf.
+	\choice etwa 1 kg heißes Wasser.
+	\choice etwa 0,5 kg heißes Wasser und 0,5 kg Wasserdampf.
+	\choice etwa 1 kg heißes Wasser und 1 kg Wasserdampf.
+	\choice etwa 2 kg heißes Wasser.
+\end{choices}
+
+\vspace{3mm}\question Wenn warme und kalte Flüssigkeiten in gleichen Mengen gemischt werden, dann hat das Gemisch
+
+\begin{choices}
+	\choice eine Wärmeenergie, die gleich der Summe der Wärmeenergien der beiden Flüssigkeiten ist.
+	\choice die Wärmeenergie der kalten Flüssigkeit.
+	\choice eine Wärmeenergie kleiner als die Wärmeenergie der warmen Flüssigkeit.
+	\choice die Wärmeenergie der warmen Flüssigkeit.
+	\choice eine Wärmeenergie kleiner als die Wärmeenergie der kalten Flüssigkeit.
 \end{choices}
 
 \vspace{3mm}\question Wenn eine warme und eine kalte Flüssigkeitsmenge gleicher Art gemischt werden, dann hat das Gemisch
 
 \begin{choices}
-	\choice eine spezifische Wärmekapazität, die ähnlich groß wie die spezifischen Wärmekapazität der kalten oder der warmen Flüssigkeit ist.
-	\choice die halbe spezifische Wärmekapazität der kalten Flüssigkeit.
-	\choice die halbe spezifische Wärmekapazität der warmen Flüssigkeit.
 	\choice eine spezifische Wärmekapazität etwa gleich der Summe der spezifischen Wärmekapazitäten der beiden Flüssigkeiten.
 	\choice die doppelte spezifische Wärmekapazität der kalten Flüssigkeit.
+	\choice die halbe spezifische Wärmekapazität der kalten Flüssigkeit.
+	\choice die halbe spezifische Wärmekapazität der warmen Flüssigkeit.
+	\choice eine spezifische Wärmekapazität, die ähnlich groß wie die spezifischen Wärmekapazität der kalten oder der warmen Flüssigkeit ist.
 \end{choices}
 
-\vspace{3mm}\question Welche der folgenden Aussagen ist FALSCH?
+\vspace{3mm}\question Wasser hat eine spezifische Wärmekapazität von (sehr grob angenähert) 4 kJ kg\(^{-1}\) K\(^{-1}\) und eine spezifische Verdampfungswärme von etwa 2 MJ kg\(^{-1}\).Einem Kilogramm Wasser wird bei einer Temperatur von 99\(^\circ\)C eine Wärmemenge von 2 MJ zugeführt. Als Ergebnis erhält man
 
 \begin{choices}
-	\choice Eine Temperatur von 0 K entspricht einer Temperatur von etwa -273,15\(^\circ\)C.
-	\choice Für Temperaturdifferenzen erhält man mit der Kelvin- und der Celsiusskala die gleichen Werte.
-	\choice Eine Temperaturdifferenz von 1 K entspricht einer Temperaturdifferenz von 1\(^\circ\)C.
-	\choice Physikalische Ausdrücke, die die absolute Temperatur enthalten, erfordern Angaben in der Kelvinskala.
-	\choice Für die spezifische Wärmekapazität eines Körpers muß man unterschiedliche Werte verwenden, je nachdem, ob man mit Kelvin oder mit Grad Celsius rechnet.
-\end{choices}
-
-\vspace{3mm}\question Durch eine Wärmezufuhr von 4 J werden 2 g einer Flüssigkeit verdampft.Das heißt,
-
-\begin{choices}
-	\choice Die Wärmekapazität der Flüssigkeit beträgt 2 J g\(^{-1}\) K\(^{-1}\).
-	\choice Die spezifische Verdampfungswärme beträgt 1 J g\(^{-1}\).
-	\choice Die spezifische Verdampfungswärme beträgt 2 J g\(^{-1}\).
-	\choice Die spezifische Verdampfungswärme beträgt 0,5 J g\(^{-1}\).
-	\choice Die Wärmekapazität der Flüssigkeit beträgt 1 J g\(^{-1}\) K\(^{-1}\).
+	\choice etwa 1 kg heißes Wasser und 1 kg Wasserdampf.
+	\choice etwa 0,5 kg heißes Wasser und 0,5 kg Wasserdampf.
+	\choice etwa 2 kg heißes Wasser.
+	\choice etwa 1 kg heißes Wasser.
+	\choice etwa 1 kg Wasserdampf.
 \end{choices}
 
 \vspace{3mm}\question Welcher Zusammenhang besteht zwischen Wärme, Wärmekapazität und Temperatur? (\(m\): Masse)
@@ -70,9 +75,9 @@ Testat - Versuch A - Waermelehre - 1
 \begin{choices}
 	\choice \(\Delta Q = m \, (\Delta T)^2\)
 	\choice \(\Delta Q = m \Delta T\)
-	\choice \(Q = m c\)
 	\choice \(\Delta Q = m c \Delta T\)
 	\choice \(Q = m c^2\)
+	\choice \(Q = m c\)
 \end{choices}
 
 \vspace{3mm}\end{questions}

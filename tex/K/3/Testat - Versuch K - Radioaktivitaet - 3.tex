@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -28,51 +33,53 @@ Testat - Versuch K - Radioaktivitaet - 3
 \question Die Aktivität einer radioaktiven Substanz wird in Becquerel angegeben. Wie setzt sich diese Größe aus den  SI-Basiseinheiten zusammen?
 
 \begin{choices}
+	\choice \( \text{s}^{-1} \)
+	\choice \( \text{kg}\cdot\frac{\text{m}}{\text{s}^2} \)
+	\choice \( \frac{\text{J}}{\text{kg}} \)
 	\choice \( \frac{\text{J}}{\text{s}} \)
 	\choice s
-	\choice \( \text{kg}\cdot\frac{\text{m}}{\text{s}^2} \)
-	\choice \( \text{s}^{-1} \)
-	\choice \( \frac{\text{J}}{\text{kg}} \)
 \end{choices}
 
-\vspace{3mm}\question Welche Zuordnung von Zerfallsart und frei werdendem Teilchen ist falsch?
+\vspace{3mm}\question Im unten dargestellten Diagramm ist die Aktivität eines radioaktiven Präparates in Abhängigkeit von der Zeit dargestellt. Wie groß ist die Halbwertszeit? 
+
+\includegraphics[width=0.5\textwidth]{../../../questions/K/images/zerfallsgesetz.png}
 
 \begin{choices}
-	\choice \( \gamma \)-Umwandlung - elektromagnetische Welle
-	\choice \( \beta^+ \)-Zerfall - Proton
-	\choice \( \beta^- \)-Zerfall - Elektron
-	\choice \( \beta^- \)-Zerfall - Antineutrino
-	\choice \( \alpha \)-Zerfall - Heliumkern
+	\choice etwa 100 min
+	\choice etwa 5 min
+	\choice etwa 1 min
+	\choice etwa 20 min
+	\choice etwa 10 min
 \end{choices}
 
-\vspace{3mm}\question Die Halbwertsdicke eines Absorbers beträgt für radioaktives Barium-137m ca. 5 mm. Wieviel Prozent der Strahlung ist nach 12 mm übrig?
+\vspace{3mm}\question Die Halbwertsdicke für Blei bei 100 kV Röntgenstrahlung beträgt ca. 0,012 cm. Sie assistieren bei einer Angiographie mit 100 kV Röntgenstrahlung und tragen eine Bleischürze mit einer Dicke von 0,36 mm Blei. Wieviel Prozent der Strahlung wird abgeschirmt?
 
 \begin{choices}
-	\choice 40 %
-	\choice 19 %
-	\choice 38 %
+	\choice 75 %
+	\choice 67 %
+	\choice 93,5 %
+	\choice 87,5 %
 	\choice 12,5 %
-	\choice 25 %
 \end{choices}
 
-\vspace{3mm}\question Welche Zuordnung von Zerfallsart und frei werdendem Teilchen ist falsch?
+\vspace{3mm}\question Was hat keinen Einfluss auf die gemessene Zählrate?
 
 \begin{choices}
-	\choice \( \alpha \)-Zerfall - Heliumkern
-	\choice \( \gamma \)-Umwandlung - elektromagnetische Welle
-	\choice \( \beta^+ \)-Zerfall - Proton
-	\choice \( \beta^- \)-Zerfall - Antineutrino
-	\choice \( \beta^- \)-Zerfall - Elektron
+	\choice Aktivität der Quelle
+	\choice Absorbermaterial
+	\choice Abstand zur Quelle
+	\choice Absorberdicke
+	\choice Temperatur
 \end{choices}
 
-\vspace{3mm}\question Das Schwächungsgesetz beschreibt den Zusammenhang zwischen Intensität der Strahlung und Absorberdicke. Der Zusammenhang zwischen diesen Größen ist ...
+\vspace{3mm}\question Welche Strahlungsart hat die kleinste Reichweite in Materie (bei gleicher Energie)?
 
 \begin{choices}
-	\choice quadratisch.
-	\choice antiproportional.
-	\choice proportional.
-	\choice exponentiell.
-	\choice keine der Antworten ist richtig.
+	\choice \( \beta^+ \)-Strahlung
+	\choice alpha-Strahlung
+	\choice Röntgenstrahlung
+	\choice gamma-Strahlung
+	\choice \( \beta^- \)-Strahlung
 \end{choices}
 
 \vspace{3mm}\end{questions}

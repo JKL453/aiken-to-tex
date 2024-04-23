@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,56 @@ Testat - Versuch J - Ultraschall - 1
 
 \begin{questions}
 
-\question Die Schallgeschwindigkeit...
+\question Wie groß ist die Wellenlänge des in der Graphik dargestellten Schallsignals (in Luft)? 
+
+\includegraphics[width=0.5\textwidth]{../../../questions/J/images/SchallSinus2.png}
 
 \begin{choices}
-	\choice ist bei zwei Schallwellen mit unterschiedlicher Frequenz gleich, wenn sie sich im gleichen Medium ausbreiten.
-	\choice ist vom Übertragenden Medium unabhängig
-	\choice Keine Antwort ist richtig.
-	\choice ist im Vakuum größer als in Luft, da die Luftmoleküle die Schallübertragung dämpfen
-	\choice hängt von der Amplitude der Schallwelle ab
+	\choice 34,3 m
+	\choice 2 s
+	\choice 686 m
+	\choice 0,5 Hz
+	\choice 343 m
 \end{choices}
 
-\vspace{3mm}\question Mit welcher Gleichung lässt sich der zurückgelegte Weg \( s \) eines Schallsignals beschreiben?( \( t \) Laufzeit des Signals, \( c \) Schallgeschwindigkeit )
+\vspace{3mm}\question Welcher Zusammenhang besteht zwischen Frequenz \( f \) und der Periodendauer \( T \) ?
 
 \begin{choices}
-	\choice \( s = c \cdot t^2 \)
-	\choice \( s= \frac{t}{c} \)
-	\choice \( s=c \cdot t \)
-	\choice \( s= \frac{c}{t} \)
-	\choice \( s=c^2 \cdot t \)
+	\choice Die Frequenz ist proportional zur Periodendauer.
+	\choice Die Frequenz ist das Quadrat der Periodendauer.
+	\choice Die Frequenz ist die Quadratwurzel aus der Periodendauer.
+	\choice Die Frequenz ist das Doppelte der Periodendauer.
+	\choice Die Frequenz ist das Inverse der Periodendauer.
 \end{choices}
 
-\vspace{3mm}\question Mit einem Echolot soll eine Position eines Gegenstandes in einem Medium mit einer Schallgeschwindigkeit von 1000 m/s überprüft werden. Dazu wird durch eine Sonde eine Schallwelle ausgestrahlt, die an dem Gegenstand reflektiert wird und daraufhin wieder an der Sonde eintrifft. Es dauert 10 s, bis die Schallwelle nach ihrer Aussendung wieder an der Sonde eintrifft. Wie weit liegt der Gegenstand von der Sonde entfernt?
+\vspace{3mm}\question Mit einem Echolot soll eine Position eines Gegenstandes in einem Medium mit einer Schallgeschwindigkeit von 100 m/s überprüft werden. Dazu wird durch eine Sonde eine Schallwelle ausgestrahlt, die an dem Gegenstand reflektiert wird und daraufhin wieder an der Sonde eintrifft. Wie lange müsste es bei einer Entfernung zwischen Gegenstand und Sonde von 25~m dauern, bis die Schallwelle nach ihrer Aussendung wieder an der Sonde eintrifft?
 
 \begin{choices}
-	\choice etwa 100 m
-	\choice etwa 20000 m
-	\choice etwa 5000 m
-	\choice etwa 10000 m
-	\choice etwa 500 m
+	\choice etwa 0,25 s
+	\choice etwa 1 s
+	\choice etwa 0,5 s
+	\choice etwa 4 s
+	\choice etwa 2 s
 \end{choices}
 
-\vspace{3mm}\question Bei welcher Frequenz \( f \) befindet sich bei einem gesunden menschlichen Durchschnittsohr die untere Hörschwelle?
+\vspace{3mm}\question Der piezoelektrische Effekt...
 
 \begin{choices}
-	\choice 20 kHz
-	\choice 20 Hz
-	\choice 2000 Hz
-	\choice 16 kHz
-	\choice 16 MHz
+	\choice bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung sehr stark erwärmt.
+	\choice bewirkt, dass sich ein Körper beim Anlegen einer elektrischen Spannung mechanisch verformt.
+	\choice ist nicht umkehrbar.
+	\choice bewirkt, dass Schallwellen an ebenen Flächen reflektiert werden.
+	\choice ist bei Raumtemperatur vernachlässigbar.
 \end{choices}
 
 \vspace{3mm}\question Welche Aussagen zur Ultraschalldiagnostik sind zutreffend?	* Ultraschallgeräte funktionieren nach dem Prinzip der Laufzeitbestimmung  von Ultraschallpulsen.	* Trifft ein Ultraschallpuls auf eine Grenzfläche zwischen zwei Medien, so wird der Schall daran immer vollständig reflektiert. So entsteht ein Echo, das für die Laufzeitbestimmung genutzt werden kann.	* In einem Ultraschallgerät sind meistens zwei verschiedene Geräte, ein Ultraschall-Sender und ein Ultraschall-Empfänger, eingebaut.	* Die Reflexion von Ultraschallwellen an Gewebegrenzflächen kann mit dem aus der Optik bekannten Reflexionsgesetz beschrieben werden.
 
 \begin{choices}
-	\choice Nur 1 und 2 sind richtig.
 	\choice Nur 2 und 3 sind richtig.
-	\choice Nur 2 ist falsch.
+	\choice Nur 1 und 2 sind richtig.
 	\choice Nur 1 und 4 sind richtig.
 	\choice Nur 4 ist falsch.
+	\choice Nur 2 ist falsch.
 \end{choices}
 
 \vspace{3mm}\end{questions}

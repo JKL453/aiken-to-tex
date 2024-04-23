@@ -1,0 +1,28 @@
+Welche Aussage trifft zu:Bei dem Übergang eines schräg einfallenden Lichtstrahls vom optisch dünneren (Medium 1) zum optisch dichteren Medium 2 wird (n1 < n2):
+A) Die Lichtgeschwindigkeit erhöht
+B) Das Licht zum Einfallslot hin gebrochen
+C) Der Lichtstrahl nicht abgelenkt
+D) Stets Totalreflektion erreicht
+E) Das Licht zum Einfallslot weg gebrochen
+ANSWER: B
+Was versteht man unter dem Brennpunkt?
+A) Der Punkt in dem Strahlen aus dem Unendlichen von der Linse gesammelt werden.
+B) Der Punkt in dem sich die Strahlen des betrachteten Gegenstandes hinter der Linse sammeln.
+C) Der Punkt in dem die optische Achse das Zentrum der Linse durchstößt.
+D) Das Zentrum der Lichtquelle.
+E) Keine der Alternativen ist richtig.
+ANSWER: A
+Wann wird ein paralleles Strahlenbündel gebrochen?
+A) Wenn es unter senkrechtem Einfall auf eine gekrümmte Grenzfläche zweier transparenter Medien mitunterschiedlichem Brechungsindex trifft.
+B) Wenn es unter senkrechtem Einfall auf eine gekrümmte Grenzfläche zweier transparenter Medien mit gleichem Brechungsindex trifft.
+C) Wenn es unter senkrechtem Einfall auf eine ebene Grenzfläche zweier transparenter Medien trifft, in denen Licht eine unterschiedliche Ausbreitungsgeschwindigkeit hat.
+D) Wenn es in Luft unter senkrechtem Einfall auf die plane Seite einer Plankonkavlinse trifft.
+E) Wenn es unter nicht senkrechtem Einfall auf die Grenzfläche eines transparenten und eines nicht-transparenten Mediums trifft.
+ANSWER: A
+Wie sind die Lichtgeschwindigkeit c, die Vakuum-Lichtgeschwindigkeit c0 und der Brechungsindex n miteinander verknüpft?
+A) n·c=c0
+B) 1 /C0−1/C =n
+C) 1 /C0−1/C =1/n
+D) n·c0 =c
+E) c0 − c = n
+ANSWER: A

@@ -1,0 +1,35 @@
+In welchem Verhältnis stehen Brechkraft und Brennweite?
+A) Die Summe ergibt 1.
+B) Sie ergeben miteinander multipliziert 1.
+C) Die Brechkraft multipliziert mit dem Brechungsindex ergibt die Brennweite.
+D) Wenn man die Brechkraft von der Brennweite subtrahiert ergeben sie 0.
+E) Wenn man die Brechkraft zur Brennweite addiert kommt man auf die Bildweite.
+ANSWER: B
+Eine Sammellinse hat eine Brechkraft von 3 dpt. In welcher Entfernung entsteht das Bild, wenn der Gegenstand 50 cm entfernt ist?
+A) 100cm
+B) 75 cm
+C) 50 cm
+D) 25 cm
+E) 150 cm
+ANSWER: A
+Wie lautet die Einheit der Brechkraft?
+A) einheitenlos
+B) s
+C) 1/m
+D) N/m
+E) m
+ANSWER: C
+Es wird näherungsweise der Brechwert (“Brechkraft”) eines Brillenglases (in Luft) bestimmt. Hierbei wird eine Lupe mit einer Brennweite von 10 cm verwendet. Das Brillenglas und die Lupe werden hintereinander angeordnet, wobei der Abstand der Mittelebenen der Linsen vernachlässigbar klein sei (“dünne” Linsen direkt hintereinander). Parallel einfallende Lichtstrahlen bündeln sich etwa 20 cm hinter den beiden Linsen.Etwa welchen Brechwert hat das Brillenglas?
+A) +3 dpt
+B) -3 dpt
+C) -10 dpt
+D) -5dpt
+E) +5 dpt
+ANSWER: D
+Welche Grenzfläche im Auge trägt am meisten zur Gesamtbrechkraft des optischen Systems bei?
+A) Kammerwasser-Regenbogenhaut
+B) Hornhaut-Kammerwasser
+C) Linse-Glaskörper
+D) Kammerwasser-Linse
+E) Luft-Hornhaut
+ANSWER: E

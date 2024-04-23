@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,54 @@ Testat - Versuch H - Spektralphotometer - 1
 
 \begin{questions}
 
-\question Die Lichtgeschwindigkeit im Vakuum betr¨agt ungefähr:
+\question Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
+
+\begin{choices}
+	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
+	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice mit zunehmender Konzentration der Lösung kleiner wird.
+	\choice unabhängig von der Wellenlänge des Lichtes ist.
+	\choice linear von der Schichtdicke d abhängt.
+\end{choices}
+
+\vspace{3mm}\question Die Lichtgeschwindigkeit im Vakuum betr¨agt ungefähr:
 
 \begin{choices}
 	\choice Keine der Aussagen trifft zu.
 	\choice \( 3 \cdot10^5 km/s \)
-	\choice \( 3 \cdot10^5 m/h \)
 	\choice \( 3 \cdot10^5 m/s \)
+	\choice \( 3 \cdot10^5 m/h \)
 	\choice \( 3 \cdot10^5 km/h \)
 \end{choices}
 
-\vspace{3mm}\question Das Lambert-Beersche Gesetz besagt, dass die Transmission ...
+\vspace{3mm}\question Eine Farbstoffl¨osung absorbiert 99 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
 
 \begin{choices}
-	\choice linear von der Schichtdicke d abhängt.
-	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
-	\choice mit zunehmender Konzentration der Lösung größer wird.
-	\choice unabhängig von der Wellenlänge des Lichtes ist.
-	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice 99
+	\choice 0,01
+	\choice 1
+	\choice 0,99
+	\choice 2
 \end{choices}
 
-\vspace{3mm}\question Ordnen Sie die folgenden elektromagnetischen Wellen aufsteigend nach ihrer Wellenlänge:weiche Röntgenstrahlung: \( \lambda_1 \)Gammastrahlung: \( \lambda_2 \)sichtbares Licht: \( \lambda_3 \)Radiokurzwellen: \( \lambda_4 \)
+\vspace{3mm}\question Wie heißt der an die kurzwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
 
 \begin{choices}
-	\choice \( \lambda_1 < \lambda_2 < \lambda_3 < \lambda_4 \)
-	\choice \( \lambda_2 < \lambda_1 < \lambda_3 < \lambda_4 \)
-	\choice \( \lambda_3 < \lambda_4 < \lambda_2 < \lambda_1 \)
-	\choice \( \lambda_4 < \lambda_3 < \lambda_1 < \lambda_2 \)
-	\choice \( \lambda_4 < \lambda_1 < \lambda_2 < \lambda_3 \)
+	\choice Röntgenstrahlung
+	\choice Langwelle
+	\choice Infrarot
+	\choice Ultraviolett
+	\choice Mikrowelle
 \end{choices}
 
-\vspace{3mm}\question Welche Kurve der Abbildung gibt den Verlauf der Extinktion in Abhängigkeit von der Konzentrationrichtig wieder?
+\vspace{3mm}\question Ordnen Sie die folgenden elektromagnetischen Wellen aufsteigend nach ihrer Frequenz:weiche Röntgenstrahlung: \( \nu_1 \)Gammastrahlung: \( \nu_2 \)sichtbares Licht: \( \nu_3 \)Radiokurzwellen: \( \nu_4 \)
 
 \begin{choices}
-	\choice E
-	\choice D
-	\choice B
-	\choice A
-	\choice C
-\end{choices}
-
-\vspace{3mm}\question Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
-
-\begin{choices}
-	\choice linear von der Schichtdicke d abhängt.
-	\choice unabhängig von der Wellenlänge des Lichtes ist.
-	\choice mit zunehmender Konzentration der Lösung kleiner wird.
-	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
-	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice \( \nu_3 \) < \( \nu_4 \) < \( \nu_2 \) < \( \nu_1 \)
+	\choice \( \nu_1 \) < \( \nu_2 \) < \( \nu_3 \) < \( \nu_4 \)
+	\choice \( \nu_2 \) < \( \nu_1 \) < \( \nu_3 \) < \( \nu_4 \)
+	\choice \( \nu_4 \) < \( \nu_1 \) < \( \nu_2 \) < \( \nu_3 \)
+	\choice \( \nu_4 \) < \( \nu_3 \) < \( \nu_1 \) < \( \nu_2 \)
 \end{choices}
 
 \vspace{3mm}\end{questions}

@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,54 @@ Testat - Versuch H - Spektralphotometer - 2
 
 \begin{questions}
 
-\question Das Lambert-Beersche Gesetz besagt, dass die Transmission ...
+\question Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
 
 \begin{choices}
-	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
-	\choice unabhängig von der Wellenlänge des Lichtes ist.
-	\choice mit zunehmender Konzentration der Lösung größer wird.
-	\choice linear von der Schichtdicke d abhängt.
 	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice linear von der Schichtdicke d abhängt.
+	\choice mit zunehmender Konzentration der Lösung kleiner wird.
+	\choice unabhängig von der Wellenlänge des Lichtes ist.
+	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
 \end{choices}
 
-\vspace{3mm}\question Welche Kurve der Abbildung gibt den Verlauf der Extinktion in Abhängigkeit von der Materialdickerichtig wieder?
+\vspace{3mm}\question Elektromagnetische Wellen im Bereich des sichtbaren Lichts ...
 
 \begin{choices}
-	\choice D
-	\choice A
-	\choice C
-	\choice E
-	\choice B
+	\choice haben eine höhere Frequenz als UV-Strahlung.
+	\choice haben die gleiche Wellenlänge wie Gamma-Strahlung.
+	\choice haben eine längere Wellenlänge als Radiowellen.
+	\choice haben eine kürzere Wellenlänge als Röntgenstrahlung.
+	\choice haben eine höhere Frequenz als IR-Strahlung.
 \end{choices}
 
-\vspace{3mm}\question Welche Kurve der Abbildung gibt den Verlauf der Extinktion in Abhängigkeit von der Konzentrationrichtig wieder?
+\vspace{3mm}\question Eine Farbstofflösung transmittiert 10 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
 
 \begin{choices}
-	\choice A
-	\choice D
-	\choice E
-	\choice B
-	\choice C
-\end{choices}
-
-\vspace{3mm}\question Eine Farbstoffl¨osung absorbiert 99 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
-
-\begin{choices}
-	\choice 1
-	\choice 0,99
 	\choice 2
-	\choice 0,01
+	\choice 1
 	\choice 99
+	\choice 0,01
+	\choice 0,99
+\end{choices}
+
+\vspace{3mm}\question Wie heißt der an die langwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
+
+\begin{choices}
+	\choice Ultraviolett
+	\choice Infrarot
+	\choice Langwelle
+	\choice Mikrowelle
+	\choice Röntgenstrahlung
 \end{choices}
 
 \vspace{3mm}\question Ordnen Sie die folgenden elektromagnetischen Wellen aufsteigend nach ihrer Wellenlänge:weiche Röntgenstrahlung: \( \lambda_1 \)Gammastrahlung: \( \lambda_2 \)sichtbares Licht: \( \lambda_3 \)Radiokurzwellen: \( \lambda_4 \)
 
 \begin{choices}
-	\choice \( \lambda_3 < \lambda_4 < \lambda_2 < \lambda_1 \)
 	\choice \( \lambda_4 < \lambda_3 < \lambda_1 < \lambda_2 \)
-	\choice \( \lambda_1 < \lambda_2 < \lambda_3 < \lambda_4 \)
-	\choice \( \lambda_2 < \lambda_1 < \lambda_3 < \lambda_4 \)
 	\choice \( \lambda_4 < \lambda_1 < \lambda_2 < \lambda_3 \)
+	\choice \( \lambda_1 < \lambda_2 < \lambda_3 < \lambda_4 \)
+	\choice \( \lambda_3 < \lambda_4 < \lambda_2 < \lambda_1 \)
+	\choice \( \lambda_2 < \lambda_1 < \lambda_3 < \lambda_4 \)
 \end{choices}
 
 \vspace{3mm}\end{questions}

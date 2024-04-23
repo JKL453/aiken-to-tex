@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,56 @@ Testat - Versuch E - Diffusion und Osmose - 2
 
 \begin{questions}
 
-\question In einer Doppelkammer, auf deren einer Seite eine Konzentration von 25 \(\frac{mg}{l} \) und auf der anderen von 10 \(  \frac{mg}{l} \) herrscht  und die durch eine Membran der Dicke 100 \(\mu \)m geteilt ist, herrscht ein Diffusionsfluss von 4  \( \frac{mg}{min}\). Wie groß ist der Diffusionsfluss, wenn die Konzentration auf der einen Seite von 10 \(  \frac{mg}{l} \)   auf 20 \(  \frac{mg}{l} \)  erhöht wird?
+\question Wenn in zwei Kammern, die durch eine Membran von 1 cm Dicke getrennt sind, auf einer Seite eine Salzkonzentration von 30 \( \frac{g}{cm^3} \) und auf der anderen Seite eine Konzentration von 300 \( \frac{mg}{cm^3} \) herrscht, wie groß ist dann der Konzentrationsgradient über der Membran?
 
 \begin{choices}
-	\choice \( \frac{4}{3} \) \( \frac{mg}{min} \) (correct)
-	\choice \( \frac{5}{4} \) \( \frac{mg}{min} \)
-	\choice \( \frac{2}{3} \) \( \frac{mg}{min} \)
-	\choice \( \frac{4}{5} \) \( \frac{mg}{min} \)
-	\choice \( \frac{3}{4} \) \( \frac{mg}{min} \)
+	\choice 33 \( \frac{g}{cm^4} \)
+	\choice 30 \( \frac{g}{cm^4} \)
+	\choice 30,3 \( \frac{g}{cm^4} \)
+	\choice 29,7 \( \frac{g}{cm^4} \) (correct)
+	\choice 27 \( \frac{g}{cm^4} \)
 \end{choices}
 
-\vspace{3mm}\question Die Leitfähigkeit von 20 ml Salzlösung wird zu 5,0 \( \frac{\mu S}{cm} \) bestimmt. Welches Volumen an destilliertem Wasser muss zugeführt werden, um eine Leitfähigkeit von 10,0 \( \frac{\mu S}{cm} \) zu messen?
+\vspace{3mm}\question Wo ist der Konzentrationsgradient der schwarzen Teilchen über die Membran (grau) am größten? 
+
+\includegraphics[width=0.5\textwidth]{../../../questions/E/images/Diffusion.png}
 
 \begin{choices}
-	\choice 30 ml
-	\choice 10 ml
-	\choice keine Antwort richtig (correct)
-	\choice 0 ml
-	\choice 20 ml
+	\choice e)
+	\choice c)
+	\choice d)
+	\choice a)
+	\choice b) (correct)
 \end{choices}
 
-\vspace{3mm}\question Wie ändert sich der Diffusionsfluss \( J \) durch eine kreisförmige Membran, wenn deren Durchmesser sich verdoppelt und deren Dicke auf die Hälfte reduziert wird?
+\vspace{3mm}\question Wie ändert sich der Diffusionsfluss \( J \) durch eine kreisförmige Membran, wenn deren Durchmesser sich verdoppelt?
 
 \begin{choices}
-	\choice \( J \) wächst um das Vierfache.
-	\choice \( J \) wächst auf das Doppelte.
-	\choice \( J \) sinkt auf die Hälfte.
-	\choice \( J \) wächst auf das Achtfache. (correct)
+	\choice \( J \) ist unabhängig vom Durchmesser der Membran.
+	\choice \( J \) vervierfacht sich. (correct)
+	\choice \( J \) verdoppelt sich.
 	\choice \( J \) quadriert sich.
+	\choice \( J \) halbiert sich.
 \end{choices}
 
-\vspace{3mm}\question Eine kolligative Eigenschaft ist eine Stoffeigenschaft, die ...
+\vspace{3mm}\question Der Diffusionsfluss beschreibt ...
 
 \begin{choices}
-	\choice von der Temperatur abhängt.
-	\choice von der Teilchenzahl und -größe abhängt.
-	\choice nur von der Teilchenzahl abhängt. (correct)
-	\choice von der Anzahl, Größe und Wertigkeit der Teilchen abhängt.
-	\choice die Wechselwirkungen der Teilchen untereinander beschreibt.
+	\choice die transportierte Stoffmenge.
+	\choice die transportierte Stoffmenge pro Zeit und Fläche.
+	\choice die transportierte Stoffmenge pro Volumen.
+	\choice die transportierte Stoffmenge pro Fläche.
+	\choice die transportierte Stoffmenge pro Zeit. (correct)
 \end{choices}
 
-\vspace{3mm}\question Von welchen Größen hängt der osmotische Druck eines gelösten Stoffes ab?
+\vspace{3mm}\question Die Angabe des Diffusionskoeffizienten \( D={6,0 \cdot 10^{-9}} \frac{m^2}{s} \) ist äquivalent zu
 
 \begin{choices}
-	\choice Dichte und Diffusionskoeffizient des Stoffes
-	\choice Konzentration des Stoffes und Temperatur (correct)
-	\choice Nur vom Van't-Hoff-Faktor des Stoffes
-	\choice Molare Masse und Ladung des Stoffes
-	\choice Gyrationsradius und Konzentration des Stoffes
+	\choice \( D={1,0 \cdot 10^{-6}} \frac{mm^2}{min} \)
+	\choice \( D={3,6 \cdot 10^{-1}} \frac{mm^2}{min} \) (correct)
+	\choice \( D={0,1 \cdot 10^{-2}} \frac{mm^2}{min} \)
+	\choice \( D={0,36 \cdot 10^{-3}} \frac{mm^2}{min} \)
+	\choice \( D={36 \cdot 10^{2}} \frac{mm^2}{min} \)
 \end{choices}
 
 \vspace{3mm}\end{questions}

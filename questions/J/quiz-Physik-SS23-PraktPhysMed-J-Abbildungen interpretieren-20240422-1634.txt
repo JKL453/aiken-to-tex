@@ -1,0 +1,63 @@
+In der Graphik (beliebige Einheiten) wird die Amplitude wiedergegeben durch ... ? [Sinuskurve]
+A) Linie A
+B) Linie B
+C) Linie C
+D) Linie D
+E) Linie E
+ANSWER: C
+Wie groß ist die Amplitude des in der Graphik dargestellten Signals? [SchallSinus2]
+A) 2 s
+B) 20 mV
+C) 10 V
+D) 5 mV
+E) 0,5 Hz
+ANSWER: D
+In der Graphik (beliebige Einheiten) werden die Amplitude und die Periodendauer wiedergegeben durch ... ? [Sinuskurve]
+A) Linie B und Linie A
+B) Linie B und Linie D
+C) Linie C und Linie A
+D) Linie C und Linie D
+E) Linie C und Linie E
+ANSWER: C
+Wie hoch ist die Frequenz des in der Graphik dargestellten Signals? [SchallSinus1]
+A) 10 Hz
+B) 0,2 Hz
+C) 10 s
+D) 5 s
+E) 0,1 Hz
+ANSWER: E
+In der Graphik (beliebige Einheiten) wird die Periodendauer wiedergegeben durch ... ? [Sinuskurve]
+A) Linie A
+B) Linie B
+C) Linie C
+D) Linie D
+E) Linie E
+ANSWER: A
+Wie lang ist die Periodendauer des in der Graphik dargestellten Signals? [SchallSinus2]
+A) 2 s
+B) 1 s
+C) 10 mV
+D) 5 mV
+E) 4 s
+ANSWER: A
+Wie groß ist die Wellenlänge des in der Graphik dargestellten Schallsignals (in Luft)? [SchallSinus2]
+A) 34,3 m
+B) 0,5 Hz
+C) 343 m
+D) 686 m
+E) 2 s
+ANSWER: D
+In der Graphik (beliebige Einheiten) wird die Wellenlänge wiedergegeben durch ... ? [Sinuskurve]
+A) Linie A
+B) Linie B
+C) Linie C
+D) Linie D
+E) Linie E
+ANSWER: A
+Wie groß ist die Wellenlänge des in der Graphik dargestellten Signals (in Luft)? [SchallSinus1]
+A) 3430 m
+B) 10 s
+C) 25 s
+D) 6,86 m
+E) 0,1 Hz
+ANSWER: A

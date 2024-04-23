@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,54 @@ Testat - Versuch H - Spektralphotometer - 3
 
 \begin{questions}
 
-\question Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
+\question Bei einer photometrischen Konzentrationsbestimmung in der Labormedizin wird die Lichtschwächung gemessen, die von der zu untersuchenden Substanz in der Messküvette bewirkt wird. Die in der Flüssigkeit eingestrahlte Lichtintensität ist \( I_0 \) und die die Flüssigkeit verlassende Lichtintensität ist \(I\). Der Leer-Wert sei vernachlässigbar oder bereits abgezogen. Welche Proportionalität zur Substanz besteht für verdünnte Lösungen und monochromatische Messstrahlung typischerweisenach Lambert Beer?
 
 \begin{choices}
-	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
-	\choice mit zunehmender Konzentration der Lösung kleiner wird.
-	\choice unabhängig von der Wellenlänge des Lichtes ist.
-	\choice linear von der Schichtdicke d abhängt.
-	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice \( e^{( \frac{I_0}{I})} \sim c \)
+	\choice \( \frac{I_0}{I} \sim c \)
+	\choice \( \frac{I}{I_0} \sim c \)
+	\choice \( 1/( \frac{I_0}{I}) \sim c \)
+	\choice \( ln ( \frac{I_0}{I}) \sim c \)
 \end{choices}
 
-\vspace{3mm}\question Elektromagnetische Wellen im Bereich des sichtbaren Lichts ...
+\vspace{3mm}\question Die Lichtgeschwindigkeit im Vakuum betr¨agt ungefähr:
 
 \begin{choices}
-	\choice haben eine höhere Frequenz als UV-Strahlung.
-	\choice haben eine längere Wellenlänge als Radiowellen.
-	\choice haben eine höhere Frequenz als IR-Strahlung.
-	\choice haben die gleiche Wellenlänge wie Gamma-Strahlung.
-	\choice haben eine kürzere Wellenlänge als Röntgenstrahlung.
-\end{choices}
-
-\vspace{3mm}\question Wenn \( \lambda_1 > \lambda_2 \), dann gilt für  \( \lambda_1 \)
-
-\begin{choices}
-	\choice Kleinere Frequenz, kleinere Energie als \( \lambda_2 \).
-	\choice Kleinere Frequenz, gleiche Energie wie \( \lambda_2 \).
-	\choice Höhere Frequenz, kleinere Energie als \( \lambda_2 \).
-	\choice Kleinere Frequenz, höhere Energie als \( \lambda_2 \).
-	\choice Höhere Frequenz, gleiche Energie wie \( \lambda_2 \).
-\end{choices}
-
-\vspace{3mm}\question Welche Kurve der Abbildung gibt den Verlauf der transmittierten Intensität in Abhängigkeit vonder durchstrahlten Materialdicke richtig wieder?
-
-\begin{choices}
-	\choice A
-	\choice B
-	\choice D
-	\choice C
-	\choice E
+	\choice \( 3 \cdot10^5 m/s \)
+	\choice \( 3 \cdot10^5 km/h \)
+	\choice Keine der Aussagen trifft zu.
+	\choice \( 3 \cdot10^5 km/s \)
+	\choice \( 3 \cdot10^5 m/h \)
 \end{choices}
 
 \vspace{3mm}\question Eine Farbstofflösung transmittiert 10 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
 
 \begin{choices}
-	\choice 99
 	\choice 0,01
+	\choice 0,99
+	\choice 99
 	\choice 1
 	\choice 2
-	\choice 0,99
+\end{choices}
+
+\vspace{3mm}\question Wie heißt der an die kurzwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
+
+\begin{choices}
+	\choice Röntgenstrahlung
+	\choice Langwelle
+	\choice Infrarot
+	\choice Mikrowelle
+	\choice Ultraviolett
+\end{choices}
+
+\vspace{3mm}\question Wenn \( \lambda_1 > \lambda_2 \), dann gilt für  \( \lambda_1 \)
+
+\begin{choices}
+	\choice Kleinere Frequenz, höhere Energie als \( \lambda_2 \).
+	\choice Höhere Frequenz, gleiche Energie wie \( \lambda_2 \).
+	\choice Höhere Frequenz, kleinere Energie als \( \lambda_2 \).
+	\choice Kleinere Frequenz, gleiche Energie wie \( \lambda_2 \).
+	\choice Kleinere Frequenz, kleinere Energie als \( \lambda_2 \).
 \end{choices}
 
 \vspace{3mm}\end{questions}

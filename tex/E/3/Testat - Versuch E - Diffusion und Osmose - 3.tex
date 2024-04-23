@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,56 @@ Testat - Versuch E - Diffusion und Osmose - 3
 
 \begin{questions}
 
-\question In einer Doppelkammer, auf deren einer Seite eine Konzentration von 25 \(\frac{mg}{l} \) und auf der anderen von 10 \(  \frac{mg}{l} \) herrscht  und die durch eine Membran der Dicke 100 \(\mu \)m geteilt ist, herrscht ein Diffusionsfluss von 4  \( \frac{mg}{min}\). Wie groß ist der Diffusionsfluss, wenn die Konzentration auf der einen Seite von 10 \(  \frac{mg}{l} \)   auf 20 \(  \frac{mg}{l} \)  erhöht wird?
+\question Wenn in zwei Kammern, die durch eine Membran von 1 cm Dicke getrennt sind, auf einer Seite eine Salzkonzentration von 30 \( \frac{g}{cm^3} \) und auf der anderen Seite eine Konzentration von 300 \( \frac{mg}{cm^3} \) herrscht, wie groß ist dann der Konzentrationsgradient über der Membran?
 
 \begin{choices}
-	\choice \( \frac{4}{5} \) \( \frac{mg}{min} \)
-	\choice \( \frac{5}{4} \) \( \frac{mg}{min} \)
-	\choice \( \frac{2}{3} \) \( \frac{mg}{min} \)
-	\choice \( \frac{5}{4} \) \( \frac{mg}{min} \)
-	\choice \( \frac{3}{4} \) \( \frac{mg}{min} \)
+	\choice 30,3 \( \frac{g}{cm^4} \)
+	\choice 33 \( \frac{g}{cm^4} \)
+	\choice 29,7 \( \frac{g}{cm^4} \)
+	\choice 27 \( \frac{g}{cm^4} \)
+	\choice 30 \( \frac{g}{cm^4} \)
 \end{choices}
 
-\vspace{3mm}\question Die Leitfähigkeit von 120 ml Salzlösung wird zu 9,0 \( \frac{\mu S}{cm} \) bestimmt. Welche Leitfähigkeit wird gemessen, nachdem 60 ml destilliertes Wasser hinzugefügt wurden?
+\vspace{3mm}\question Wo ist der Konzentrationsgradient der schwarzen Teilchen über die Membran (grau) am größten? 
+
+\includegraphics[width=0.5\textwidth]{../../../questions/E/images/Diffusion.png}
 
 \begin{choices}
-	\choice 12,0 \( \frac{\mu S}{cm} \)
-	\choice 4,5 \( \frac{\mu S}{cm} \)
-	\choice 0,0 \( \frac{\mu S}{cm} \)
-	\choice 6,0 \( \frac{\mu S}{cm} \)
-	\choice 3,0 \( \frac{\mu S}{cm} \)
+	\choice d)
+	\choice e)
+	\choice c)
+	\choice b)
+	\choice a)
 \end{choices}
 
-\vspace{3mm}\question Wie ändert sich der Diffusionsfluss \( J \) durch eine kreisförmige Membran, wenn deren Durchmesser sich verdreifacht?
+\vspace{3mm}\question Wie ändert sich der Diffusionsfluss \( J \) durch eine kreisförmige Membran, wenn deren Durchmesser sich verdoppelt?
 
 \begin{choices}
-	\choice \( J \) verneunfacht sich.
-	\choice \( J \) nimmt um ein Drittel ab.
-	\choice \( J \) verdreifacht sich.
-	\choice \( J \) verdoppelt sich.
+	\choice \( J \) vervierfacht sich.
 	\choice \( J \) ist unabhängig vom Durchmesser der Membran.
+	\choice \( J \) quadriert sich.
+	\choice \( J \) verdoppelt sich.
+	\choice \( J \) halbiert sich.
 \end{choices}
 
-\vspace{3mm}\question Von welchen Parametern ist der Diffusionsfluss durch ein Membran abhängig?A) TemperaturB) Fläche der MembranC) Größe der diffundierenden TeilchenD) Konzentration auf der Seite der höheren Konzentration
+\vspace{3mm}\question Der Diffusionsfluss beschreibt ...
 
 \begin{choices}
-	\choice A und B
-	\choice A, B und D
-	\choice alle Antworten
-	\choice B und C
-	\choice keine Antwort
+	\choice die transportierte Stoffmenge pro Fläche.
+	\choice die transportierte Stoffmenge pro Volumen.
+	\choice die transportierte Stoffmenge.
+	\choice die transportierte Stoffmenge pro Zeit und Fläche.
+	\choice die transportierte Stoffmenge pro Zeit.
 \end{choices}
 
-\vspace{3mm}\question Was ist die SI-Einheit des Diffusionskoeffizienten?
+\vspace{3mm}\question Welche Einheit ist zur Angabe von Konzentrationen NICHT möglich?
 
 \begin{choices}
-	\choice \( \frac{s}{m^2} \)
-	\choice \( \frac{kg}{s} \)
-	\choice \( \frac{kg \cdot m^2}{s} \)
-	\choice \( \frac{m^2}{s} \)
-	\choice \( \frac{m^3}{s} \)
+	\choice \( \frac{kmol}{l} \)
+	\choice \( mol \cdot cm^{-3} \)
+	\choice \( kmol \cdot m^{-3} \)
+	\choice \( \frac{mol}{m^3} \)
+	\choice \( l \cdot mol^{-1} \)
 \end{choices}
 
 \vspace{3mm}\end{questions}

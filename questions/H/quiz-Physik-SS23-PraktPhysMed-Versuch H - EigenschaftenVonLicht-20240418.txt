@@ -1,0 +1,21 @@
+Die Energie eines Photons ...
+A) ist proportional zum Verhältnis aus Wellenlänge und Frequenz.
+B) hängt nicht von der Frequenz des Lichtes ab.
+C) ist gleich dem Produkt aus Lichtgeschwindigkeit und Frequenz.
+D) ist größer, wenn das Licht eine höhere Frequenz hat.
+E) ist proportional zur Wellenlänge des Lichtes.
+ANSWER: D
+Die Lichtgeschwindigkeit im Vakuum betr¨agt ungefähr:
+A) \( 3 \cdot10^5 m/s \)
+B) \( 3 \cdot10^5 m/h \)
+C) \( 3 \cdot10^5 km/h \)
+D) \( 3 \cdot10^5 km/s \)
+E) Keine der Aussagen trifft zu.
+ANSWER: D
+Elektromagnetische Wellen im Bereich des sichtbaren Lichts ...
+A) haben eine höhere Frequenz als IR-Strahlung.
+B) haben eine kürzere Wellenlänge als Röntgenstrahlung.
+C) haben eine längere Wellenlänge als Radiowellen.
+D) haben eine höhere Frequenz als UV-Strahlung.
+E) haben die gleiche Wellenlänge wie Gamma-Strahlung.
+ANSWER: A

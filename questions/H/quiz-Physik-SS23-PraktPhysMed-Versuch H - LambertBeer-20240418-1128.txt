@@ -1,0 +1,21 @@
+Das Lambert-Beersche Gesetz besagt, dass die Transmission ...
+A) nicht von der Zusammensetzung der Lösung abhängt.
+B) mit zunehmender Konzentration der Lösung größer wird.
+C) exponentiell mit steigender Konzentration der Lösung abnimmt.
+D) linear von der Schichtdicke d abhängt.
+E) unabhängig von der Wellenlänge des Lichtes ist.
+ANSWER: C
+Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
+A) unabhängig von der Wellenlänge des Lichtes ist.
+B) mit zunehmender Konzentration der Lösung kleiner wird.
+C) exponentiell mit steigender Konzentration der Lösung abnimmt.
+D) linear von der Schichtdicke d abhängt.
+E) nicht von der Zusammensetzung der Lösung abhängt.
+ANSWER: D
+Bei einer photometrischen Konzentrationsbestimmung in der Labormedizin wird die Lichtschwächung gemessen, die von der zu untersuchenden Substanz in der Messküvette bewirkt wird. Die in der Flüssigkeit eingestrahlte Lichtintensität ist \( I_0 \) und die die Flüssigkeit verlassende Lichtintensität ist \(I\). Der Leer-Wert sei vernachlässigbar oder bereits abgezogen. Welche Proportionalität zur Substanz besteht für verdünnte Lösungen und monochromatische Messstrahlung typischerweisenach Lambert Beer?
+A) \( ln ( \frac{I_0}{I}) \sim c \)
+B) \( e^{( \frac{I_0}{I})} \sim c \)
+C) \( 1/( \frac{I_0}{I}) \sim c \)
+D) \( \frac{I_0}{I} \sim c \)
+E) \( \frac{I}{I_0} \sim c \)
+ANSWER: A

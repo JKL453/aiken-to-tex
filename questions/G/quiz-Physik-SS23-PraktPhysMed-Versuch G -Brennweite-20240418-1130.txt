@@ -1,0 +1,21 @@
+Die Brennweite einer Linse sei f = 20 cm, Gegenstandsweite sei g = 40 cm, der Schirm befindet sich in der Entfernung b = 20 cm. Wie groß muss die Brechkraft einer Korrekturlinse sein, um eine scharfe Abbildung auf dem Schirm zu erhalten? (Der Abstand zwischen den Linsen ist zu vernachlässigen)
+A) −2,5dpt
+B) +2,5 dpt
+C) +5dpt
+D) −5dpt
+E) +10/2m^−1
+ANSWER: B
+Eine Sammellinse von 20 cm Brennweite soll mit einer Linse kombiniert werden, um eine Gesamtbrennweite von 40 cm zu erhalten. (Beide Linsen seien ’dünn’ und einander so nah, dass der Abstand vernachlässigbar klein ist.)Welche Linse ist erforderlich?
+A) Sammellinse mit 60 cm Brennweite
+B) Zerstreuungslinse mit -20 cm Brennweite 
+C)  Sammellinse mit 40 cm Brennweite
+D) Sammellinse mit 20 cm Brennweite
+E) Zerstreuungslinse mit -40 cm Brennweite
+ANSWER: E
+Die Brennweite einer Linse sei f = 20 cm, Gegenstandsweite sei g = 40 cm, der Schirm befindet sich in der Entfernung b = 20 cm. Wie groß muss die Gesamtbrechkraft des Systems dieser Linse und einer Korrekturlinse sein, um eine scharfe Abbildung auf dem Schirm zu erhalten? (Der Abstand zwischen den Linsen ist zu vernachlässigen).
+A) -5 dpt
+B) -7,5 dpt
+C) +7,5dpt
+D) +2,5 dpt
+E) -2,5 dpt
+ANSWER: C

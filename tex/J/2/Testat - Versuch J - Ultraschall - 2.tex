@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,56 @@ Testat - Versuch J - Ultraschall - 2
 
 \begin{questions}
 
-\question Die Schallgeschwindigkeit...
+\question Wie groß ist die Wellenlänge des in der Graphik dargestellten Signals (in Luft)? 
+
+\includegraphics[width=0.5\textwidth]{../../../questions/J/images/SchallSinus1.png}
 
 \begin{choices}
-	\choice ist bei zwei Schallwellen mit unterschiedlicher Frequenz gleich, wenn sie sich im gleichen Medium ausbreiten.
-	\choice ist vom Übertragenden Medium unabhängig
-	\choice ist im Vakuum größer als in Luft, da die Luftmoleküle die Schallübertragung dämpfen
-	\choice Keine Antwort ist richtig.
-	\choice hängt von der Amplitude der Schallwelle ab
+	\choice 3430 m
+	\choice 25 s
+	\choice 0,1 Hz
+	\choice 6,86 m
+	\choice 10 s
 \end{choices}
 
 \vspace{3mm}\question Mit welcher Gleichung lässt sich der zurückgelegte Weg \( s \) eines Schallsignals beschreiben?( \( t \) Laufzeit des Signals, \( c \) Schallgeschwindigkeit )
 
 \begin{choices}
-	\choice \( s=c \cdot t \)
-	\choice \( s=c^2 \cdot t \)
-	\choice \( s = c \cdot t^2 \)
 	\choice \( s= \frac{t}{c} \)
+	\choice \( s=c^2 \cdot t \)
+	\choice \( s=c \cdot t \)
+	\choice \( s = c \cdot t^2 \)
 	\choice \( s= \frac{c}{t} \)
 \end{choices}
 
-\vspace{3mm}\question Welche Wellenlänge \( \lambda \) hat eine Schallwelle in Luft mit der Frequenz \( f = \mathrm{1~Hz} \) ?
+\vspace{3mm}\question Mit einem Echolot soll eine Position eines Gegenstandes in einem Medium mit einer Schallgeschwindigkeit von 100 m/s überprüft werden. Dazu wird durch eine Sonde eine Schallwelle ausgestrahlt, die an dem Gegenstand reflektiert wird und daraufhin wieder an der Sonde eintrifft. Wie lange müsste es bei einer Entfernung zwischen Gegenstand und Sonde von 25~m dauern, bis die Schallwelle nach ihrer Aussendung wieder an der Sonde eintrifft?
 
 \begin{choices}
-	\choice 34,3 m
-	\choice 3,43 m
-	\choice 1 m
-	\choice 100 m
-	\choice 343 m
+	\choice etwa 2 s
+	\choice etwa 4 s
+	\choice etwa 1 s
+	\choice etwa 0,5 s
+	\choice etwa 0,25 s
 \end{choices}
 
-\vspace{3mm}\question Die vom Menschen empfundene Lautstärke einer Schallwelle
+\vspace{3mm}\question Bei welcher Frequenz \( f \) befindet sich bei einem gesunden menschlichen Durchschnittsohr die untere Hörschwelle?
 
 \begin{choices}
-	\choice wird in Dezibel (dB) angegeben.
-	\choice ist antiproportional zur Schallintensität.
-	\choice hängt nicht von der Frequenz der Schallwelle ab.
-	\choice Die verbleibenden Alle Aussagen sind falsch.
-	\choice ist proportional zur Schallintensität.
+	\choice 16 kHz
+	\choice 20 Hz
+	\choice 2000 Hz
+	\choice 20 kHz
+	\choice 16 MHz
 \end{choices}
 
-\vspace{3mm}\question Welche Aussage zur Resonanzfrequenz ist richtig?
+\vspace{3mm}\question Welche Aussagen zur Ultraschalldiagnostik sind zutreffend?	* Ultraschallgeräte funktionieren nach dem Prinzip der Laufzeitbestimmung  von Ultraschallpulsen.	* Trifft ein Ultraschallpuls auf eine Grenzfläche zwischen zwei Medien, so wird der Schall daran immer vollständig reflektiert. So entsteht ein Echo, das für die Laufzeitbestimmung genutzt werden kann.	* In einem Ultraschallgerät sind meistens zwei verschiedene Geräte, ein Ultraschall-Sender und ein Ultraschall-Empfänger, eingebaut.	* Die Reflexion von Ultraschallwellen an Gewebegrenzflächen kann mit dem aus der Optik bekannten Reflexionsgesetz beschrieben werden.
 
 \begin{choices}
-	\choice Wird ein schwingendes System mit seiner Resonanzfrequenz angeregt, erhöht sich die Amplitude der Schwingung sehr stark.
-	\choice Die Resonanzfreuqenz ist die Frequenz, die entsteht, wenn zwei Schallwellen sich phasengleich überlagern.
-	\choice keine Antwort ist richtig.
-	\choice Die Resonanzfrequenz ist die Frequenz, bei der eine Totalrefexion erfolgt.
-	\choice Trifft eine Schallwelle auf einen Körper (z.B. eine Wand), so entsteht durch Reflexion ein Echo. Mit Resonanzfrequenz bezeichnet man die Frequenz des Echos.
+	\choice Nur 2 ist falsch.
+	\choice Nur 4 ist falsch.
+	\choice Nur 1 und 4 sind richtig.
+	\choice Nur 1 und 2 sind richtig.
+	\choice Nur 2 und 3 sind richtig.
 \end{choices}
 
 \vspace{3mm}\end{questions}

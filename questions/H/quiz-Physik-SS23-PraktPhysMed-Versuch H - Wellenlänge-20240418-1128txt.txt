@@ -1,0 +1,28 @@
+Wenn \( \lambda_1 > \lambda_2 \), dann gilt für  \( \lambda_1 \)
+A) Höhere Frequenz, gleiche Energie wie \( \lambda_2 \).
+B) Kleinere Frequenz, kleinere Energie als \( \lambda_2 \).
+C) Kleinere Frequenz, höhere Energie als \( \lambda_2 \).
+D) Höhere Frequenz, kleinere Energie als \( \lambda_2 \).
+E) Kleinere Frequenz, gleiche Energie wie \( \lambda_2 \).
+ANSWER: D
+Welcher der nachfolgenden Wellenlängenbereiche entspricht am ehesten dem Bereich des sichtbarenLichtes?
+A) \( 350 - 750 nm \)
+B) \( 200 - 500 nm \)
+C) \( 500 - 900 nm \)
+D) \( 300 - 600 nm \)
+E) \( 100 - 400 nm \)
+ANSWER: A
+Ordnen Sie die folgenden elektromagnetischen Wellen aufsteigend nach ihrer Wellenlänge:weiche Röntgenstrahlung: \( \lambda_1 \)Gammastrahlung: \( \lambda_2 \)sichtbares Licht: \( \lambda_3 \)Radiokurzwellen: \( \lambda_4 \)
+A) \( \lambda_4 < \lambda_1 < \lambda_2 < \lambda_3 \)
+B) \( \lambda_4 < \lambda_3 < \lambda_1 < \lambda_2 \)
+C) \( \lambda_2 < \lambda_1 < \lambda_3 < \lambda_4 \)
+D) \( \lambda_3 < \lambda_4 < \lambda_2 < \lambda_1 \)
+E) \( \lambda_1 < \lambda_2 < \lambda_3 < \lambda_4 \)
+ANSWER: C
+Ordnen Sie die folgenden elektromagnetischen Wellen aufsteigend nach ihrer Frequenz:weiche Röntgenstrahlung: \( \nu_1 \)Gammastrahlung: \( \nu_2 \)sichtbares Licht: \( \nu_3 \)Radiokurzwellen: \( \nu_4 \)
+A) \( \nu_2 \) < \( \nu_1 \) < \( \nu_3 \) < \( \nu_4 \)
+B) \( \nu_4 \) < \( \nu_3 \) < \( \nu_1 \) < \( \nu_2 \)
+C) \( \nu_1 \) < \( \nu_2 \) < \( \nu_3 \) < \( \nu_4 \)
+D) \( \nu_3 \) < \( \nu_4 \) < \( \nu_2 \) < \( \nu_1 \)
+E) \( \nu_4 \) < \( \nu_1 \) < \( \nu_2 \) < \( \nu_3 \)
+ANSWER: B

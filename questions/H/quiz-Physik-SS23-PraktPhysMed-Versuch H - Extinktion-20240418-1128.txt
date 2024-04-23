@@ -1,0 +1,35 @@
+Eine Farbstofflösung absorbiert 90 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+A) 2
+B) 1
+C) 99
+D) 0,01
+E) 0,99
+ANSWER: B
+Eine Farbstoffl¨osung absorbiert 99 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+A) 0,01
+B) 99
+C) 2
+D) 0,99
+E) 1
+ANSWER: C
+Farbstofflösung transmittiert 1 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+A) 0,99
+B) 1
+C) 2
+D) 99
+E) 0,01
+ANSWER: C
+Die dekadische Extinktion E ist (ohne Reflexion) der Zehnerlogarithmus des Quotienten aus eingestrahlter und durchgelassener Intensität. Wie viel Prozent des einfallenden monochromatischen Lichtes wird von einer Lösung mit \(E = 1\) absorbiert?
+A) 100 %
+B) 10 %
+C) 1 %
+D) 5 %
+E) 90 %
+ANSWER: E
+Eine Farbstofflösung transmittiert 10 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+A) 0,01
+B) 1
+C) 99
+D) 2
+E) 0,99
+ANSWER: B

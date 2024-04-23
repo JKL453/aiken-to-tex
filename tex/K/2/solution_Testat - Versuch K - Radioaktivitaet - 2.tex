@@ -1,6 +1,11 @@
 \documentclass[11pt]{exam}
 
+\usepackage{amsmath}
+\usepackage{graphicx}
 \usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
 \geometry{
 a4paper,
 total={185mm,257mm},
@@ -25,54 +30,56 @@ Testat - Versuch K - Radioaktivitaet - 2
 
 \begin{questions}
 
-\question Die Aktivität einer radioaktiven Substanz wird in Becquerel angegeben. Wie setzt sich diese Größe aus den  SI-Basiseinheiten zusammen?
+\question Wie lautet die Einheit der physikalischen Größe Aktivität?
 
 \begin{choices}
-	\choice \( \text{s}^{-1} \) (correct)
-	\choice s
-	\choice \( \frac{\text{J}}{\text{s}} \)
-	\choice \( \text{kg}\cdot\frac{\text{m}}{\text{s}^2} \)
-	\choice \( \frac{\text{J}}{\text{kg}} \)
+	\choice Gray (Gy)
+	\choice Meter (m)
+	\choice Joule (J)
+	\choice Becquerel (Bq) (correct)
+	\choice Zeit (t)
 \end{choices}
 
-\vspace{3mm}\question Welche Aussage ist richtig?
+\vspace{3mm}\question Im unten dargestellten Diagramm ist die gemessene Zählrate eines radioaktiven Präparates in Abhängigkeit von der Zeit dargestellt. Wie groß ist die Halbwertszeit?
+
+\includegraphics[width=0.5\textwidth]{../../../questions/K/images/zerfall2.png}
 
 \begin{choices}
-	\choice Beim \( \beta \)-Zerfall wandelt sich ein Neutron in ein Proton um. (correct)
-	\choice Bei der \( \gamma \)-Umwandlung entsteht ein Elektron als freies Teilchen.
-	\choice Beim \( \alpha^- \)-Zerfall entsteht ein negativ geladener Heliumkern als freies Teilchen.
-	\choice Bei der \( \gamma \)-Umwandlung wird die freiwerdende Energie auf zwei Teilchen, ein Elektron und ein Antineutrino, aufgeteilt.
-	\choice Beim \( \beta \)-Zerfall entsteht kein freies Teilchen sondern eine elektromagnetische Welle, die Betawelle.
+	\choice etwa 5 min
+	\choice etwa 6 min
+	\choice etwa 8 min
+	\choice etwa 7 min (correct)
+	\choice etwa 11 min
 \end{choices}
 
-\vspace{3mm}\question Die Halbwertsdicke eines Absorbers beträgt für radioaktives Barium-137m ca. 5 mm. Wieviel Prozent der Strahlung ist nach 12 mm übrig?
+\vspace{3mm}\question Mit einem Geiger-Müller-Zählrohr wird die Zählrate in einem Abstand von 1 m zur Quelle gemessen. Um welchen Faktor sinkt die Zählrate, wenn der Abstand auf 2,5 m vergrößert wird? (Vernachlässigen Sie die Absorption durch Luft.)
 
 \begin{choices}
-	\choice 38 %
-	\choice 40 %
-	\choice 19 % (correct)
-	\choice 12,5 %
-	\choice 25 %
+	\choice 2,5
+	\choice 4,25
+	\choice 6,25 (correct)
+	\choice Wenn die Luftabsorpion vernachlässigt wird, sinkt die Zählrate nicht.
+	\choice 2
 \end{choices}
 
-\vspace{3mm}\question Welche Aussage ist richtig?
+\vspace{3mm}\question Welche Zuordnung von Zerfallsart und frei werdendem Teilchen ist falsch?
 
 \begin{choices}
-	\choice Beim \( \beta \)-Zerfall wandelt sich ein Neutron in ein Proton um. (correct)
-	\choice Beim \( \beta \)-Zerfall entsteht kein freies Teilchen sondern eine elektromagnetische Welle, die Betawelle.
-	\choice Bei der \( \gamma \)-Umwandlung wird die freiwerdende Energie auf zwei Teilchen, ein Elektron und ein Antineutrino, aufgeteilt.
-	\choice Beim \( \alpha^- \)-Zerfall entsteht ein negativ geladener Heliumkern als freies Teilchen.
-	\choice Bei der \( \gamma \)-Umwandlung entsteht ein Elektron als freies Teilchen.
+	\choice \( \beta^- \)-Zerfall - Elektron
+	\choice \( \alpha \)-Zerfall - Heliumkern
+	\choice \( \gamma \)-Umwandlung - elektromagnetische Welle
+	\choice \( \beta^- \)-Zerfall - Antineutrino
+	\choice \( \beta^+ \)-Zerfall - Proton (correct)
 \end{choices}
 
-\vspace{3mm}\question Das Schwächungsgesetz beschreibt den Zusammenhang zwischen Intensität der Strahlung und Absorberdicke. Der Zusammenhang zwischen diesen Größen ist ...
+\vspace{3mm}\question Das Zerfallsgesetz beschreibt den Zusammenhang zwischen der Aktivität einer radioaktiven Quelle und der Zeit. Der Zusammenhang zwischen diesen Größen ist ...
 
 \begin{choices}
-	\choice quadratisch.
-	\choice exponentiell. (correct)
-	\choice proportional.
 	\choice antiproportional.
+	\choice quadratisch.
 	\choice keine der Antworten ist richtig.
+	\choice proportional.
+	\choice exponentiell. (correct)
 \end{choices}
 
 \vspace{3mm}\end{questions}

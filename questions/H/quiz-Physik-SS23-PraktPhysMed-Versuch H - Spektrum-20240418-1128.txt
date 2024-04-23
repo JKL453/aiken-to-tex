@@ -1,0 +1,21 @@
+Unter einem Spektrum versteht man die Intensität der elektromagnetischen Welle als Funktion ihrer
+A) Frequenz, Extinktion oder Wellenlänge.
+B) Energie, Konzentration oder Wellenlänge.
+C) Extinktion, Konzentration oder Wellenlänge.
+D) Frequenz, Energie oder Wellenlänge.
+E) Frequenz, Energie oder Konzentration.
+ANSWER: D
+Wie heißt der an die kurzwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
+A) Röntgenstrahlung
+B) Langwelle
+C) Ultraviolett
+D) Infrarot
+E) Mikrowelle
+ANSWER: C
+Wie heißt der an die langwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
+A) Langwelle
+B) Röntgenstrahlung
+C) Ultraviolett
+D) Mikrowelle
+E) Infrarot
+ANSWER: E

@@ -1,0 +1,35 @@
+Im unten dargestellten Diagramm ist die gemessene Zählrate eines radioaktiven Präparates in Abhängigkeit von der Zeit dargestellt. Wie groß ist die Halbwertszeit?[zerfall1]
+A) etwa 8 min
+B) etwa 5 min
+C) etwa 11 min
+D) etwa 6 min
+E) Der Graph entspricht nicht der Realität, da es sich hier um eine Gerade handeln müsste.
+ANSWER: B
+Im unten dargestellten Diagramm ist die gemessene Zählrate eines radioaktiven Präparates in Abhängigkeit von der Zeit dargestellt. Nach wievielen Minuten beträgt die gemessene Zählrate nur noch 3000 Impulse pro Minute?[zerfall1]
+A) etwa 9 min
+B) etwa 12 min
+C) etwa 11 min
+D) etwa 10 min
+E) Der Graph entspricht nicht der Realität, da es sich hier um eine Gerade handeln müsste.
+ANSWER: C
+Im unten dargestellten Diagramm ist die gemessene Zählrate eines radioaktiven Präparates in Abhängigkeit von der Zeit dargestellt. Wie groß ist die Halbwertszeit?[zerfall2]
+A) etwa 8 min
+B) etwa 5 min
+C) etwa 11 min
+D) etwa 7 min
+E) etwa 6 min
+ANSWER: D
+Im unten dargestellten Diagramm ist die gemessene Zählrate eines gamma-Strahles in Abhängigkeit von der Absorberdicke dargestellt. Wie groß ist die Halbwertsdicke?[absorption1]
+A) etwa 2 mm
+B) etwa 3 mm
+C) etwa 5 mm
+D) etwa 4 mm
+E) etwa 2,5 mm
+ANSWER: B
+Im unten dargestellten Diagramm ist die Aktivität eines radioaktiven Präparates in Abhängigkeit von der Zeit dargestellt. Wie groß ist die Halbwertszeit? [zerfallsgesetz]
+A) etwa 1 min
+B) etwa 5 min
+C) etwa 10 min
+D) etwa 20 min
+E) etwa 100 min
+ANSWER: C
