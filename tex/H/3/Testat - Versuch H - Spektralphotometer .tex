@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch H - Spektralphotometer 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
+
+\begin{choices}
+	\choice unabhängig von der Wellenlänge des Lichtes ist.
+	\choice mit zunehmender Konzentration der Lösung kleiner wird.
+	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
+	\choice linear von der Schichtdicke d abhängt.
+	\choice nicht von der Zusammensetzung der Lösung abhängt.
+\end{choices}
+
+\vspace{3mm}\question Elektromagnetische Wellen im Bereich des sichtbaren Lichts ...
+
+\begin{choices}
+	\choice haben eine längere Wellenlänge als Radiowellen.
+	\choice haben eine höhere Frequenz als IR-Strahlung.
+	\choice haben eine höhere Frequenz als UV-Strahlung.
+	\choice haben eine kürzere Wellenlänge als Röntgenstrahlung.
+	\choice haben die gleiche Wellenlänge wie Gamma-Strahlung.
+\end{choices}
+
+\vspace{3mm}\question Eine Farbstoffl¨osung absorbiert 99 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+
+\begin{choices}
+	\choice 2
+	\choice 0,01
+	\choice 1
+	\choice 0,99
+	\choice 99
+\end{choices}
+
+\vspace{3mm}\question Wie heißt der an die kurzwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
+
+\begin{choices}
+	\choice Mikrowelle
+	\choice Ultraviolett
+	\choice Infrarot
+	\choice Langwelle
+	\choice Röntgenstrahlung
+\end{choices}
+
+\vspace{3mm}\question Wenn \( \lambda_1 > \lambda_2 \), dann gilt für  \( \lambda_1 \)
+
+\begin{choices}
+	\choice Kleinere Frequenz, gleiche Energie wie \( \lambda_2 \).
+	\choice Höhere Frequenz, gleiche Energie wie \( \lambda_2 \).
+	\choice Höhere Frequenz, kleinere Energie als \( \lambda_2 \).
+	\choice Kleinere Frequenz, kleinere Energie als \( \lambda_2 \).
+	\choice Kleinere Frequenz, höhere Energie als \( \lambda_2 \).
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

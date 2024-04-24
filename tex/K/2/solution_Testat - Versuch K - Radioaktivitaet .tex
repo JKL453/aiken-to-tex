@@ -1,0 +1,87 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch K - Radioaktivitaet 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Wie lautet die Einheit der physikalischen Größe Aktivität?
+
+\begin{choices}
+	\choice Becquerel (Bq) (correct)
+	\choice Zeit (t)
+	\choice Joule (J)
+	\choice Gray (Gy)
+	\choice Meter (m)
+\end{choices}
+
+\vspace{3mm}\question Im unten dargestellten Diagramm ist die gemessene Zählrate eines radioaktiven Präparates in Abhängigkeit von der Zeit dargestellt. Wie groß ist die Halbwertszeit?
+
+\includegraphics[width=0.4\textwidth]{images/zerfall1.png}
+
+\begin{choices}
+	\choice etwa 11 min
+	\choice etwa 6 min
+	\choice Der Graph entspricht nicht der Realität, da es sich hier um eine Gerade handeln müsste.
+	\choice etwa 8 min
+	\choice etwa 5 min (correct)
+\end{choices}
+
+\vspace{3mm}\question Mit einem Geiger-Müller-Zählrohr wird die Zählrate in einem Abstand von 1 m zur Quelle gemessen. Um welchen Faktor sinkt die Zählrate, wenn der Abstand auf 2,5 m vergrößert wird? (Vernachlässigen Sie die Absorption durch Luft.)
+
+\begin{choices}
+	\choice 6,25 (correct)
+	\choice 2
+	\choice 4,25
+	\choice 2,5
+	\choice Wenn die Luftabsorpion vernachlässigt wird, sinkt die Zählrate nicht.
+\end{choices}
+
+\vspace{3mm}\question Welche Aussage ist falsch?
+
+\begin{choices}
+	\choice Beim Comptoneffekt entsteht Sekundärstrahlung.
+	\choice Stoßionisation kommt z.B. in einem Geiger-Müller-Zählrohr vor.
+	\choice Elektronen verlieren ihre Energie nur durch Stoßionisationen. (correct)
+	\choice Gammastrahlung kann z.B. durch den Photoeffekt absorbiert werden.
+	\choice  Beim Photoeffekt entsteht Sekundärstrahlung.
+\end{choices}
+
+\vspace{3mm}\question Das Schwächungsgesetz beschreibt den Zusammenhang zwischen Intensität der Strahlung und Absorberdicke. Der Zusammenhang zwischen diesen Größen ist ...
+
+\begin{choices}
+	\choice quadratisch.
+	\choice proportional.
+	\choice exponentiell. (correct)
+	\choice keine der Antworten ist richtig.
+	\choice antiproportional.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

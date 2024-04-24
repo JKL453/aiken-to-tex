@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch G - Geometrische Optik 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Eine Sammellinse hat eine Brechkraft von 3 dpt. In welcher Entfernung entsteht das Bild, wenn der Gegenstand 100 cm entfernt ist?
+
+\begin{choices}
+	\choice 100 cm
+	\choice 75 cm
+	\choice 150cm
+	\choice 33,3 cm
+	\choice 50 cm
+\end{choices}
+
+\vspace{3mm}\question Wo befindet sich das Bild bei einem kurzsichtigen Auge und wie kann dies korrigiert werden?
+
+\begin{choices}
+	\choice Das Bild befindet sich hinter der Netzhaut, dies wird durch eine Sammellinse korrigiert.
+	\choice Das Bild befindet sich vor der Netzhaut, dies wird durch eine Zerstreuungslinse korrigiert.
+	\choice Das Bild ist auf der Netzhaut horizontal verschoben, dies wird durch eine Zylinderlinse korrigiert.
+	\choice Das Bild befindet sich vor der Netzhaut, dies wird durch eine Sammellinse korrigiert.
+	\choice Das Bild befindet sich hinter der Netzhaut, dies wird durch eine Zerstreuungslinse korrigiert.
+\end{choices}
+
+\vspace{3mm}\question Wann wird ein paralleles Strahlenbündel gebrochen?
+
+\begin{choices}
+	\choice Wenn es unter senkrechtem Einfall auf eine gekrümmte Grenzfläche zweier transparenter Medien mitunterschiedlichem Brechungsindex trifft.
+	\choice Wenn es in Luft unter senkrechtem Einfall auf die plane Seite einer Plankonkavlinse trifft.
+	\choice Wenn es unter senkrechtem Einfall auf eine gekrümmte Grenzfläche zweier transparenter Medien mit gleichem Brechungsindex trifft.
+	\choice Wenn es unter senkrechtem Einfall auf eine ebene Grenzfläche zweier transparenter Medien trifft, in denen Licht eine unterschiedliche Ausbreitungsgeschwindigkeit hat.
+	\choice Wenn es unter nicht senkrechtem Einfall auf die Grenzfläche eines transparenten und eines nicht-transparenten Mediums trifft.
+\end{choices}
+
+\vspace{3mm}\question Wie lautet die Einheit der Brechkraft?
+
+\begin{choices}
+	\choice 1/m
+	\choice s
+	\choice N/m
+	\choice m
+	\choice einheitenlos
+\end{choices}
+
+\vspace{3mm}\question Die Brennweite einer Linse sei f = 20 cm, Gegenstandsweite sei g = 40 cm, der Schirm befindet sich in der Entfernung b = 20 cm. Wie groß muss die Brechkraft einer Korrekturlinse sein, um eine scharfe Abbildung auf dem Schirm zu erhalten? (Der Abstand zwischen den Linsen ist zu vernachlässigen)
+
+\begin{choices}
+	\choice −5dpt
+	\choice +5dpt
+	\choice −2,5dpt
+	\choice +2,5 dpt
+	\choice +10/2m^−1
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

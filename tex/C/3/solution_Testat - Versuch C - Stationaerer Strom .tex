@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch C - Stationaerer Strom 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Wie groß ist der Gesamtwiderstand einer Parallelschaltung von drei Widerständen mit \(R_1=\mathrm{\frac{1}{2}\,\Omega}\), \(R_2=\mathrm{\frac{1}{3}\,\Omega}\) und \(R_3=\mathrm{\frac{1}{4}\,\Omega}\)?
+
+\begin{choices}
+	\choice \(\mathrm{\frac{13}{12}\,\Omega}\)
+	\choice \(\mathrm{\frac{1}{24}\,\Omega}\)
+	\choice \(\mathrm{\frac{12}{13}\,\Omega}\)
+	\choice \(\mathrm{9\,\Omega}\)
+	\choice \(\mathrm{\frac{1}{9}\,\Omega}\) (correct)
+\end{choices}
+
+\vspace{3mm}\question Ein unbekannter Widerstand \(\mathrm{R}\) wird mit einem \(\mathrm{4\,\Omega}\)-Widerstand parallel geschaltet. Der Gesamtwiderstand der Parallelschaltung beträgt dann \(\mathrm{\frac{4}{3}\,\Omega}\). Wie groß ist \(\mathrm{R}\)?
+
+\begin{choices}
+	\choice \(\mathrm{5\,\Omega}\)
+	\choice \(\mathrm{4\,\Omega}\)
+	\choice \(\mathrm{1\,\Omega}\)
+	\choice \(\mathrm{3\,\Omega}\)
+	\choice \(\mathrm{2\,\Omega}\) (correct)
+\end{choices}
+
+\vspace{3mm}\question An einen Widerstand \(\mathrm{R=1000\,\Omega}\) wird eine Spannung \(\mathrm{U=100\,mV}\) angelegt. Welche Stromstärke fließt dann durch den Widerstand?
+
+\begin{choices}
+	\choice \(\mathrm{1\,kA}\)
+	\choice \(\mathrm{100\,A}\)
+	\choice \(\mathrm{100\,\mu A}\) (correct)
+	\choice \(\mathrm{10\,A}\)
+	\choice \(\mathrm{10\,mA}\)
+\end{choices}
+
+\vspace{3mm}\question Wie groß ist der Gesamtwiderstand einer Reihenschaltung von drei Widerständen mit \(R_1=\mathrm{\frac{1}{2}\,\Omega}\), \(R_2=\mathrm{\frac{1}{3}\,\Omega}\) und \(R_3=\mathrm{\frac{1}{4}\,\Omega}\)?
+
+\begin{choices}
+	\choice \(\mathrm{\frac{13}{12}\,\Omega}\) (correct)
+	\choice \(\mathrm{9\,\Omega}\)
+	\choice \(\mathrm{\frac{1}{24}\,\Omega}\)
+	\choice \(\mathrm{\frac{12}{13}\,\Omega}\)
+	\choice \(\mathrm{\frac{1}{9}\,\Omega}\)
+\end{choices}
+
+\vspace{3mm}\question Welche der folgenden Aussagen ist falsch?
+
+\begin{choices}
+	\choice Wenn die Spannung an einem ohmschen Widerstand verdoppelt wird, bleibt der Widerstand unverändert.
+	\choice Von zwei unterschiedlich langen, aber gleich dicken Drähten aus demselben Material hat der kürzere Draht immer den größeren Widerstand. (correct)
+	\choice Wenn zwei unterschiedliche Widerstände parallel geschaltet werden, liegt an beiden die gleiche Spannung an.
+	\choice Der Innenwiderstand eines Voltmeters sollte möglichst hoch sein.
+	\choice Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann fließt durch beide die gleiche Stromstärke.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

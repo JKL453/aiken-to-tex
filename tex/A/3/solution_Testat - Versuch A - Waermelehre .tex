@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch A - Waermelehre 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Eine spezifische Verdampfungswärme von 2 J g\(^{-1}\) bedeutet, dass
+
+\begin{choices}
+	\choice eine Wärmezufuhr von 2 J zu einer Verdampfung von 2 g Flüssigkeit führt.
+	\choice bei einer Temperaturerhöhung um 10 K genau 5 g Flüssigkeit verdampfen.
+	\choice eine Wärmezufuhr von 1 J zu einer Verdampfung von 1 g Flüssigkeit führt.
+	\choice eine Wärmezufuhr von 5 J zu einer Verdampfung von 5 g Flüssigkeit führt.
+	\choice eine Wärmezufuhr von 1 J zu einer Verdampfung von 0,5 g Flüssigkeit führt. (correct)
+\end{choices}
+
+\vspace{3mm}\question Wenn warme und kalte Flüssigkeiten in gleichen Mengen gemischt werden, dann hat das Gemisch
+
+\begin{choices}
+	\choice die Wärmeenergie der kalten Flüssigkeit.
+	\choice eine Wärmeenergie kleiner als die Wärmeenergie der kalten Flüssigkeit.
+	\choice die Wärmeenergie der warmen Flüssigkeit.
+	\choice eine Wärmeenergie, die gleich der Summe der Wärmeenergien der beiden Flüssigkeiten ist. (correct)
+	\choice eine Wärmeenergie kleiner als die Wärmeenergie der warmen Flüssigkeit.
+\end{choices}
+
+\vspace{3mm}\question Wenn warme und kalte Flüssigkeiten in gleichen Mengen gemischt werden, dann hat das Gemisch
+
+\begin{choices}
+	\choice eine Temperatur, die der Differenz der Temperaturen der warmen und der kalten Flüssigkeit entspricht.
+	\choice die Temperatur der warmen Flüssigkeit.
+	\choice eine Temperatur, die zwischen beiden Temperaturen liegt. (correct)
+	\choice eine Temperatur, die der Summe der Temperaturen der warmen und der kalten Flüssigkeit entspricht.
+	\choice die Temperatur der kalten Flüssigkeit.
+\end{choices}
+
+\vspace{3mm}\question Wasser hat eine spezifische Wärmekapazität von (sehr grob angenähert) 4 kJ kg\(^{-1}\) K\(^{-1}\) und eine spezifische Verdampfungswärme von etwa 2 MJ kg\(^{-1}\).Zwei Kilogramm Wasser wird bei einer Temperatur von 99\(^\circ\)C eine Wärmemenge von 2 MJ zugeführt. Als Ergebnis erhält man
+
+\begin{choices}
+	\choice etwa 2 kg heißes Wasser und etwa 1 kg Wasserdampf.
+	\choice etwa 2 kg heißes Wasser und etwa 2 kg Wasserdampf.
+	\choice etwa 2 kg heißes Wasser.
+	\choice etwa 2 kg Wasserdampf.
+	\choice etwa 1 kg heißes Wasser und etwa 1 kg Wasserdampf. (correct)
+\end{choices}
+
+\vspace{3mm}\question Welcher Zusammenhang besteht zwischen Wärme, Wärmekapazität und Temperatur? (\(m\): Masse)
+
+\begin{choices}
+	\choice \(Q = m c\)
+	\choice \(Q = m c^2\)
+	\choice \(\Delta Q = m \, (\Delta T)^2\)
+	\choice \(\Delta Q = m c \Delta T\) (correct)
+	\choice \(\Delta Q = m \Delta T\)
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

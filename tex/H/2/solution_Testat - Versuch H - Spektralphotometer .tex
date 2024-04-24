@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch H - Spektralphotometer 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Das Lambert-Beersche Gesetz besagt, dass die Transmission ...
+
+\begin{choices}
+	\choice mit zunehmender Konzentration der Lösung größer wird.
+	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice exponentiell mit steigender Konzentration der Lösung abnimmt. (correct)
+	\choice unabhängig von der Wellenlänge des Lichtes ist.
+	\choice linear von der Schichtdicke d abhängt.
+\end{choices}
+
+\vspace{3mm}\question Die Lichtgeschwindigkeit im Vakuum betr¨agt ungefähr:
+
+\begin{choices}
+	\choice \( 3 \cdot10^5 km/h \)
+	\choice \( 3 \cdot10^5 m/h \)
+	\choice \( 3 \cdot10^5 m/s \)
+	\choice \( 3 \cdot10^5 km/s \) (correct)
+	\choice Keine der Aussagen trifft zu.
+\end{choices}
+
+\vspace{3mm}\question Farbstofflösung transmittiert 1 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+
+\begin{choices}
+	\choice 99
+	\choice 0,99
+	\choice 0,01
+	\choice 2 (correct)
+	\choice 1
+\end{choices}
+
+\vspace{3mm}\question Wie heißt der an die kurzwellige Grenze des sichtbaren Spektrums grenzende Spektralbereich?
+
+\begin{choices}
+	\choice Mikrowelle
+	\choice Langwelle
+	\choice Röntgenstrahlung
+	\choice Infrarot
+	\choice Ultraviolett (correct)
+\end{choices}
+
+\vspace{3mm}\question Welcher der nachfolgenden Wellenlängenbereiche entspricht am ehesten dem Bereich des sichtbarenLichtes?
+
+\begin{choices}
+	\choice \( 200 - 500 nm \)
+	\choice \( 350 - 750 nm \) (correct)
+	\choice \( 500 - 900 nm \)
+	\choice \( 300 - 600 nm \)
+	\choice \( 100 - 400 nm \)
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

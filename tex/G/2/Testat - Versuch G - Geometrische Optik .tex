@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch G - Geometrische Optik 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Eine Sammellinse hat eine Brennweite von 30 cm. In welcher Entfernung entsteht das Bild, wenn der Gegenstand 90 cm entfernt ist?
+
+\begin{choices}
+	\choice 90 cm
+	\choice 75 cm
+	\choice 30 cm
+	\choice 45cm
+	\choice 22,5 cm
+\end{choices}
+
+\vspace{3mm}\question Ein in Luft normalsichtiger kann unter Wasser ohne Hilfsmittel (z.B. Taucherbrille) nicht scharf sehen. Die Ursache hierfür ist:
+
+\begin{choices}
+	\choice Zunahme der Cornea-Krümmung durch den Wasserdruck.
+	\choice Abnahme der Cornea-Krümmung durch den Wasser-Druck.
+	\choice Verminderung der Lichtbrechung an der Cornea-Vorderfläche.
+	\choice Trübung der Cornea durch eindringendes Wasser.
+	\choice Verstärkung der Lichtstreuung an der Cornea-Vorderseite.
+\end{choices}
+
+\vspace{3mm}\question Wie sind die Lichtgeschwindigkeit c, die Vakuum-Lichtgeschwindigkeit c0 und der Brechungsindex n miteinander verknüpft?
+
+\begin{choices}
+	\choice 1 /C0−1/C =n
+	\choice c0 − c = n
+	\choice n·c0 =c
+	\choice n·c=c0
+	\choice 1 /C0−1/C =1/n
+\end{choices}
+
+\vspace{3mm}\question Wie lautet die Einheit der Brechkraft?
+
+\begin{choices}
+	\choice 1/m
+	\choice N/m
+	\choice einheitenlos
+	\choice m
+	\choice s
+\end{choices}
+
+\vspace{3mm}\question Die Brennweite einer Linse sei f = 20 cm, Gegenstandsweite sei g = 40 cm, der Schirm befindet sich in der Entfernung b = 20 cm. Wie groß muss die Gesamtbrechkraft des Systems dieser Linse und einer Korrekturlinse sein, um eine scharfe Abbildung auf dem Schirm zu erhalten? (Der Abstand zwischen den Linsen ist zu vernachlässigen).
+
+\begin{choices}
+	\choice +7,5dpt
+	\choice -2,5 dpt
+	\choice -7,5 dpt
+	\choice -5 dpt
+	\choice +2,5 dpt
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

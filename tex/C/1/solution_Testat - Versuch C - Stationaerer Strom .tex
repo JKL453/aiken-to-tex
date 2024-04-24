@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch C - Stationaerer Strom 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Wie groß ist der Gesamtwiderstand einer Parallelschaltung von drei Widerständen mit \(R_1=\mathrm{\frac{1}{2}\,\Omega}\), \(R_2=\mathrm{\frac{1}{4}\,\Omega}\) und \(R_3=\mathrm{\frac{1}{8}\,\Omega}\)?
+
+\begin{choices}
+	\choice \(\mathrm{\frac{1}{14}\,\Omega}\) (correct)
+	\choice \(\mathrm{\frac{7}{8}\,\Omega}\)
+	\choice \(\mathrm{\frac{8}{7}\,\Omega}\)
+	\choice \(\mathrm{\frac{1}{64}\,\Omega}\)
+	\choice \(\mathrm{14\,\Omega}\)
+\end{choices}
+
+\vspace{3mm}\question Ein unbekannter Widerstand \(\mathrm{R}\) wird mit einem \(\mathrm{3\,\Omega}\)-Widerstand parallel geschaltet. Der Gesamtwiderstand der Parallelschaltung beträgt dann \(\mathrm{\frac{3}{4}\,\Omega}\). Wie groß ist \(\mathrm{R}\)?
+
+\begin{choices}
+	\choice \(\mathrm{3\,\Omega}\)
+	\choice \(\mathrm{1\,\Omega}\) (correct)
+	\choice \(\mathrm{4\,\Omega}\)
+	\choice \(\mathrm{5\,\Omega}\)
+	\choice \(\mathrm{2\,\Omega}\)
+\end{choices}
+
+\vspace{3mm}\question An einem Widerstand liegt eine Spannung von \(\mathrm{100\,kV}\) an. Es fließt ein Strom von \(\mathrm{100\,mA}\). Wie groß ist der Widerstand?
+
+\begin{choices}
+	\choice \(\mathrm{1\,\Omega}\)
+	\choice \(\mathrm{1\,M\Omega}\) (correct)
+	\choice \(\mathrm{1000\,M\Omega}\)
+	\choice \(\mathrm{100\,M\Omega}\)
+	\choice \(\mathrm{100\,\Omega}\)
+\end{choices}
+
+\vspace{3mm}\question Wie groß ist der Gesamtwiderstand einer Reihenschaltung von drei Widerständen mit \(R_1=\mathrm{\frac{1}{2}\,\Omega}\), \(R_2=\mathrm{\frac{1}{4}\,\Omega}\) und \(R_3=\mathrm{\frac{1}{8}\,\Omega}\)?
+
+\begin{choices}
+	\choice \(\mathrm{\frac{7}{8}\,\Omega}\) (correct)
+	\choice \(\mathrm{14\,\Omega}\)
+	\choice \(\mathrm{\frac{1}{64}\,\Omega}\)
+	\choice \(\mathrm{\frac{8}{7}\,\Omega}\)
+	\choice \(\mathrm{\frac{1}{14}\,\Omega}\)
+\end{choices}
+
+\vspace{3mm}\question Welche der folgenden Aussagen ist falsch?
+
+\begin{choices}
+	\choice Wenn zwei unterschiedliche Widerstände parallel geschaltet werden, dann fließt durch den größeren Widerstand der kleinere Strom.
+	\choice Der Gesamtwiderstand einer Reihenschaltung von zwei identischen Widerständen ist doppelt so groß wie der Gesamtwiderstand einer Parallelschaltung aus denselben Widerständen. (correct)
+	\choice Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann fließt durch beide die gleiche Stromstärke.
+	\choice Wenn zwei unterschiedliche Widerstände parallel geschaltet werden, liegt an beiden die gleiche Spannung an.
+	\choice Wenn zwei unterschiedliche Widerstände in Reihe geschaltet werden, dann liegt am größeren Widerstand die größere Spannung an.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch H - Spektralphotometer 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Das Lambert-Beersche Gesetz besagt, dass die Extinktion ...
+
+\begin{choices}
+	\choice linear von der Schichtdicke d abhängt.
+	\choice mit zunehmender Konzentration der Lösung kleiner wird.
+	\choice unabhängig von der Wellenlänge des Lichtes ist.
+	\choice nicht von der Zusammensetzung der Lösung abhängt.
+	\choice exponentiell mit steigender Konzentration der Lösung abnimmt.
+\end{choices}
+
+\vspace{3mm}\question Die Lichtgeschwindigkeit im Vakuum betr¨agt ungefähr:
+
+\begin{choices}
+	\choice \( 3 \cdot10^5 km/h \)
+	\choice Keine der Aussagen trifft zu.
+	\choice \( 3 \cdot10^5 m/h \)
+	\choice \( 3 \cdot10^5 m/s \)
+	\choice \( 3 \cdot10^5 km/s \)
+\end{choices}
+
+\vspace{3mm}\question Eine Farbstofflösung transmittiert 10 % des auftreffenden monochromatischen Lichts. Die Extinktion \( E=lg \frac{I_0}{I} \) dieser Lösung beträgt dann
+
+\begin{choices}
+	\choice 0,01
+	\choice 1
+	\choice 99
+	\choice 2
+	\choice 0,99
+\end{choices}
+
+\vspace{3mm}\question Unter einem Spektrum versteht man die Intensität der elektromagnetischen Welle als Funktion ihrer
+
+\begin{choices}
+	\choice Energie, Konzentration oder Wellenlänge.
+	\choice Frequenz, Energie oder Konzentration.
+	\choice Frequenz, Energie oder Wellenlänge.
+	\choice Frequenz, Extinktion oder Wellenlänge.
+	\choice Extinktion, Konzentration oder Wellenlänge.
+\end{choices}
+
+\vspace{3mm}\question Wenn \( \lambda_1 > \lambda_2 \), dann gilt für  \( \lambda_1 \)
+
+\begin{choices}
+	\choice Kleinere Frequenz, gleiche Energie wie \( \lambda_2 \).
+	\choice Kleinere Frequenz, höhere Energie als \( \lambda_2 \).
+	\choice Höhere Frequenz, kleinere Energie als \( \lambda_2 \).
+	\choice Höhere Frequenz, gleiche Energie wie \( \lambda_2 \).
+	\choice Kleinere Frequenz, kleinere Energie als \( \lambda_2 \).
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}

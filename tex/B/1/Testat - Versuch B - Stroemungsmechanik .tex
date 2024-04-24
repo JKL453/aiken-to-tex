@@ -1,0 +1,85 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch B - Stroemungsmechanik 
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+\question Nach dem Gesetz von Hagen und Poiseuille für zylindrische Rohre
+
+\begin{choices}
+	\choice ist der Volumenstrom bei Verdopplung von Länge und Querschnittsfläche konstant.
+	\choice hat die Viskosität keinen Einfluss auf den Volumenstrom.
+	\choice lässt sich der Strömungswiderstand berechnen.
+	\choice sind alle Strömungen turbulent.
+	\choice wächst der Volumenstrom mit dem Kehrwert der Druckdifferenz.
+\end{choices}
+
+\vspace{3mm}\question Wie groß ist die Fläche eines Stempels, wenn eine Kraft von 20 N einen Druck von 100 Pa ausübt?
+
+\begin{choices}
+	\choice 0,5 qm
+	\choice 0,2 qm
+	\choice 200 qm
+	\choice 5 qm
+	\choice 2000 qm
+\end{choices}
+
+\vspace{3mm}\question Wenn der Durchmesser eines Rohres halbiert wird, dann
+
+\begin{choices}
+	\choice wird auch die Länge geviertelt.
+	\choice verdoppelt sich der Radius.
+	\choice wird der Durchmesser auch geviertelt.
+	\choice bleibt der Durchmesser unverändert.
+	\choice wird der Radius halbiert.
+\end{choices}
+
+\vspace{3mm}\question Wie verhält sich der Strömungswiderstand \(R\) eines Rohres zum Leitwert \(G\)?
+
+\begin{choices}
+	\choice Der Leitwert ist die Differenz aus Druck und Strömungswiderstand.
+	\choice Der Leitwert ist der Kehrwert des Strömungswiderstandes
+	\choice Der Leitwert ist gleich dem Quadrat des Stömungswiderstands.
+	\choice Zwischen beiden Grenzen besteht kein Zusammenhang.
+	\choice Der Strömungswiderstand ist gleich dem Leitwert.
+\end{choices}
+
+\vspace{3mm}\question Bei konstantem Blutdruck hängt die Blutmenge, die pro Minute durch ein Gefäß fließt,
+
+\begin{choices}
+	\choice besonders empfindlich von einer Änderung der Kreiszahl \(\pi\) ab.
+	\choice besonders empfindlich von einer Änderung des Gefäßradius ab.
+	\choice besonders empfindlich von einer Änderung der Zähflüssigkeit des Blutes ab.
+	\choice besonders empfindlich von einer Änderung der Länge des Blutgefäß es ab.
+	\choice besonders empfindlich von einer Änderung der Viskosität des Blutes ab.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}
