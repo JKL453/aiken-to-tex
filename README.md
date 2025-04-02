@@ -31,7 +31,8 @@ Gib fünf Antwortmöglichkeiten (A–E) und markiere die richtige Antwort.
 Formatiere die Ausgabe im Aiken-Format.
 Formatiere Einheiten, Formeln etc. in TeX. 
 Die Aufgaben sollen ohne Verwendung eines Taschenrechners lösbar sein. 
-Verwende eine Klammer statt Punkt bei den Antwortmöglichkeiten, Beispiel: A) Antworttext.
+Verwende eine Klammer statt Punkt bei den Antwortmöglichkeiten, 
+Beispiel: A) Antworttext.
 ```
 
 Zusätzlich zum Prompt kann auch der entsprechende Abschnitt des Skripts hochgeladen werden. Dann sollte im Prompt zusätzlich erwähnt werden, dass die Fragen auf dem Skript basieren sollen.
