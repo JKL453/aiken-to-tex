@@ -25,8 +25,13 @@ Die Fragen können selbst oder mit Hilfe von ChatGPT erstellt werden. Dabei ist 
 Verwende z. B. folgenden Prompt:
 
 ```
-Erstelle eine Multiple-Choice-Frage zum Thema "Lichtbrechung bei Übergang zwischen Medien" für ein Physik-Antestat für Medizinstudierende. Gib fünf Antwortmöglichkeiten (A–E) und markiere die richtige Antwort. Formatiere die Ausgabe im Aiken-Format.
-Formatiere Einheiten, Formeln etc. in TeX. Die Aufgaben sollen ohne Verwendung eines Taschenrechners lösbar sein. Verwende eine Klammer statt Punkt bei den Antwortmöglichkeiten, Beispiel: A) Antworttext.
+Erstelle eine Multiple-Choice-Frage zum Thema "Lichtbrechung bei Übergang zwischen Medien" 
+für ein Physik-Antestat für Medizinstudierende. 
+Gib fünf Antwortmöglichkeiten (A–E) und markiere die richtige Antwort. 
+Formatiere die Ausgabe im Aiken-Format.
+Formatiere Einheiten, Formeln etc. in TeX. 
+Die Aufgaben sollen ohne Verwendung eines Taschenrechners lösbar sein. 
+Verwende eine Klammer statt Punkt bei den Antwortmöglichkeiten, Beispiel: A) Antworttext.
 ```
 
 Zusätzlich zum Prompt kann auch der entsprechende Abschnitt des Skripts hochgeladen werden. Dann sollte im Prompt zusätzlich erwähnt werden, dass die Fragen auf dem Skript basieren sollen.
@@ -34,7 +39,8 @@ Zusätzlich zum Prompt kann auch der entsprechende Abschnitt des Skripts hochgel
 ### Beispielausgabe (korrektes Aiken-Format):
 
 ```
-Welche Aussage beschreibt korrekt, warum ein Lichtstrahl beim Übergang von Luft ($ n = 1,0 $) in Hornhautgewebe ($ n \approx 1,38 $) seine Richtung ändert?
+Welche Aussage beschreibt korrekt, warum ein Lichtstrahl beim Übergang 
+von Luft ($ n = 1,0 $) in Hornhautgewebe ($ n \approx 1,38 $) seine Richtung ändert?
 
 A) Weil sich die Frequenz des Lichts beim Übergang erhöht.  
 B) Weil die Lichtgeschwindigkeit im dichteren Medium zunimmt.  
