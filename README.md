@@ -25,8 +25,8 @@ Die Fragen können selbst oder mit Hilfe von ChatGPT erstellt werden. Dabei ist 
 Verwende z. B. folgenden Prompt:
 
 ```
-Erstelle eine Multiple-Choice-Frage zum Thema "Lichtbrechung bei Übergang zwischen Medien" 
-für ein Physik-Antestat für Medizinstudierende. 
+Erstelle eine Multiple-Choice-Frage zum Thema "Lichtbrechung bei Übergang 
+zwischen Medien" für ein Physik-Antestat für Medizinstudierende. 
 Gib fünf Antwortmöglichkeiten (A–E) und markiere die richtige Antwort. 
 Formatiere die Ausgabe im Aiken-Format.
 Formatiere Einheiten, Formeln etc. in TeX. 
