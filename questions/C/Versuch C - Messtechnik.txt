@@ -1,0 +1,48 @@
+Warum hat ein Amperemeter einen sehr kleinen Innenwiderstand?
+A) Damit es mehr Strom messen kann
+B) Damit es den Stromkreis möglichst wenig beeinflusst
+C) Damit es auch Spannung messen kann
+D) Damit es auch als Widerstand funktioniert
+ANSWER: B
+Warum hat ein Voltmeter einen sehr großen Innenwiderstand?
+A) Damit es mehr Spannung messen kann
+B) Damit es den Stromkreis möglichst wenig beeinflusst
+C) Damit es auch Strom messen kann
+D) Damit es auch als Widerstand funktioniert
+ANSWER: B
+Wozu dient ein Amperemeter?
+A) Zum Messen der elektrischen Spannung in $V$
+B) Zum Erhöhen des Stroms
+C) Zum Messen der Stromstärke in $A$
+D) Zum Messen des Widerstands
+ANSWER: C
+Wozu dient ein Voltmeter?
+A) Zum Messen der elektrischen Spannung in $V$
+B) Zum Erhöhen des Stroms
+C) Zum Messen der Stromstärke in $A$
+D) Zum Messen des Widerstands
+ANSWER: A
+Was passiert, wenn man ein Voltmeter fälschlicherweise in Reihe zum Widerstand schaltet?
+A) Es misst korrekt
+B) Es überhitzt sofort
+C) Es verhält sich wie ein Kurzschluss
+D) Es lässt keinen Strom durch und blockiert den Stromkreis
+ANSWER: D
+Was passiert, wenn man ein Amperemeter fälschlicherweise parallel zu einem Widerstand schaltet?
+A) Es misst korrekt
+B) Es überhitzt sofort
+C) Es verhält sich wie ein Kurzschluss
+D) Es lässt keinen Strom durch und blockiert den Stromkreis
+ANSWER: C
+Wie wird ein Voltmeter korrekt angeschlossen?
+A) In Reihe zur Spannungsquelle
+B) In Reihe zum Widerstand
+C) Parallel zur Spannungsquelle oder zum Widerstand
+D) Direkt hinter dem Amperemeter
+ANSWER: C
+Wie wird ein Amperemeter korrekt in einen Stromkreis eingebaut?
+A) Parallel zur Spannungsquelle
+B) In Reihe zum Widerstand
+C) Parallel zum Widerstand
+D) Neben dem Widerstand, ohne Kontakt
+ANSWER: B

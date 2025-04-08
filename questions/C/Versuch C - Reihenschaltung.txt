@@ -1,0 +1,56 @@
+Wie groß ist der Gesamtwiderstand einer Reihenschaltung von drei Widerständen mit \(R_1=\mathrm{\frac{1}{3}\,\Omega}\), \(R_2=\mathrm{\frac{1}{4}\,\Omega}\) und \(R_3=\mathrm{\frac{1}{5}\,\Omega}\)?
+A) \(\mathrm{\frac{47}{60}\,\Omega}\)
+B) \(\mathrm{12\,\Omega}\)
+C) \(\mathrm{\frac{60}{47}\,\Omega}\)
+D) \(\mathrm{\frac{1}{12}\,\Omega}\)
+E) \(\mathrm{\frac{1}{24}\,\Omega}\)
+ANSWER: A
+Wie groß ist der Gesamtwiderstand einer Reihenschaltung von drei Widerständen mit \(R_1=\mathrm{\frac{1}{2}\,\Omega}\), \(R_2=\mathrm{\frac{1}{4}\,\Omega}\) und \(R_3=\mathrm{\frac{1}{8}\,\Omega}\)?
+A) \(\mathrm{\frac{7}{8}\,\Omega}\)
+B) \(\mathrm{14\,\Omega}\)
+C) \(\mathrm{\frac{8}{7}\,\Omega}\)
+D) \(\mathrm{\frac{1}{14}\,\Omega}\)
+E) \(\mathrm{\frac{1}{64}\,\Omega}\)
+ANSWER: A
+Wie groß ist der Gesamtwiderstand einer Reihenschaltung von drei Widerständen mit \(R_1=\mathrm{\frac{1}{2}\,\Omega}\), \(R_2=\mathrm{\frac{1}{3}\,\Omega}\) und \(R_3=\mathrm{\frac{1}{4}\,\Omega}\)?
+A) \(\mathrm{\frac{13}{12}\,\Omega}\)
+B) \(\mathrm{9\,\Omega}\)
+C) \(\mathrm{\frac{12}{13}\,\Omega}\)
+D) \(\mathrm{\frac{1}{9}\,\Omega}\)
+E) \(\mathrm{\frac{1}{24}\,\Omega}\)
+ANSWER: A
+Zwei Widerstände mit $R_1 = 2.2\,k\Omega$ und $R_2 = 3.3\,k\Omega$ sind in Reihe geschaltet. Wie groß ist der Gesamtwiderstand $R_{\text{ges}}$?
+A) $4.7\,k\Omega$
+B) $5.5\,k\Omega$
+C) $6.8\,k\Omega$
+D) $3.3\,k\Omega$
+E) $2.2\,k\Omega$
+ANSWER: B
+Zwei Widerstände $R_1 = 1.5\,\Omega$ und $R_2 = 4.7\,\Omega$ sind in Reihe geschaltet. Was ergibt sich für den Gesamtwiderstand?
+A) $5.6\,\Omega$
+B) $6.2\,\Omega$
+C) $4.7\,\Omega$
+D) $3.3\,\Omega$
+E) $1.5\,\Omega$
+ANSWER: B
+Gegeben sind zwei in Reihe geschaltete Widerstände: $R_1 = 6.8\,M\Omega$ und $R_2 = 3.3\,M\Omega$. Wie groß ist $R_{\text{ges}}$?
+A) $9.1\,M\Omega$
+B) $10.1\,M\Omega$
+C) $12.0\,M\Omega$
+D) $6.8\,M\Omega$
+E) $3.3\,M\Omega$
+ANSWER: B
+Ein Stromkreis enthält zwei in Reihe geschaltete Widerstände: $R_1 = 5.6\,k\Omega$, $R_2 = 1.5\,k\Omega$. Was ergibt sich für $R_{\text{ges}}$?
+A) $6.8\,k\Omega$
+B) $7.1\,k\Omega$
+C) $5.6\,k\Omega$
+D) $1.5\,k\Omega$
+E) $4.7\,k\Omega$
+ANSWER: B
+Zwei Widerstände mit $R_1 = 3.9\,\Omega$ und $R_2 = 2.7\,\Omega$ sind in Reihe geschaltet. Wie groß ist der Gesamtwiderstand?
+A) $6.6\,\Omega$
+B) $5.6\,\Omega$
+C) $3.3\,\Omega$
+D) $2.7\,\Omega$
+E) $6.8\,\Omega$
+ANSWER: A

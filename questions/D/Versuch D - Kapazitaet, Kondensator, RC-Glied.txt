@@ -1,0 +1,65 @@
+In welcher Einheit wird die Kapazität gemessen?
+A) $C$ (Coulomb)
+B) $V$ (Volt)
+C) $F$ (Farad)
+D) $A$ (Ampere)
+ANSWER: C
+Was gibt die elektrische Kapazität an?
+A) Die Stromstärke in $A$
+B) Die Fähigkeit eines Körpers, elektrische Ladung zu speichern
+C) Die Geschwindigkeit der Elektronen
+D) Die Größe des elektrischen Widerstands
+ANSWER: B
+Was gibt die Zeitkonstante bei einem RC-Glied an?
+A) Die Zeit, bei der beim Entladen die Spannung $U_C$ den 1/e-fachen Wert der maximalen Spannung $U_0$ erreicht hat.
+B) Die Zeit, die der Widerstand benötigt, um sich zu entladen
+C) Die Zeit, die der Kondensator benötigt, um vollständig zu entladen
+D) Die maximale Spannung, die der Kondensator aufnehmen kann
+ANSWER: A
+Was versteht man unter einer RC-Schaltung?
+A) Eine Schaltung aus einem Widerstand ($R$) und einem Kondensator ($C$), die in Reihe oder parallel geschaltet sind
+B) Eine Schaltung aus einer Spannungsquelle und einem Widerstand
+C) Eine Schaltung, die nur aus einem Widerstand besteht
+E) Eine Schaltung mit nur einem Kondensator, ohne Widerstand
+ANSWER: A
+Welcher Funktion folgt das Laden und Entladen eines Kondensators?
+A) Lineare Funktion
+B) Exponentielle Funktion
+C) Sinusfunktion
+D) Logarithmische Funktion
+ANSWER: B
+Welcher der folgenden Kurvenverläufe gibt die Entladekurve eines Kondensators über einen konstanten Widerstand qualitativ richtig wieder? [Kondensator-Q-t]
+A) a
+B) b
+C) c
+D) d
+E) e
+ANSWER: B
+Welcher der folgenden Kurvenverläufe gibt die Ladekurve eines Kondensators, der mit einer konstanten Spannung geladen wird, qualitativ richtig wieder? [Kondensator-Q-t]
+A) a
+B) b
+C) c
+D) d
+E) e
+ANSWER: A
+Welcher der folgenden Kurvenverläufe gibt die Ladekurve eines Kondensators, der mit einem konstanten Strom geladen wird, qualitativ richtig wieder? [Kondensator-Q-t]
+A) a
+B) b
+C) c
+D) d
+E) e
+ANSWER: C
+Welcher der folgenden Kurvenverläufe gibt den Zusammenhang zwischen der angelegten Spannung und der Kapazität eines Kondensators qualitativ richtig wieder? [Kondensator-C-U]
+A) a
+B) b
+C) c
+D) d
+E) e
+ANSWER: D
+Welcher der folgenden Kurvenverläufe gibt den Zusammenhang zwischen der angelegten Spannung und der gespeicherten Ladung eines Kondensators qualitativ richtig wieder? [Kondensator-Q-U]
+A) a
+B) b
+C) c
+D) d
+E) e
+ANSWER: C

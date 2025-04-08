@@ -1,0 +1,58 @@
+Was ist die Funktion des "Triggers" bei einem digitalen Oszilloskop?
+A) Es misst die Frequenz des Signals
+B) Es stellt sicher, dass das Signal stabil und wiederholbar angezeigt wird
+C) Es erhöht die Amplitude des Signals
+D) Es speichert das Signal im Speicher des Oszilloskops
+ANSWER: B
+Was misst ein digitales Oszilloskop?
+A) Die Temperatur von elektrischen Bauteilen
+B) Die Spannung und Zeitabhängigkeit von elektrischen Signalen
+C) Den Widerstand eines Stromkreises
+E) Die Kapazität von Kondensatoren
+ANSWER: B
+Was versteht man unter einem "DIV" bei einem Oszilloskop?
+B) Die horizontale und vertikale Skalierungseinheit (ein Kästchen des Gitters auf dem Bildschirm)
+C) Die Anzahl der Trigger-Einstellungen im Oszilloskop
+D) Die Funktion zur Speicherung von Wellenformen im Oszilloskop
+E) Die maximale Amplitude, die das Oszilloskop messen kann
+ANSWER: B
+Was ist der Unterschied zwischen Amplitude und Peak-to-Peak-Wert (Spitze-Spitze-Wert) bei einem Oszilloskop?
+A) Die Amplitude misst die maximale Spannung des Signals, während der Peak-to-Peak-Wert die Spannung zwischen dem höchsten und dem niedrigsten Punkt des Signals angibt.
+B) Die Amplitude gibt die durchschnittliche Spannung des Signals an, während der Peak-to-Peak-Wert die minimale Spannung angibt.
+C) Der Peak-to-Peak-Wert misst die Spannung vom Nulldurchgang bis zum höchsten Punkt des Signals, während die Amplitude die Gesamtspannung angibt.
+D) Die Amplitude ist der Abstand zwischen dem höchsten und dem niedrigsten Punkt eines Signals, während der Peak-to-Peak-Wert die maximale Spannung misst.
+ANSWER: A
+Das Signal auf einem Oszilloskop hat eine Periodendauer von 5 DIV bei einer horizontalen Skalierung von 200 µs/DIV. Wie groß ist die Frequenz des Signals?
+A) 1 kHz
+B) 1 ms
+C) 100 Hz
+D) 1 Hz
+ANSWER: A
+Welche Frequenz hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,5\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{1\,V/DIV}\). [Oszi1]
+A) \(\mathrm{2\,ms}\)
+B) \(\mathrm{250\,Hz}\)
+C) \(\mathrm{500\,Hz}\)
+D) \(\mathrm{4\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: C
+Welche Frequenz hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,2\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{5\,V/DIV}\). [Oszi2]
+A) \(\mathrm{2\,ms}\)
+B) \(\mathrm{2\,kHz}\)
+C) \(\mathrm{500\,Hz}\)
+D) \(\mathrm{1\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: E
+Welche Periodendauer hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,5\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{1\,V/DIV}\). [Oszi1]
+A) \(\mathrm{2\,ms}\)
+B) \(\mathrm{250\,Hz}\)
+C) \(\mathrm{0,5\,ms}\)
+D) \(\mathrm{4\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: A
+Welche Periodendauer hat das auf dem Oszilloskop gezeigte Signal? Der Skalierungsfaktor für die X-Achse beträgt \(\mathrm{0,5\,ms/DIV}\), der Skalierungsfaktor für die Y-Achse beträgt \(\mathrm{1\,V/DIV}\). [Oszi2]
+A) \(\mathrm{2,5\,ms}\)
+B) \(\mathrm{250\,Hz}\)
+C) \(\mathrm{0,5\,ms}\)
+D) \(\mathrm{5\,ms}\)
+E) \(\mathrm{1\,kHz}\)
+ANSWER: A

@@ -1,4 +1,34 @@
 Welche der folgenden Aussagen ist falsch?
+A) Die Kapazität eines Kondensator trägt die Einheit Farad ($F$).
+B) Die Einheit eines elektrischen Widerstands trägt die Einheit Ohm ($\Ohm$).
+C) Mit dem Oszilloskop können Kapazitäten gemessen werden.
+D) Ein Kästchen des Gitters auf dem Oszilloskop-Bildschirm wird als Division bezeichnet.
+ANSWER: C
+Welche der folgenden Aussagen ist falsch?
+A) Mit einem Oszilloskop können zeitabhänige Spannungen gemessen werden.
+B) Die Kapazität eines Kondensator trägt die Einheit Coulomb ($C$).
+C) Das Lade- und Entladeverhalten eines Kondensators folgt einer exponentiellen Funktion.
+D) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+ANSWER: B
+Welche der folgenden Aussagen ist falsch?
+A) Die Synchronisierung der Messwertaufnahmen beim Oszilloskop heißt Triggerung.
+B) Die Kapazität eines Kondensator trägt die Einheit Farad ($F$).
+C) Das Lade- und Entladeverhalten eines Kondensators folgt einer linearen Funktion.
+D) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+ANSWER: C
+Welche der folgenden Aussagen ist richtig?
+A) Je größer die Kapazität des Kondensators in einem RC-Glied ist, desto kleiner ist die Zeitkonstante.
+B) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
+C) Die Kapazität eines Kondensators trägt die Einheit Coulomb ($C$).
+D) Das Lade- und Entladeverhalten eines Kondensators folgt einer quadratischen Funktion.
+ANSWER: B
+Welche der folgenden Aussagen ist richtig?
+A) Mit einem Oszilloskop können zeitabhänige Spannungen gemessen werden.
+B) Die Kapazität eines Kondensator trägt die Einheit Coulomb ($C$).
+C) Das Lade- und Entladeverhalten eines Kondensators folgt einer linearen Funktion.
+D) Je größer der Widerstand in einem RC-Glied ist, desto kleiner ist die Zeitkonstante.
+ANSWER: A
+Welche der folgenden Aussagen ist falsch?
 A) Je größer die Kapazität des Kondensators in einem RC-Glied ist, desto kleiner ist die Zeitkonstante.
 B) Je größer der Widerstand in einem RC-Glied ist, desto größer ist die Zeitkonstante.
 C) Die Kapazität eines Kondensators trägt die Einheit Farad.

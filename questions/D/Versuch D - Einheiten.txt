@@ -1,0 +1,30 @@
+In welcher Einheit wird die Kapazität gemessen?
+A) Coulomb ($C$)
+B) Volt ($V$)
+C) Farad ($F$)
+D) Ampere ($A$)
+ANSWER: C
+In welcher Einheit wird der elektrische Widerstand angegeben?
+A) Volt ($V$)
+B) Watt ($W$)
+C) Ohm ($\Omega$)
+D) Farad ($F$)
+ANSWER: C
+Welche Einheit wird für die Frequenz eines Signals verwendet?
+A) Ohm ($\Omega$)
+B) Hertz ($Hz$)
+C) Farad ($F$)
+D) Sekunde ($s$)
+ANSWER: B
+Welche Einheit beschreibt die Periodendauer eines Signals?
+A) Watt ($W$)
+B) Sekunde ($s$)
+C) Ohm ($\Omega$)
+D) Ampere ($A$)
+ANSWER: B
+Welche Einheit wird verwendet, um die Größe der Spannung anzugeben?
+A) Ampere ($A$)
+B) Farad ($F$)
+C) Ohm ($\Omega$)
+D) Volt ($V$)
+ANSWER: D

@@ -1,0 +1,34 @@
+Welche Aussage ist NICHT korrekt?
+A) Der mittlere Fehler des Mittelwertes lässt sich durch die Erhöhung des Stichprobenumfangs verringern.
+B) Die Streuung einer Messreihe wird durch die Standardabweichung beschrieben.
+C) Die Standardabweichung ändert sich durch die Veränderung des Stichprobenumfangs systematisch.
+D) Bei Vorliegen einer Poisson-Statistik ist die Standardabweichung \( \sigma = \sqrt{\mu} \).
+E) Der Fehler einer Bestgeraden kann grafisch mit Hilfe von Grenzgeraden abgeschätzt werden.
+ANSWER: C
+Der mittlere Fehler des Mittelwertes …A) ... hängt nicht von der Anzahl der Messungen ab.B) ... wird mithilfe der Standardabweichung berechnet.C) ... hängt nicht von der Qualität des Messverfahrens ab.D) ... ist ein Maß für die Qualität der Messung.
+A) Alle Aussagen sind richtig.
+B) Aussagen A, B und C sind richtig.
+C) Aussagen B und D sind richtig.
+D) Nur Aussage D ist richtig.
+E) Aussagen A und B sind richtig.
+ANSWER: C
+Die Standardabweichung ...A) ... sagt aus, dass mit einer Wahrscheinlichkeit von 68% ein weiterer Messwert innerhalb der Fehlerbreite vom wahren Wert der Messgröße entfernt liegen wird.B) ... hängt von der Anzahl der Messungen ab.C) ... ist ein Maß für die Qualität eines Messverfahrens.D) ... kann durch Erhöhung der Anzahl an Einzelmessungen nicht systematisch verringert werden.
+A) Aussagen A, C und D sind richtig.
+B) Aussagen A, B und C sind richtig.
+C) Nur Aussage C ist richtig.
+D) Nur Aussage A ist richtig.
+E) Alle Aussagen sind richtig.
+ANSWER: A
+Welche ist KEINE Eigenschaft und KEIN Beispiel systematischer Messfehler?Systematische Messfehler…
+A) … können durch die Messapparatur verursacht werden.
+B) … sind reproduzierbar.
+C) … können durch eine falsche Kalibrierung des Messgerätes auftreten.
+D) … streuen in Betrag und Vorzeichen.
+ANSWER: D
+Welche ist KEINE Eigenschaft und KEIN Beispiel zufälliger Messfehler. Zufällige Messfehler …
+A) … unterliegen statistischen Schwankungen.
+B) … können durch sich ändernde Ableseeigenheiten/-winkel des Versuchsdurchführenden auftreten.
+C) … können durch Digitalisierungsrauschen auftreten.
+D) … treten spontan auf.
+E) … können nicht durch eine Vergrößerung des Stichprobenumfangs reduziert werden.
+ANSWER: E

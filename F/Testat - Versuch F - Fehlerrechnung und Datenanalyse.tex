@@ -1,0 +1,108 @@
+\documentclass[11pt]{exam}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{choices}{\par\nopagebreak\minipage{\linewidth}}
+\AfterEndEnvironment{choices}{\endminipage}
+\geometry{
+a4paper,
+total={185mm,257mm},
+left=10mm,
+top=25mm,
+bottom=10mm
+}
+
+\begin{document}
+\setlength{\voffset}{-0.5in}
+\setlength{\headsep}{5pt}
+
+\fbox{\fbox{\parbox{8cm}{\centering
+\vspace{2mm}
+Testat - Versuch F - Fehlerrechnung
+\vspace{2mm}
+}}}
+\hspace{2mm}
+\makebox[0.25\textwidth]{Name:\enspace\hrulefill} \hspace{5mm}
+\makebox[0.2\textwidth]{Datum:\enspace\hrulefill}
+\vspace{4mm}
+
+\begin{questions}
+
+
+% Question 1
+\question Welche Aussage ist NICHT korrekt? \\
+
+\begin{choices}
+	\choice Der mittlere Fehler des Mittelwertes lässt sich durch die Erhöhung des Stichprobenumfangs verringern.
+	\choice Die Streuung einer Messreihe wird durch die Standardabweichung beschrieben.
+	\choice Die Standardabweichung ändert sich durch die Veränderung des Stichprobenumfangs systematisch.
+	\choice Bei Vorliegen einer Poisson-Statistik ist die Standardabweichung \( \sigma = \sqrt{\mu} \).
+	\choice Der Fehler einer Bestgeraden kann grafisch mit Hilfe von Grenzgeraden abgeschätzt werden.
+\end{choices}
+
+% Question 2
+\vspace{12mm}\question Der mittlere Fehler des Mittelwertes \dots
+
+a) \dots hängt nicht von der Anzahl der Messungen ab. \\
+b) \dots wird mithilfe der Standardabweichung berechnet.\\
+c) \dots hängt nicht von der Qualität des Messverfahrens ab.\\
+d) \dots ist ein Maß für die Qualität der Messung.\\
+
+
+\begin{choices}
+	\choice Alle Aussagen sind richtig.
+	\choice Aussagen a, b und c sind richtig.
+	\choice Aussagen b und d sind richtig.
+	\choice Nur Aussage d ist richtig.
+	\choice Aussagen a und b sind richtig.
+\end{choices}
+
+% Question 3
+\vspace{12mm}\question Die Standardabweichung \dots 
+
+a) \dots sagt aus, dass mit einer Wahrscheinlichkeit von 68\% ein weiterer Messwert innerhalb der Fehlerbreite vom wahren Wert der Messgröße entfernt liegen wird. \\
+b) \dots hängt von der Anzahl der Messungen ab. \\
+c) \dots ist ein Maß für die Qualität eines Messverfahrens. \\
+d) \dots kann durch Erhöhung der Anzahl an Einzelmessungen nicht systematisch verringert werden.\\
+
+\begin{choices}
+	\choice Aussagen a, c und d sind richtig.
+	\choice Aussagen a, b und c sind richtig.
+	\choice Nur Aussage c ist richtig.
+	\choice Nur Aussage a ist richtig.
+	\choice Alle Aussagen sind richtig.
+\end{choices}
+
+
+
+\newpage
+
+% Question 4
+\vspace{12mm}\question Welche ist KEINE Eigenschaft und KEIN Beispiel systematischer Messfehler? \\
+Systematische Messfehler \dots \\
+
+\begin{choices}
+	\choice \dots können durch die Messapparatur verursacht werden.
+	\choice \dots sind reproduzierbar.
+	\choice \dots können durch eine falsche Kalibrierung des Messgerätes auftreten.
+	\choice \dots streuen in Betrag und Vorzeichen.
+\end{choices}
+
+
+% Question 5
+\vspace{12mm}\question Welche ist KEINE Eigenschaft und KEIN Beispiel zufälliger Messfehler? \\
+Zufällige Messfehler \dots \\
+
+\begin{choices}
+	\choice \dots unterliegen statistischen Schwankungen.
+	\choice \dots können durch sich ändernde Ableseeigenheiten/-winkel des Versuchsdurchführenden auftreten.
+	\choice \dots können durch Digitalisierungsrauschen auftreten.
+	\choice \dots treten spontan auf.
+	\choice \dots können nicht durch eine Vergrößerung des Stichprobenumfangs reduziert werden.
+\end{choices}
+
+\vspace{3mm}\end{questions}
+
+\end{document}
