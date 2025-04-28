@@ -19,3 +19,4 @@ C) \(\mathrm{\frac{8}{7}\,\Omega}\)
 D) \(\mathrm{\frac{1}{14}\,\Omega}\)
 E) \(\mathrm{\frac{1}{64}\,\Omega}\)
 ANSWER: D
+

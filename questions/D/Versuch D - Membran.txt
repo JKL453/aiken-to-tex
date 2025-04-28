@@ -2,17 +2,20 @@ Mit welchen zwei Bauelementen der Elektrotechnik, lässt sich eine zeitliche Än
 A) Widerstand und Kondensator
 B) Widerstand und Spule
 C) Spule und Kondensator
-D) Gar keine. Die Biologie ist zu komplex.
+D) Gar keine, denn die Biologie ist zu komplex
+E) Nur Widerstände
 ANSWER: A
 Wie verändert sich die Amplitude des elektrotonischen Potentials bei langgestreckten Zellen mit der Entfernung?
 A) Sie bleibt konstant über die gesamte Strecke
 B) Sie nimmt exponentiell mit der Entfernung zu
 C) Sie nimmt exponentiell mit der Entfernung ab
 D) Sie nimmt linear mit der Entfernung ab
+E) Sie nimmt quadratische mit der Entfernung zu
 ANSWER: C
 Was gibt die Membranlängskonstante $\lambda$ an?
 A) Die Zeit, die ein Aktionspotential benötigt, um sich entlang der Membran auszubreiten
 B) Die maximale Spannung, die eine Nervenzelle erreichen kann
-C) Die Entfernung vom Reizort, in der nur noch $1/e$ des ursprünglichen Reizpotentials vorhanden ist.
+C) Die Entfernung vom Reizort, in der nur noch $1/e$ des ursprünglichen Reizpotentials vorhanden ist
 D) Die Kapazität der Zellmembran
+E) Den elektrischen Wiederstand einer Zelle
 ANSWER: C

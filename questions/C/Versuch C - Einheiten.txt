@@ -34,38 +34,49 @@ D) \(\mathrm{10\,A}\)
 E) \(\mathrm{100\,A}\)
 ANSWER: B
 Welche Einheit hat der elektrische Widerstand?
-A) $A$ (Ampere)
-B) $V$ (Volt)
-C) $W$ (Watt)
-D) $\Omega$ (Ohm)
+A) Ampere ($A$)
+B) Volt ($V$)
+C) Watt ($W$)
+D) Ohm ($\Omega$)
+E) Meter ($m$)
 ANSWER: D
+
 Welche Einheit hat die elektrische Stromstärke?
-A) $V$ (Volt)
-B) $\Omega$ (Ohm)
-C) $A$ (Ampere)
-D) $N$ (Newton)
+A) Volt ($V$)
+D) Ohm ($\Omega$)
+C) Ampere ($A$)
+D) Newton ($N$)
+E) Meter ($m$)
 ANSWER: C
+
 In welcher Einheit wird die elektrische Spannung gemessen?
-A) $N$ (Newton)
-B) $V$ (Volt)
-C) $W$ (Watt)
+A) Newton ($N$)
+B) Volt ($V$)
+C) Watt ($W$)
 D) $C$ (Coulomb)
+E) Meter ($m$)
 ANSWER: B
+
 Welche Einheit hat die elektrische Leistung?
-A) $V$ (Volt)
-B) $W$ (Watt)
-C) $A$ (Ampere)
-D) $\Omega$ (Ohm)
+A) Volt ($V$)
+B) Watt ($W$)
+C) Ampere ($A$)
+D) Ohm ($\Omega$)
+E) Meter ($m$)
 ANSWER: B
+
 Welche Einheit hat der spezifische Widerstand (Resistivität) eines Leiters?
 A) $\Omega \cdot \text{m}$
 B) $\frac{W}{\text{m}}$
 C) $\frac{V}{A}$
-D) $\Omega$
+D) Ohm ($\Omega$)
+E) Meter ($m$)
 ANSWER: A
+
 Welche Einheit hat die elektrische Kraft (Coulomb-Kraft)?
-A) $N$ (Newton)
-B) $V$ (Volt)
-C) $A$ (Ampere)
+A) Newton ($N$)
+B) Volt ($V$)
+C) Ampere ($A$)
 D) $\Omega \cdot \text{m}$
+E) Meter ($m$)
 ANSWER: A
